@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-arc-large.png"></img> Arc
 
 *"A small close-range electric turret. Fires arcs of electricity at enemies."*
 

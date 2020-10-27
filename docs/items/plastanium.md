@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-plastanium.png"></img> Plastanium 
 
 
 *"A light, ductile material used in advanced aircraft and fragmentation ammunition."*  

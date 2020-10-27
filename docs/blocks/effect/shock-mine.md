@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-shock-mine-large.png"></img> Shock Mine
 
 *"Damages enemies stepping on the mine. Nearly invisible to the enemy."*
 

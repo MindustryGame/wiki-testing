@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-titanium.png"></img> Titanium 
 
 
 *"A rare super-light metal used extensively in liquid transportation, drills and aircraft."*  

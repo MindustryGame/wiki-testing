@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-spore-pod.png"></img> Spore Pod 
 
 
 *"A pod of synthetic spores, synthesized from atmospheric concentrations for industrial purposes. Used for conversion into oil, explosives and fuel."*  

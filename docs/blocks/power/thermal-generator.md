@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-thermal-generator-large.png"></img> Thermal Generator
 
 *"Generates power when placed in hot locations."*
 

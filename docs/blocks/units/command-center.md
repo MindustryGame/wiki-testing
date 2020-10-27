@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-command-center-large.png"></img> Command Center
 
 *"Unknown..."*
 

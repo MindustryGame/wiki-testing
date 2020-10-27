@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-battery-large.png"></img> Battery
 
 *"Stores power as a buffer in times of surplus energy. Outputs power in times of deficit."*
 

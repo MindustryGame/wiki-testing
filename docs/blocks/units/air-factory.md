@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-air-factory-large.png"></img> Air Factory
 
 *"Unknown..."*
 

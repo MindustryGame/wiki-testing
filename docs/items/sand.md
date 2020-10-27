@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-sand.png"></img> Sand 
 
 
 *"A common material that is used extensively in smelting, both in alloying and as a flux."*  

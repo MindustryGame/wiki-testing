@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-large-logic-display-large.png"></img> Large Logic Display
 
 *"Unknown..."*
 

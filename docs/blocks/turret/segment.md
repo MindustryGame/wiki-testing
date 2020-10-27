@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-segment-large.png"></img> Segment
 
 *"Damages and destroys incoming projectiles. Laser projectiles are not targeted."*
 

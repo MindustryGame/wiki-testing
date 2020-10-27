@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-pulse-conduit-large.png"></img> Pulse Conduit
 
 *"An advanced liquid transport block. Transports liquids faster and stores more than standard conduits."*
 

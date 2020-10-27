@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-surge-alloy.png"></img> Surge Alloy 
 
 
 *"An advanced alloy with unique electrical properties."*  

@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-diode-large.png"></img> Battery Diode
 
 *"Battery power can flow through this block in only one direction, but only if the other side has less power stored."*
 

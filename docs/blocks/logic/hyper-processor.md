@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-hyper-processor-large.png"></img> Hyper Processor
 
 *"Unknown..."*
 

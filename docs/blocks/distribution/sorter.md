@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-sorter-large.png"></img> Sorter
 
 *"Sorts items. If an item matches the selection, it is allowed to pass. Otherwise, the item is outputted to the left and right."*
 

@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-phase-conveyor-large.png"></img> Phase Conveyor
 
 *"Advanced item transport block. Uses power to teleport items to a connected phase conveyor over several tiles."*
 

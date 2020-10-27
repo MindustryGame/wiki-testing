@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-container-large.png"></img> Container
 
 *"Stores a small amount of items of each type. An unloader block can be used to retrieve items from the container."*
 

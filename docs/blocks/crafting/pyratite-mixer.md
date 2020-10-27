@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-pyratite-mixer-large.png"></img> Pyratite Mixer
 
 *"Mixes coal, lead and sand into highly flammable pyratite."*
 

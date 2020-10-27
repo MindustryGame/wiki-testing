@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-blast-drill-large.png"></img> Airblast Drill
 
 *"The ultimate drill. Requires large amounts of power."*
 

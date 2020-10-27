@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-meltdown-large.png"></img> Meltdown
 
 *"A massive laser cannon. Charges and fires a persistent laser beam at nearby enemies. Requires coolant to operate."*
 

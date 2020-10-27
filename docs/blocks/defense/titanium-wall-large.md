@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-titanium-wall-large-large.png"></img> Large Titanium Wall
 
 *"A moderately strong defensive block.
 Provides moderate protection from enemies.

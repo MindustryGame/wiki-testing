@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-metaglass.png"></img> Metaglass 
 
 
 *"A super-tough glass compound. Extensively used for liquid distribution and storage."*  

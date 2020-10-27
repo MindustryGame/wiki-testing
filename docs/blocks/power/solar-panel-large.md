@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-solar-panel-large-large.png"></img> Large Solar Panel
 
 *"A significantly more efficient version of the standard solar panel."*
 

@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-logic-processor-large.png"></img> Logic Processor
 
 *"Unknown..."*
 

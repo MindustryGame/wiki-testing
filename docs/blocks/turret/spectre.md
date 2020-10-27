@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-spectre-large.png"></img> Spectre
 
 *"A massive dual-barreled cannon. Shoots large armor-piercing bullets at air and ground targets."*
 

@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-door-large.png"></img> Door
 
 *"A small door. Can be opened or closed by tapping."*
 

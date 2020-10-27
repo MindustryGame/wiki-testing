@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-battery-large-large.png"></img> Large Battery
 
 *"Stores much more power than a regular battery."*
 

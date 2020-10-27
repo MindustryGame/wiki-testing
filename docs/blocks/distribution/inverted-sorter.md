@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-inverted-sorter-large.png"></img> Inverted Sorter
 
 *"Processes items like a standard sorter, but outputs selected items to the sides instead."*
 

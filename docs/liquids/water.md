@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/liquid-water.png"></img> Water 
 
 *"The most useful liquid. Commonly used for cooling machines and waste processing."*
 

@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-overflow-gate-large.png"></img> Overflow Gate
 
 *"Only outputs to the left and right if the front path is blocked."*
 

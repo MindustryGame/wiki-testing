@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-kiln-large.png"></img> Kiln
 
 *"Smelts sand and lead into the compound known as metaglass. Requires small amounts of power to run."*
 

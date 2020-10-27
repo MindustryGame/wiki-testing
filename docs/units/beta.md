@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/unit-beta-xlarge.png"></img> Beta
 
 
 *"Unknown..."*  

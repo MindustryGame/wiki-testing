@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-mend-projector-large.png"></img> Mend Projector
 
 *"An upgraded version of the Mender. Repairs blocks in its vicinity.
 Optionally uses phase fabric to boost range and efficiency."*

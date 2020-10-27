@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-disassembler-large.png"></img> Disassembler
 
 *"Unknown..."*
 

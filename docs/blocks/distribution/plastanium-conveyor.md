@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-plastanium-conveyor-large.png"></img> Plastanium Conveyor
 
 *"Moves items in batches.
 Accepts items at the back, and unloads them in three directions at the front.

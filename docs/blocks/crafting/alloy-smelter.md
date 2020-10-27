@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-alloy-smelter-large.png"></img> Alloy Smelter
 
 *"Combines titanium, lead, silicon and copper to produce surge alloy."*
 

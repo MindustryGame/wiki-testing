@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-incinerator-large.png"></img> Incinerator
 
 *"Vaporizes any excess item or liquid it receives."*
 

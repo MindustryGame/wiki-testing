@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-fuse-large.png"></img> Fuse
 
 *"A large, close-range shrapnel turret. Fires three piercing blasts at nearby enemies."*
 

@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-impact-reactor-large.png"></img> Impact Reactor
 
 *"An advanced generator, capable of creating massive amounts of power at peak efficiency. Requires a significant power input to kickstart the process."*
 

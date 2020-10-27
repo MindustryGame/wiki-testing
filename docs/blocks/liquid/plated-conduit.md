@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-plated-conduit-large.png"></img> Plated Conduit
 
 *"Moves liquids at the same rate as pulse conduits, but possesses more armor. Does not accept fluids from the sides by anything other than conduits.
 Does not leak."*

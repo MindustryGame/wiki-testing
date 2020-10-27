@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-thermal-pump-large.png"></img> Thermal Pump
 
 *"The ultimate pump."*
 

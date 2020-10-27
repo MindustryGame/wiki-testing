@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-plastanium-wall-large.png"></img> Plastanium Wall
 
 *"A special type of wall that absorbs electric arcs and blocks automatic power node connections."*
 

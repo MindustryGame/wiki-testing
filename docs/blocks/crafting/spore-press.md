@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-spore-press-large.png"></img> Spore Press
 
 *"Compresses spore pods under extreme pressure to synthesize oil."*
 

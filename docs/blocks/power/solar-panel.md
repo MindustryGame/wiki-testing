@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-solar-panel-large.png"></img> Solar Panel
 
 *"Provides a small amount of power from the sun."*
 

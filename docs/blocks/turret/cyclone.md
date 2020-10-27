@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-cyclone-large.png"></img> Cyclone
 
 *"A large anti-air and anti-ground turret. Fires explosive clumps of flak at nearby units."*
 

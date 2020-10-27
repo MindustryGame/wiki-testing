@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-thorium.png"></img> Thorium 
 
 
 *"A dense, radioactive metal used as structural support and nuclear fuel."*  

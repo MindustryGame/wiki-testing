@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/unit-flare-xlarge.png"></img> Flare
 
 
 *"Unknown..."*  

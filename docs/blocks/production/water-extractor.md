@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-water-extractor-large.png"></img> Water Extractor
 
 *"Extracts groundwater. Used in locations with no surface water available."*
 

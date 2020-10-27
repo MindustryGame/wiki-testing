@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-plastanium-compressor-large.png"></img> Plastanium Compressor
 
 *"Produces plastanium from oil and titanium."*
 

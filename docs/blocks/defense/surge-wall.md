@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-surge-wall-large.png"></img> Surge Wall
 
 *"An extremely durable defensive block.
 Builds up charge on bullet contact, releasing it randomly."*

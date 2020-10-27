@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-repair-point-large.png"></img> Repair Point
 
 *"Continuously heals the closest damaged unit in its vicinity."*
 

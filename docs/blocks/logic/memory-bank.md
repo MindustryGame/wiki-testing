@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-memory-bank-large.png"></img> Memory Bank
 
 *"Unknown..."*
 

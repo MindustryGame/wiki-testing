@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-message-large.png"></img> Message
 
 *"Stores a message. Used for communication between allies."*
 

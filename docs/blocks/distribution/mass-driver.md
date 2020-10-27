@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-mass-driver-large.png"></img> Mass Driver
 
 *"The ultimate item transport block. Collects several items and then shoots them to another mass driver over a long range. Requires power to operate."*
 

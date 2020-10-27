@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-mechanical-pump-large.png"></img> Mechanical Pump
 
 *"A cheap pump with slow output, but no power consumption."*
 

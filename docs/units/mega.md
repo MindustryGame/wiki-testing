@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/unit-mega-xlarge.png"></img> Mega
 
 
 *"Unknown..."*  

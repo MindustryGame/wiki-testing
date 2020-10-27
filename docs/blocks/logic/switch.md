@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-switch-large.png"></img> Switch
 
 *"Unknown..."*
 

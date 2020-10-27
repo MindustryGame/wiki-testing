@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-bridge-conveyor-large.png"></img> Bridge Conveyor
 
 *"Advanced item transport block. Allows transporting items over up to 3 tiles of any terrain or building."*
 

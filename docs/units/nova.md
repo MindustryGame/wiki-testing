@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/unit-nova-xlarge.png"></img> Nova
 
 
 *"Unknown..."*  

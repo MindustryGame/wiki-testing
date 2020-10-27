@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-blast-compound.png"></img> Blast Compound 
 
 
 *"An unstable compound used in bombs and explosives. Synthesized from spore pods and other volatile substances. Use as fuel is not advised."*  

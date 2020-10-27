@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-additive-reconstructor-large.png"></img> Additive Reconstructor
 
 *"Unknown..."*
 

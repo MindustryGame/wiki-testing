@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/item-graphite.png"></img> Graphite 
 
 
 *"Mineralized carbon, used for ammunition and electrical components."*  

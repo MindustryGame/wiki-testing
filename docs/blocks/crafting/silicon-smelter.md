@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-silicon-smelter-large.png"></img> Silicon Smelter
 
 *"Reduces sand with pure coal. Produces silicon."*
 

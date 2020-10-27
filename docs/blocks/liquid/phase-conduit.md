@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-phase-conduit-large.png"></img> Phase Conduit
 
 *"Advanced liquid transport block. Uses power to teleport liquids to a connected phase conduit over several tiles."*
 

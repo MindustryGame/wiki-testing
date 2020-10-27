@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-micro-processor-large.png"></img> Micro Processor
 
 *"Unknown..."*
 

@@ -1,3 +1,4 @@
+# <img id="spr" src="/wiki-testing/images/block-ripple-large.png"></img> Ripple
 
 *"An extremely powerful artillery turret. Shoots clusters of shells at enemies over long distances."*
 
