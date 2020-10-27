@@ -17,8 +17,8 @@
 |Range|62.5  blocks  |
 |Inaccuracy|0  degrees  |
 |Shots/Second|0.3    |
-|Targets Air|@yes  |
-|Targets Ground|@yes  |
+|Targets Air|Yes  |
+|Targets Ground|Yes  |
 |Ammo|![item-surge-alloy-medium](/wiki/images/item-surge-alloy-medium.png) Surge Alloy <br> • **1,350** damage <br> |
 |**Optional Enhancements**||
 |Booster|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>120/sec / <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>120/sec  ![liquid-water-medium](/wiki/images/liquid-water-medium.png) Water <br> • **1.1**x fire rate ![liquid-cryofluid-medium](/wiki/images/liquid-cryofluid-medium.png) Cryofluid <br> • **1.2**x fire rate <br> |

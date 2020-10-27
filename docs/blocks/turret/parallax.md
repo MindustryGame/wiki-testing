@@ -13,8 +13,8 @@
 |Power Use|180  power units/second  |
 |**Function**||
 |Range|20  blocks  |
-|Targets Air|@yes  |
-|Targets Ground|@no  |
+|Targets Air|Yes  |
+|Targets Ground|No  |
 |Damage|24  /sec  |
 
 --- 

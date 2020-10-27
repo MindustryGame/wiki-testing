@@ -1,6 +1,6 @@
 site_name: Mindustry Wiki
-site_url: https://mindustrygame.github.io/wiki/
-repo_url: https://github.com/MindustryGame/wiki
+site_url: https://mindustrygame.github.io/wiki-testing/
+repo_url: https://github.com/MindustryGame/wiki-testing
 theme: 
     name: readthedocs
     custom_dir: custom_theme/
