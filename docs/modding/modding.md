@@ -1,5 +1,5 @@
 
-# Modding
+# Modding Introduction
 
 Mindustry mods are simply directories of assests. There are many ways to use the modding API, depending on exactly what you want to do, and how far you're willing to go to do it.
 
@@ -112,7 +112,6 @@ At the root of your project directory you can have a `content/` directory, and t
 
 -   `content/items/` for [items](#item), like `copper` and `surge-alloy`;
 -   `content/blocks/` for [blocks](#block), like turrets and floors;
--   `content/mechs/` for [mechs](#mech), like `tau` and `glaive`;
 -   `content/liquids/` for [liquids](#liquid), like `water` and `slag`;
 -   `content/units/` for flying or ground [units](#unittype), like `reaper` and `dagger`;
 -   `content/zones/` for [zones](#zone), configuration of campaign maps.
@@ -251,90 +250,6 @@ $contentTypes
 List of filenames relative to languages:
 
 $bundles
-
-
-## Markup
-
-The text renderer uses a simple makeup language for coloring text.
-
--   `[name]` sets the color by name, there's a few [built-in colors](#built-in-colors);
--   `[#rrggbb]` / `[#rrggbbaa]` sets the color by hex value, with each value being anything from `00` to `ff`:
-    -   `rr` is the red value,
-    -   `gg` is the green value,
-    -   `bb` is the blue value,
-    -   `aa` is the alpha value;
--   `[]` sets the color back to the previous color;
--   `[[` escapes the left bracket, so you can write `[[red]` to write and it'll render as `[red]`.
-
-Notes:
-
--   erros/unknown colors will be silently ignored.
-
-Example:
-
-    [red]red
-    [#ff0000]full-red
-    [#ff000066]half-red
-    [#ff000033]half-half-red
-    [#00ff00]green
-    []half-half-red
-
-
-
-### Built-in Colors
-
-    [clear]clear
-    [black]black
-    [white]white
-    [lightgray]lightgray
-    [gray]gray
-    [darkgray]darkgray
-    [blue]blue
-    [navy]navy
-    [royal]royal
-    [slate]slate
-    [sky]sky
-    [cyan]cyan
-    [teal]teal
-    [green]green
-    [acid]acid
-    [lime]lime
-    [forest]forest
-    [olive]olive
-    [yellow]yellow
-    [gold]gold
-    [goldenrod]goldenrod
-    [orange]orange
-    [brown]brown
-    [tan]tan
-    [brick]brick
-    [red]red
-    [scarlet]scarlet
-    [coral]coral
-    [salmon]salmon
-    [pink]pink
-    [magenta]magenta
-    [purple]purple
-    [violet]violet
-    [maroon]maroon
-
-
-
-## Schematic
-
-Fields that require the type `Schematic` can either take a built-in loadout *(see the [Zone](#zone) section)* a base64 string, or the stem name of a `.msch` file in the `schematics/` subdirectory.
-
-*As of now, the only purpose of schematics is to give a zone a loadout.*
-
-
-
-## Scripts
-
-Scripting in Mindustry is done with the [Rhino JavaScript](https://github.com/mozilla/rhino) runtime. Scripts may be added to your mod by putting them in `scripts/`. Using the built-in `extendContent` function, you can extend existing Java types from JS, using *allowed classes* which are injected into your namespace.
-
-For example:
-
-//TODO
 
 
 ## GitHub
