@@ -4,11 +4,19 @@
 Provides moderate protection from enemies.
 Spans multiple tiles."*
 
-|General| ... |
-|Health|1760    |
-|Size|2x2  |
-|Build Time|2.4  seconds  |
-|Build Cost|<a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x24  |
+|General||
+|Health|| Property      | Value |
+| ----------- | ----------- |
+1760    |
+|Size|| Property      | Value |
+| ----------- | ----------- |
+2x2  |
+|Build Time|| Property      | Value |
+| ----------- | ----------- |
+2.4  seconds  |
+|Build Cost|| Property      | Value |
+| ----------- | ----------- |
+<a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x24  |
 
 
 --- 

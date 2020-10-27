@@ -3,11 +3,19 @@
 *"A strong defensive block.
 Decent protection from enemies."*
 
-|General| ... |
-|Health|800    |
-|Size|1x1  |
-|Build Time|0.66  seconds  |
-|Build Cost|<a href="/wiki-testing/items/thorium"><img id="spr" src="/wiki-testing/images/item-thorium-xlarge.png"/></a>x6  |
+|General||
+|Health|| Property      | Value |
+| ----------- | ----------- |
+800    |
+|Size|| Property      | Value |
+| ----------- | ----------- |
+1x1  |
+|Build Time|| Property      | Value |
+| ----------- | ----------- |
+0.66  seconds  |
+|Build Cost|| Property      | Value |
+| ----------- | ----------- |
+<a href="/wiki-testing/items/thorium"><img id="spr" src="/wiki-testing/images/item-thorium-xlarge.png"/></a>x6  |
 
 
 --- 

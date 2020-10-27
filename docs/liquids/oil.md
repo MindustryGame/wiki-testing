@@ -6,11 +6,21 @@
 | ----------- | ----------- |
 |Internal Name|`oil`|
 |Color|`313131ff`|
-|Explosiveness|120 %  |
-|Flammability|120 %  |
-|Heat Capacity|70 %  |
-|Viscosity|70 %  |
-|Temperature|50 %  |
+|Explosiveness|| Property      | Value |
+| ----------- | ----------- |
+120 %  |
+|Flammability|| Property      | Value |
+| ----------- | ----------- |
+120 %  |
+|Heat Capacity|| Property      | Value |
+| ----------- | ----------- |
+70 %  |
+|Viscosity|| Property      | Value |
+| ----------- | ----------- |
+70 %  |
+|Temperature|| Property      | Value |
+| ----------- | ----------- |
+50 %  |
 
 
 --- 

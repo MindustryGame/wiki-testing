@@ -6,11 +6,21 @@
 | ----------- | ----------- |
 |Internal Name|`cryofluid`|
 |Color|`6ecdecff`|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Heat Capacity|90 %  |
-|Viscosity|50 %  |
-|Temperature|25 %  |
+|Explosiveness|| Property      | Value |
+| ----------- | ----------- |
+0 %  |
+|Flammability|| Property      | Value |
+| ----------- | ----------- |
+0 %  |
+|Heat Capacity|| Property      | Value |
+| ----------- | ----------- |
+90 %  |
+|Viscosity|| Property      | Value |
+| ----------- | ----------- |
+50 %  |
+|Temperature|| Property      | Value |
+| ----------- | ----------- |
+25 %  |
 
 
 --- 

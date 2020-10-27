@@ -3,12 +3,22 @@
 *"A wall coated with special phase-based reflective compound. Deflects most bullets upon impact.
 Spans multiple tiles."*
 
-|General| ... |
-|Health|2400    |
-|Size|2x2  |
-|Build Time|3.12  seconds  |
-|Build Cost|<a href="/wiki-testing/items/phase-fabric"><img id="spr" src="/wiki-testing/images/item-phase-fabric-xlarge.png"/></a>x24  |
-|Base Deflect Chance|10    |
+|General||
+|Health|| Property      | Value |
+| ----------- | ----------- |
+2400    |
+|Size|| Property      | Value |
+| ----------- | ----------- |
+2x2  |
+|Build Time|| Property      | Value |
+| ----------- | ----------- |
+3.12  seconds  |
+|Build Cost|| Property      | Value |
+| ----------- | ----------- |
+<a href="/wiki-testing/items/phase-fabric"><img id="spr" src="/wiki-testing/images/item-phase-fabric-xlarge.png"/></a>x24  |
+|Base Deflect Chance|| Property      | Value |
+| ----------- | ----------- |
+10    |
 
 
 --- 

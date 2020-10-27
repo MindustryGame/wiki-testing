@@ -6,14 +6,32 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Flying|Yes|
-|Health|24000    |
-|Speed|0.8    |
-|Build Speed|400 %  |
-|Payload Capacity|28.09  blocks²  |
-|Command Limit|6    |
-|Abilities|Force Field  Repair Field  |
-|Item Capacity|240    |
-|Range|0  blocks  |
+|Health|| Property      | Value |
+| ----------- | ----------- |
+24000    |
+|Speed|| Property      | Value |
+| ----------- | ----------- |
+0.8    |
+|Build Speed|| Property      | Value |
+| ----------- | ----------- |
+400 %  |
+|Payload Capacity|| Property      | Value |
+| ----------- | ----------- |
+28.09  blocks²  |
+|Command Limit|| Property      | Value |
+| ----------- | ----------- |
+6    |
+|Abilities|| Property      | Value |
+| ----------- | ----------- |
+Force Field  | Property      | Value |
+| ----------- | ----------- |
+Repair Field  |
+|Item Capacity|| Property      | Value |
+| ----------- | ----------- |
+240    |
+|Range|| Property      | Value |
+| ----------- | ----------- |
+0  blocks  |
 
 
 --- 

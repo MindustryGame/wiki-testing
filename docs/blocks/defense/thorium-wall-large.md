@@ -4,11 +4,19 @@
 Decent protection from enemies.
 Spans multiple tiles."*
 
-|General| ... |
-|Health|3200    |
-|Size|2x2  |
-|Build Time|2.64  seconds  |
-|Build Cost|<a href="/wiki-testing/items/thorium"><img id="spr" src="/wiki-testing/images/item-thorium-xlarge.png"/></a>x24  |
+|General||
+|Health|| Property      | Value |
+| ----------- | ----------- |
+3200    |
+|Size|| Property      | Value |
+| ----------- | ----------- |
+2x2  |
+|Build Time|| Property      | Value |
+| ----------- | ----------- |
+2.64  seconds  |
+|Build Cost|| Property      | Value |
+| ----------- | ----------- |
+<a href="/wiki-testing/items/thorium"><img id="spr" src="/wiki-testing/images/item-thorium-xlarge.png"/></a>x24  |
 
 
 --- 

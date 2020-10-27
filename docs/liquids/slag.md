@@ -6,11 +6,21 @@
 | ----------- | ----------- |
 |Internal Name|`slag`|
 |Color|`ffa166ff`|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Heat Capacity|50 %  |
-|Viscosity|80 %  |
-|Temperature|100 %  |
+|Explosiveness|| Property      | Value |
+| ----------- | ----------- |
+0 %  |
+|Flammability|| Property      | Value |
+| ----------- | ----------- |
+0 %  |
+|Heat Capacity|| Property      | Value |
+| ----------- | ----------- |
+50 %  |
+|Viscosity|| Property      | Value |
+| ----------- | ----------- |
+80 %  |
+|Temperature|| Property      | Value |
+| ----------- | ----------- |
+100 %  |
 
 
 --- 

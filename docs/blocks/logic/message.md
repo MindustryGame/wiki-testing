@@ -2,11 +2,19 @@
 
 *"Stores a message. Used for communication between allies."*
 
-|General| ... |
-|Health|40    |
-|Size|1x1  |
-|Build Time|0.08  seconds  |
-|Build Cost|<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x5  |
+|General||
+|Health|| Property      | Value |
+| ----------- | ----------- |
+40    |
+|Size|| Property      | Value |
+| ----------- | ----------- |
+1x1  |
+|Build Time|| Property      | Value |
+| ----------- | ----------- |
+0.08  seconds  |
+|Build Cost|| Property      | Value |
+| ----------- | ----------- |
+<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x5  |
 
 
 --- 

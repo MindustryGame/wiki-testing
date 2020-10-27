@@ -6,12 +6,24 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Flying|No|
-|Health|22000    |
-|Speed|0.62    |
-|Command Limit|8    |
-|Abilities|Flare Factory  |
-|Item Capacity|200    |
-|Range|70  blocks  |
+|Health|| Property      | Value |
+| ----------- | ----------- |
+22000    |
+|Speed|| Property      | Value |
+| ----------- | ----------- |
+0.62    |
+|Command Limit|| Property      | Value |
+| ----------- | ----------- |
+8    |
+|Abilities|| Property      | Value |
+| ----------- | ----------- |
+Flare Factory  |
+|Item Capacity|| Property      | Value |
+| ----------- | ----------- |
+200    |
+|Range|| Property      | Value |
+| ----------- | ----------- |
+70  blocks  |
 
 
 --- 

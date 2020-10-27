@@ -6,11 +6,21 @@
 | ----------- | ----------- |
 |Internal Name|`water`|
 |Color|`596ab8ff`|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Heat Capacity|40 %  |
-|Viscosity|50 %  |
-|Temperature|50 %  |
+|Explosiveness|| Property      | Value |
+| ----------- | ----------- |
+0 %  |
+|Flammability|| Property      | Value |
+| ----------- | ----------- |
+0 %  |
+|Heat Capacity|| Property      | Value |
+| ----------- | ----------- |
+40 %  |
+|Viscosity|| Property      | Value |
+| ----------- | ----------- |
+50 %  |
+|Temperature|| Property      | Value |
+| ----------- | ----------- |
+50 %  |
 
 
 --- 

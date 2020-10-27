@@ -6,14 +6,30 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Flying|Yes|
-|Health|170    |
-|Speed|3.3    |
-|Build Speed|75 %  |
-|Mine Speed|700 %  |
-|Mine Tier|![block-ore-copper-small](/wiki/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki/images/block-ore-scrap-small.png) Scrap  |
-|Command Limit|5    |
-|Item Capacity|50    |
-|Range|23  blocks  |
+|Health|| Property      | Value |
+| ----------- | ----------- |
+170    |
+|Speed|| Property      | Value |
+| ----------- | ----------- |
+3.3    |
+|Build Speed|| Property      | Value |
+| ----------- | ----------- |
+75 %  |
+|Mine Speed|| Property      | Value |
+| ----------- | ----------- |
+700 %  |
+|Mine Tier|| Property      | Value |
+| ----------- | ----------- |
+![block-ore-copper-small](/wiki/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki/images/block-ore-scrap-small.png) Scrap  |
+|Command Limit|| Property      | Value |
+| ----------- | ----------- |
+5    |
+|Item Capacity|| Property      | Value |
+| ----------- | ----------- |
+50    |
+|Range|| Property      | Value |
+| ----------- | ----------- |
+23  blocks  |
 
 
 --- 

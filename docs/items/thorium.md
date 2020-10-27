@@ -10,9 +10,15 @@
 |Naturally Occurring|Yes|
 |Build Cost|110%|
 |Hardness|4|
-|Explosiveness|20 %  |
-|Flammability|0 %  |
-|Radioactivity|100 %  |
+|Explosiveness|| Property      | Value |
+| ----------- | ----------- |
+20 %  |
+|Flammability|| Property      | Value |
+| ----------- | ----------- |
+0 %  |
+|Radioactivity|| Property      | Value |
+| ----------- | ----------- |
+100 %  |
 
 
 --- 
