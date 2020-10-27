@@ -14,7 +14,7 @@
 |**Items**||
 |Item Capacity|10  items  |
 |**Input/Output**||
-|Drillables|![block-sand-small](/wiki/images/block-sand-small.png) Sand ![block-darksand-small](/wiki/images/block-darksand-small.png) Dark Sand ![block-ore-copper-small](/wiki/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki/images/block-ore-scrap-small.png) Scrap ![block-ore-coal-small](/wiki/images/block-ore-coal-small.png) Coal  |
+|Drillables|![block-sand-small](/wiki-testing/images/block-sand-small.png) Sand ![block-darksand-small](/wiki-testing/images/block-darksand-small.png) Dark Sand ![block-ore-copper-small](/wiki-testing/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki-testing/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki-testing/images/block-ore-scrap-small.png) Scrap ![block-ore-coal-small](/wiki-testing/images/block-ore-coal-small.png) Coal  |
 |Base Drill Speed|0.4  items/second  |
 |**Optional Enhancements**||
 |Booster|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>3/sec  |

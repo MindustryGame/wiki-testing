@@ -20,7 +20,7 @@
 |Output|<a href="/wiki-testing/items/spore-pod"><img id="spr" src="/wiki-testing/images/item-spore-pod-xlarge.png"/></a>x1  |
 |Production Time|2.33  seconds  |
 |**Optional Enhancements**||
-|Affinities|![block-moss-medium](/wiki/images/block-moss-medium.png) +15%  ![block-spore-moss-medium](/wiki/images/block-spore-moss-medium.png) +30%  |
+|Affinities|![block-moss-medium](/wiki-testing/images/block-moss-medium.png) +15%  ![block-spore-moss-medium](/wiki-testing/images/block-spore-moss-medium.png) +30%  |
 
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -12,7 +12,7 @@
 |**Power**||
 |Base Power Generation|108  power units/second  |
 |**Input/Output**||
-|Required Tiles|![block-hotrock-medium](/wiki/images/block-hotrock-medium.png) +50%  ![block-magmarock-medium](/wiki/images/block-magmarock-medium.png) +75%  ![block-slag-medium](/wiki/images/block-slag-medium.png) +85%  |
+|Required Tiles|![block-hotrock-medium](/wiki-testing/images/block-hotrock-medium.png) +50%  ![block-magmarock-medium](/wiki-testing/images/block-magmarock-medium.png) +75%  ![block-slag-medium](/wiki-testing/images/block-slag-medium.png) +85%  |
 
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

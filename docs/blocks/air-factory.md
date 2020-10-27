@@ -12,7 +12,7 @@
 |**Power**||
 |Power Use|72  power units/second  |
 |**Input/Output**||
-|Output|![unit-flare-small](/wiki/images/unit-flare-small.png) Flare <br>![unit-mono-small](/wiki/images/unit-mono-small.png) Mono <br> |
+|Output|![unit-flare-small](/wiki-testing/images/unit-flare-small.png) Flare <br>![unit-mono-small](/wiki-testing/images/unit-mono-small.png) Mono <br> |
 
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

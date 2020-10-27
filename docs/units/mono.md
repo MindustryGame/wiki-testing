@@ -8,7 +8,7 @@
 |Health|100    |
 |Speed|1.5    |
 |Mine Speed|250 %  |
-|Mine Tier|![block-ore-copper-small](/wiki/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki/images/block-ore-scrap-small.png) Scrap  |
+|Mine Tier|![block-ore-copper-small](/wiki-testing/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki-testing/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki-testing/images/block-ore-scrap-small.png) Scrap  |
 |Command Limit|8    |
 |Item Capacity|20    |
 |Range|0  blocks  |
