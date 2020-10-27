@@ -16,9 +16,9 @@ span.expandable { cursor:pointer; }
   background-color: #d4816b !important;
 }
 
-span#md-header-nav__topic {
+.md-header-nav__topic {
 	font-family: 'Audiowide', serif !important;
-	text-shadow: 0px 0px 8px black;
+	text-shadow: 0px 0px 8px black !important;
 }
 
 img#spr {
