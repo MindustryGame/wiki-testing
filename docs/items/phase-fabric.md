@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|60 %  |
-
 |Internal Name|`phase-fabric`|
 |Color|`f4ba6e`|
 |Naturally Occurring|No|

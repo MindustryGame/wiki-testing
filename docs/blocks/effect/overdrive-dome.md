@@ -20,6 +20,5 @@
 |Speed Increase|250 %  |
 |Range|25  blocks  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

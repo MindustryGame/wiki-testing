@@ -9,7 +9,6 @@
 |Heat Capacity|90 %  |
 |Viscosity|50 %  |
 |Temperature|25 %  |
-
 |Internal Name|`cryofluid`|
 |Color|`6ecdecff`|
 

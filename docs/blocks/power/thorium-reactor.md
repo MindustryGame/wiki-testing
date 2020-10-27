@@ -19,6 +19,5 @@
 |Input|<a href="/wiki-testing/items/thorium"><img id="spr" src="/wiki-testing/images/item-thorium-xlarge.png"/></a>x1  <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>2.4/sec  |
 |Production Time|6  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

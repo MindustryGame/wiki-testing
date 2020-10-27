@@ -15,6 +15,5 @@ Requires multiple loading and unloading points for peak throughput."*
 |Item Capacity|10  items  |
 |Move Speed|40  items/second  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

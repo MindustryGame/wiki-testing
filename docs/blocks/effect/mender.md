@@ -21,6 +21,5 @@ Optionally uses silicon to boost range and efficiency."*
 |Booster|<a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x1  |
 |Boost Effect|2.5  blocks  2 x speed  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

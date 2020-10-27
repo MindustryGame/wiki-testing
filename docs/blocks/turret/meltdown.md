@@ -23,6 +23,5 @@
 |Targets Ground|@yes  |
 |Damage|840  /sec  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

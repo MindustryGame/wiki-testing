@@ -12,6 +12,5 @@
 |**Power**||
 |Base Power Generation|57  power units/second  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -9,7 +9,6 @@
 |Heat Capacity|70 %  |
 |Viscosity|70 %  |
 |Temperature|50 %  |
-
 |Internal Name|`oil`|
 |Color|`313131ff`|
 

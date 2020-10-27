@@ -18,6 +18,5 @@
 |Output|![unit-horizon-small](/wiki/images/unit-horizon-small.png) Horizon <br> • ** ->  ![unit-zenith-small](/wiki/images/unit-zenith-small.png) Zenith <br>![unit-mace-small](/wiki/images/unit-mace-small.png) Mace <br> • ** ->  ![unit-fortress-small](/wiki/images/unit-fortress-small.png) Fortress <br>![unit-poly-small](/wiki/images/unit-poly-small.png) Poly <br> • ** ->  ![unit-mega-small](/wiki/images/unit-mega-small.png) Mega <br>![unit-minke-small](/wiki/images/unit-minke-small.png) Minke <br> • ** ->  ![unit-bryde-small](/wiki/images/unit-bryde-small.png) Bryde <br>![unit-pulsar-small](/wiki/images/unit-pulsar-small.png) Pulsar <br> • ** ->  ![unit-quasar-small](/wiki/images/unit-quasar-small.png) Quasar <br>![unit-atrax-small](/wiki/images/unit-atrax-small.png) Atrax <br> • ** ->  ![unit-spiroct-small](/wiki/images/unit-spiroct-small.png) Spiroct <br> |
 |Production Time|30  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

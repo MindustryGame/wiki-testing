@@ -14,6 +14,5 @@
 |**Input/Output**||
 |Output|![unit-risso-small](/wiki/images/unit-risso-small.png) Risso <br> |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -20,6 +20,5 @@
 |Booster|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>3/sec  |
 |Boost Effect|2.56 x speed  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -20,6 +20,5 @@
 |Output|![unit-zenith-small](/wiki/images/unit-zenith-small.png) Zenith <br> • ** ->  ![unit-antumbra-small](/wiki/images/unit-antumbra-small.png) Antumbra <br>![unit-spiroct-small](/wiki/images/unit-spiroct-small.png) Spiroct <br> • ** ->  ![unit-arkyid-small](/wiki/images/unit-arkyid-small.png) Arkyid <br>![unit-fortress-small](/wiki/images/unit-fortress-small.png) Fortress <br> • ** ->  ![unit-scepter-small](/wiki/images/unit-scepter-small.png) Scepter <br>![unit-bryde-small](/wiki/images/unit-bryde-small.png) Bryde <br> • ** ->  ![unit-sei-small](/wiki/images/unit-sei-small.png) Sei <br>![unit-mega-small](/wiki/images/unit-mega-small.png) Mega <br> • ** ->  ![unit-quad-small](/wiki/images/unit-quad-small.png) Quad <br>![unit-quasar-small](/wiki/images/unit-quasar-small.png) Quasar <br> • ** ->  ![unit-vela-small](/wiki/images/unit-vela-small.png) Vela <br> |
 |Production Time|90  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

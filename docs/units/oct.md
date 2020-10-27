@@ -13,7 +13,6 @@
 |Abilities|Force Field  Repair Field  |
 |Item Capacity|240    |
 |Range|0  blocks  |
-
 |Flying|Yes|
 
 --- 

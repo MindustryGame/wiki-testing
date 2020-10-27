@@ -20,6 +20,5 @@
 |Output|<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a> / <a href="/wiki-testing/items/sand"><img id="spr" src="/wiki-testing/images/item-sand-xlarge.png"/></a> / <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a> / <a href="/wiki-testing/items/thorium"><img id="spr" src="/wiki-testing/images/item-thorium-xlarge.png"/></a>  |
 |Production Time|0.25  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

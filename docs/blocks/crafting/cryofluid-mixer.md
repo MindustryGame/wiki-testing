@@ -20,6 +20,5 @@
 |Output|<a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>12/sec  |
 |Production Time|2  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

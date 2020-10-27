@@ -11,6 +11,5 @@ Spans multiple tiles."*
 |Build Time|3.68  seconds  |
 |Build Cost|<a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x24 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x16  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

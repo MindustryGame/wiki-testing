@@ -8,7 +8,6 @@
 |Explosiveness|20 %  |
 |Flammability|10 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`plastanium`|
 |Color|`cbd97f`|
 |Naturally Occurring|No|

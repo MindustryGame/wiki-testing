@@ -14,6 +14,5 @@
 |**Function**||
 |Range|8.13  blocks  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

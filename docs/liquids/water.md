@@ -9,7 +9,6 @@
 |Heat Capacity|40 %  |
 |Viscosity|50 %  |
 |Temperature|50 %  |
-
 |Internal Name|`water`|
 |Color|`596ab8ff`|
 

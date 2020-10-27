@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`sand`|
 |Color|`f7cba4`|
 |Naturally Occurring|Yes|

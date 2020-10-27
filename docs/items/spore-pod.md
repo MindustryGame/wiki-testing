@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|115 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`spore-pod`|
 |Color|`7457ce`|
 |Naturally Occurring|No|

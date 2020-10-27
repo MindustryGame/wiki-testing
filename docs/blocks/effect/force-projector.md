@@ -23,6 +23,5 @@ Overheats if too much damage is sustained. Optionally uses coolant to prevent ov
 |Booster|<a href="/wiki-testing/items/phase-fabric"><img id="spr" src="/wiki-testing/images/item-phase-fabric-xlarge.png"/></a>x1  <a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>6/sec / <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>6/sec  |
 |Boost Effect|10  blocks  400  shield health  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

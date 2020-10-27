@@ -20,6 +20,5 @@
 |**Optional Enhancements**||
 |Affinities|![block-hotrock-medium](/wiki/images/block-hotrock-medium.png) +7%  ![block-magmarock-medium](/wiki/images/block-magmarock-medium.png) +11%  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

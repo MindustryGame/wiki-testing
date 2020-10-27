@@ -18,6 +18,5 @@
 |Output|<a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x1  |
 |Production Time|0.67  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

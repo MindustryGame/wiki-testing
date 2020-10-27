@@ -20,6 +20,5 @@
 |Output|<a href="/wiki-testing/liquids/oil"><img id="spr" src="/wiki-testing/images/liquid-oil.png"/></a>18/sec  |
 |Production Time|0.33  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

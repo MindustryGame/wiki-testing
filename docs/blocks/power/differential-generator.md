@@ -19,6 +19,5 @@
 |Input|<a href="/wiki-testing/items/pyratite"><img id="spr" src="/wiki-testing/images/item-pyratite-xlarge.png"/></a>x1  <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>6/sec  |
 |Production Time|3.67  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -18,6 +18,5 @@
 |Output|<a href="/wiki-testing/items/surge-alloy"><img id="spr" src="/wiki-testing/images/item-surge-alloy-xlarge.png"/></a>x1  |
 |Production Time|1.25  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

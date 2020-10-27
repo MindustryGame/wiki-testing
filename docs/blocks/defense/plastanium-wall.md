@@ -10,6 +10,5 @@
 |Build Time|0.95  seconds  |
 |Build Cost|<a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x2 <a href="/wiki-testing/items/plastanium"><img id="spr" src="/wiki-testing/images/item-plastanium-xlarge.png"/></a>x5  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

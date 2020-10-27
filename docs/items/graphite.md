@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`graphite`|
 |Color|`b2c6d2`|
 |Naturally Occurring|No|

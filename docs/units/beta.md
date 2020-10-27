@@ -13,7 +13,6 @@
 |Command Limit|5    |
 |Item Capacity|50    |
 |Range|23  blocks  |
-
 |Flying|Yes|
 
 --- 

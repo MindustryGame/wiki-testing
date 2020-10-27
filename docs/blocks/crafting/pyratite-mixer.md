@@ -18,6 +18,5 @@
 |Output|<a href="/wiki-testing/items/pyratite"><img id="spr" src="/wiki-testing/images/item-pyratite-xlarge.png"/></a>x1  |
 |Production Time|1.33  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

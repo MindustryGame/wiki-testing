@@ -12,6 +12,5 @@
 |**Liquids**||
 |Liquid Capacity|1500  liquid units  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -13,6 +13,5 @@
 |Power Range|40  blocks  |
 |Max Connections|2    |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

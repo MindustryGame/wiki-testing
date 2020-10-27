@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`lead`|
 |Color|`8c7fa9`|
 |Naturally Occurring|Yes|

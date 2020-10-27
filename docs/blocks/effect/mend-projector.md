@@ -21,6 +21,5 @@ Optionally uses phase fabric to boost range and efficiency."*
 |Booster|<a href="/wiki-testing/items/phase-fabric"><img id="spr" src="/wiki-testing/images/item-phase-fabric-xlarge.png"/></a>x1  |
 |Boost Effect|6.25  blocks  2.36 x speed  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

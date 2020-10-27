@@ -11,7 +11,6 @@
 |Abilities|Shield Regen Field  |
 |Item Capacity|60    |
 |Range|41  blocks  |
-
 |Flying|No|
 
 --- 
