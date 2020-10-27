@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-bridge-conduit-large.png"></img> Bridge Conduit
 
 *"Advanced liquid transport block. Allows transporting liquids over up to 3 tiles of any terrain or building."*
 

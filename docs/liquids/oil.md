@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/liquid-oil.png"></img> Oil 
 
 *"A liquid used in advanced material production. Can be converted into coal as fuel, or sprayed and set on fire as a weapon."*
 

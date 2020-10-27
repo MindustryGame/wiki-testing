@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/item-pyratite.png"></img> Pyratite 
 
 
 *"An extremely flammable substance used in incendiary weapons."*  

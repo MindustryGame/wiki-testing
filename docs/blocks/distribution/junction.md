@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-junction-large.png"></img> Junction
 
 *"Acts as a bridge for two crossing conveyor belts. Useful in situations with two different conveyors carrying different materials to different locations."*
 

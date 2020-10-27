@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-blast-mixer-large.png"></img> Blast Mixer
 
 *"Crushes and mixes clusters of spores with pyratite to produce blast compound."*
 

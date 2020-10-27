@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-bryde-xlarge.png"></img> Bryde
 
 
 *"Unknown..."*  

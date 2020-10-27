@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-titanium-conveyor-large.png"></img> Titanium Conveyor
 
 *"Advanced item transport block. Moves items faster than standard conveyors."*
 

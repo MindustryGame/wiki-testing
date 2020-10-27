@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-vela-xlarge.png"></img> Vela
 
 
 *"Unknown..."*  

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-exponential-reconstructor-large.png"></img> Exponential Reconstructor
 
 *"Unknown..."*
 

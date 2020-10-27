@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-payload-conveyor-large.png"></img> Payload Conveyor
 
 *"Unknown..."*
 

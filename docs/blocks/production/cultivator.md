@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-cultivator-large.png"></img> Cultivator
 
 *"Cultivates tiny concentrations of spores in the atmosphere into industry-ready pods."*
 

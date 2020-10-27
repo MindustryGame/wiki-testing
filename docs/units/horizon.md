@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-horizon-xlarge.png"></img> Horizon
 
 
 *"Unknown..."*  

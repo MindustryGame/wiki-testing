@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-ground-factory-large.png"></img> Ground Factory
 
 *"Unknown..."*
 

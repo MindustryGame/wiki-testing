@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-distributor-large.png"></img> Distributor
 
 *"An advanced router. Splits items to up to 7 other directions equally."*
 

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-spiroct-xlarge.png"></img> Spiroct
 
 
 *"Unknown..."*  

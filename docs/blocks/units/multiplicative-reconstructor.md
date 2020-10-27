@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-multiplicative-reconstructor-large.png"></img> Multiplicative Reconstructor
 
 *"Unknown..."*
 

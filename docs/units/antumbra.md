@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-antumbra-xlarge.png"></img> Antumbra
 
 
 *"Unknown..."*  

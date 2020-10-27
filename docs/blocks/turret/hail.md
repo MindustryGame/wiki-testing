@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-hail-large.png"></img> Hail
 
 *"A small, long-range artillery turret."*
 

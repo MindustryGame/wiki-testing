@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/item-lead.png"></img> Lead 
 
 
 *"A basic starter material. Used extensively in electronics and liquid transportation blocks."*  

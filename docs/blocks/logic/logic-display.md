@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-logic-display-large.png"></img> Logic Display
 
 *"Unknown..."*
 

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-mono-xlarge.png"></img> Mono
 
 
 *"Unknown..."*  

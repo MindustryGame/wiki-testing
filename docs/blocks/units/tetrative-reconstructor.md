@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-tetrative-reconstructor-large.png"></img> Tetrative Reconstructor
 
 *"Unknown..."*
 

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-risso-xlarge.png"></img> Risso
 
 
 *"Unknown..."*  

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/liquid-cryofluid.png"></img> Cryofluid 
 
 *"An inert, non-corrosive liquid created from water and titanium. Has extremely high heat capacity. Extensively used as coolant."*
 

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-separator-large.png"></img> Separator
 
 *"Separates slag into its mineral components. Outputs the cooled result."*
 

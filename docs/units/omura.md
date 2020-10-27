@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-omura-xlarge.png"></img> Omura
 
 
 *"Unknown..."*  

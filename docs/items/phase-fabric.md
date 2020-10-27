@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/item-phase-fabric.png"></img> Phase Fabric 
 
 
 *"A near-weightless substance used in advanced electronics and self-repairing technology."*  

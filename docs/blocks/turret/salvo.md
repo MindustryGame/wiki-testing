@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-salvo-large.png"></img> Salvo
 
 *"A larger, more advanced version of the Duo turret. Fires quick salvos of bullets at the enemy."*
 

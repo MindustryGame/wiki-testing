@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-liquid-tank-large.png"></img> Liquid Tank
 
 *"Stores a large amount of liquids. Use for creating buffers in situations with non-constant demand of materials or as a safeguard for cooling vital blocks."*
 

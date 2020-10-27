@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-power-node-large.png"></img> Power Node
 
 *"Transmits power to connected nodes. The node will receive power from or supply power to any adjacent blocks."*
 

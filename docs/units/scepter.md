@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-scepter-xlarge.png"></img> Scepter
 
 
 *"Unknown..."*  

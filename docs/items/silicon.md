@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/item-silicon.png"></img> Silicon 
 
 
 *"An extremely useful semiconductor. Applications in solar panels, complex electronics and homing turret ammunition."*  

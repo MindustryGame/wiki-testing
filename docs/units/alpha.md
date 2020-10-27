@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-alpha-xlarge.png"></img> Alpha
 
 
 *"Unknown..."*  

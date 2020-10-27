@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-copper-wall-large-large.png"></img> Large Copper Wall
 
 *"A cheap defensive block.
 Useful for protecting the core and turrets in the first few waves.

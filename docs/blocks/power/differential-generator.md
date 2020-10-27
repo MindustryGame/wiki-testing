@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-differential-generator-large.png"></img> Differential Generator
 
 *"Generates large amounts of energy. Utilizes the temperature difference between cryofluid and burning pyratite."*
 

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-quasar-xlarge.png"></img> Quasar
 
 
 *"Unknown..."*  

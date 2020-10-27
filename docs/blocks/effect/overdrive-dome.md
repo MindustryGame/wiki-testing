@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-overdrive-dome-large.png"></img> Overdrive Dome
 
 *"Unknown..."*
 

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-core-foundation-large.png"></img> Core: Foundation
 
 *"The second version of the core. Better armored. Stores more resources."*
 

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-foreshadow-large.png"></img> Foreshadow
 
 *"Unknown..."*
 

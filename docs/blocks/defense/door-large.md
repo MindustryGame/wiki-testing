@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-door-large-large.png"></img> Large Door
 
 *"A large door. Can be opened and closed by tapping.
 Spans multiple tiles."*

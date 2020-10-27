@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-minke-xlarge.png"></img> Minke
 
 
 *"Unknown..."*  

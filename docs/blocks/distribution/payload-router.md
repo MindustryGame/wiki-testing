@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-payload-router-large.png"></img> Payload Router
 
 *"Unknown..."*
 

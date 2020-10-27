@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-eclipse-xlarge.png"></img> Eclipse
 
 
 *"Unknown..."*  

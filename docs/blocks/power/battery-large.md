@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-battery-large-large.png"></img> Large Battery
 
 *"Stores much more power than a regular battery."*
 

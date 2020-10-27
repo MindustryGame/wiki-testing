@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/item-coal.png"></img> Coal 
 
 
 *"Fossilized plant matter, formed long before the seeding event. Used extensively for fuel and resource production."*  

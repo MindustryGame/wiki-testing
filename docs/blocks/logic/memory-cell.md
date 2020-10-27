@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-memory-cell-large.png"></img> Memory Cell
 
 *"Unknown..."*
 

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-naval-factory-large.png"></img> Naval Factory
 
 *"Unknown..."*
 

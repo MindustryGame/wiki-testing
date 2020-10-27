@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-mace-xlarge.png"></img> Mace
 
 
 *"Unknown..."*  

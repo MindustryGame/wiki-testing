@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-silicon-crucible-large.png"></img> Silicon Crucible
 
 *"Unknown..."*
 

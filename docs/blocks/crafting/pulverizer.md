@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-pulverizer-large.png"></img> Pulverizer
 
 *"Crushes scrap into fine sand."*
 

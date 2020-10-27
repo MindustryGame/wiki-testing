@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-flare-xlarge.png"></img> Flare
 
 
 *"Unknown..."*  

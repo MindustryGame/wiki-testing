@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-poly-xlarge.png"></img> Poly
 
 
 *"Unknown..."*  

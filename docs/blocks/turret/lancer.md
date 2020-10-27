@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-lancer-large.png"></img> Lancer
 
 *"A medium-sized anti-ground laser turret. Charges and fires powerful beams of energy."*
 

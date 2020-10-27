@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-sei-xlarge.png"></img> Sei
 
 
 *"Unknown..."*  

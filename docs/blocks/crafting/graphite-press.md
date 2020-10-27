@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-graphite-press-large.png"></img> Graphite Press
 
 *"Compresses chunks of coal into pure sheets of graphite."*
 

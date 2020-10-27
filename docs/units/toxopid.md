@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-toxopid-xlarge.png"></img> Toxopid
 
 
 *"Unknown..."*  

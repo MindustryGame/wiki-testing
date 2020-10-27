@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-oct-xlarge.png"></img> Oct
 
 
 *"Unknown..."*  

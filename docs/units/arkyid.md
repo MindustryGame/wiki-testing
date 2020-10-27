@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-arkyid-xlarge.png"></img> Arkyid
 
 
 *"Unknown..."*  

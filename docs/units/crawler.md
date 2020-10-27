@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-crawler-xlarge.png"></img> Crawler
 
 
 *"Unknown..."*  

@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-laser-drill-large.png"></img> Laser Drill
 
 *"Allows drilling even faster through laser technology, but requires power. Capable of mining thorium."*
 

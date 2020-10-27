@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-dagger-xlarge.png"></img> Dagger
 
 
 *"Unknown..."*  

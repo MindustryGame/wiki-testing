@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/liquid-slag.png"></img> Slag 
 
 *"Various different types of molten metal mixed together. Can be separated into its constituent minerals, or sprayed at enemy units as a weapon."*
 

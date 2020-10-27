@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-tsunami-large.png"></img> Tsunami
 
 *"Unknown..."*
 

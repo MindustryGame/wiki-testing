@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-atrax-xlarge.png"></img> Atrax
 
 
 *"Unknown..."*  

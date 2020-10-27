@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/item-copper.png"></img> Copper 
 
 
 *"The most basic structural material. Used extensively in all types of blocks."*  

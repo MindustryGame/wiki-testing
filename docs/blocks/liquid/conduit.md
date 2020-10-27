@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-conduit-large.png"></img> Conduit
 
 *"Basic liquid transport block. Moves liquids forward. Used in conjunction with pumps and other conduits."*
 

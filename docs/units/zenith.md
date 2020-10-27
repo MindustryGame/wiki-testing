@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/unit-zenith-xlarge.png"></img> Zenith
 
 
 *"Unknown..."*  

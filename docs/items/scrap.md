@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/item-scrap.png"></img> Scrap 
 
 
 *"Leftover remnants of old structures and units. Contains trace amounts of many different metals."*  

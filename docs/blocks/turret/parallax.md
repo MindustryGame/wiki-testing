@@ -1,4 +1,3 @@
-# <img id="spr" src="/wiki/images/block-parallax-large.png"></img> Parallax
 
 *"Unknown..."*
 
