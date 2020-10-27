@@ -12,6 +12,10 @@ span.expandable { cursor:pointer; }
   border: none !important;
 }
 
+:root {
+  --md-primary-fg-color: #ffd37f !important;
+}
+
 img#spr {
   width: 1.6em;
   margin-left: 5px;
