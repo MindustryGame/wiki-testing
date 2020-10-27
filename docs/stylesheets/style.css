@@ -12,8 +12,8 @@ span.expandable { cursor:pointer; }
   border: none !important;
 }
 
-:root {
-  --md-primary-fg-color: #ffd37f !important;
+.md-header {
+  background-color: #e89c31 !important;
 }
 
 img#spr {
