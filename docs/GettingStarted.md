@@ -23,6 +23,8 @@ As of recently, you can now [buy the game on Steam](https://store.steampowered.c
 
 If you have JRE already installed (which is recommended), you can also run `desktop-release.jar` on Windows and Linux.
 
+For bleeding edge builds that are created for every commit, download them on the [MindustryBuilds GitHub repository.](https://github.com/Anuken/MindustryBuilds/releases)
+
 ### Android
 
 #### Play Store

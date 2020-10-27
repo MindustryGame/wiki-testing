@@ -20,12 +20,19 @@ To establish a dedicated server, a dedicated Linux or Windows machine is **highl
 If you want your server to be publicly available around the world, then read the following. If not, then you are done! 
 It is recommended and that you use a domain name or DNS service to mask your IP for public servers for ease of use, or even better, use a cloud service e.g. Amazon AWS or a dedicated server/VM from a hosting provider such as Linode or DigitalOcean, which is much safer. **Do your research**, and determine which option best fits your needs.
 
+### What is an IP and how do I find out what mine is?
+
+In simplified terms, an IP address is a number that identifies your computer on the internet. You can connect to someone's Mindustry server if you know their IP address. There are two types; a **public** and a **local** address.
+
+- For a **local IP**, when for example you would like to play with a friend on the same network as yours, each device has its own way of showing it. You can Google how to do it for your device, e.g. "find local ip on Mac".
+- For a **public IP**, you can simply Google "what is my ip".
+
 ### About Running A Dedicated Server At Home
 
-Most importantly, **never share your public IP with the public if your hosting from your home, unless you acknowledge the implications of doing so!** Your public IP is tied to your household, and if it falls into the wrong hands, it can be used to **easily** find your approximate location, even down to the city or block you live in. There is more that can happen; such as DoS attacks, data and information exploitation and collection, and unwanted access to other open ports in your network. **Exercise caution, do your research, and use a VPN if possible.**
+Most of the time, this is what you should remember; **never share your public IP with the public if you're hosting from your home, unless you acknowledge the implications of doing so!** Your public IP is tied to your household, and if it falls into the wrong hands, and when put into the wrong hands, can open up your network to vulnerabilities and dangers. **Exercise caution, do your research, and use a VPN or webhost if possible.**
 
 1. Find the make/model of your router. This is usually on a sticker on the bottom or back of the router.
-2. Use your favorite search engine to search 'port forward [your router make/model/name here]' and use the guide to foward **port 6567 TCP and UDP**. These instructions are different for every router, so be sure to read your guide thoroughly!
+2. Use your favorite search engine to search "port forward ASUS RT-ACRH17" and use the guide to foward **port 6567 TCP and UDP**. These instructions are different for every router, so be sure to read your guide thoroughly!
 3. You can use a service such as [You Get Signal](https://www.yougetsignal.com/tools/open-ports/) to check if you have done your portforwarding correctly. 
 
 ## Local LAN & Steam Servers
