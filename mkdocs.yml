@@ -2,7 +2,7 @@ site_name: Mindustry Wiki
 site_url: https://mindustrygame.github.io/wiki/
 repo_url: https://github.com/MindustryGame/wiki
 theme: 
-    name: 'rtd-dropdown'
+    name: readthedocs
     custom_dir: custom_theme/
 extra_css:
   - 'stylesheets/style.css'
