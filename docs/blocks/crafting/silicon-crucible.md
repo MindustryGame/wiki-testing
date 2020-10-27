@@ -16,7 +16,7 @@
 |Output|<a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x8  |
 |Production Time|1.5  seconds  |
 |Optional Enhancements| ... |
-|Affinities|![block-hotrock-medium](/wiki/images/block-hotrock-medium.png) [accent]+7%  ![block-magmarock-medium](/wiki/images/block-magmarock-medium.png) [accent]+11%  |
+|Affinities|![block-hotrock-medium](/wiki/images/block-hotrock-medium.png) +7%  ![block-magmarock-medium](/wiki/images/block-magmarock-medium.png) +11%  |
 
 
 --- 

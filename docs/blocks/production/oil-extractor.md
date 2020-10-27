@@ -14,7 +14,7 @@
 |Items| ... |
 |Item Capacity|10  items  |
 |Input/Output| ... |
-|Required Tiles|![block-salt-medium](/wiki/images/block-salt-medium.png) [accent]+30%  ![block-sand-medium](/wiki/images/block-sand-medium.png) [accent]+70%  ![block-shale-medium](/wiki/images/block-shale-medium.png) [accent]+100%  ![block-darksand-medium](/wiki/images/block-darksand-medium.png) [accent]+150%  |
+|Required Tiles|![block-salt-medium](/wiki/images/block-salt-medium.png) +30%  ![block-sand-medium](/wiki/images/block-sand-medium.png) +70%  ![block-shale-medium](/wiki/images/block-shale-medium.png) +100%  ![block-darksand-medium](/wiki/images/block-darksand-medium.png) +150%  |
 |Input|<a href="/wiki-testing/items/sand"><img id="spr" src="/wiki-testing/images/item-sand-xlarge.png"/></a>x1  <a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>9/sec  |
 |Output|<a href="/wiki-testing/liquids/oil"><img id="spr" src="/wiki-testing/images/liquid-oil.png"/></a>15/sec  |
 |Production Time|1  seconds  |
