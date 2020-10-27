@@ -16,6 +16,10 @@ span.expandable { cursor:pointer; }
   background-color: #d4816b !important;
 }
 
+span#md-header-nav {
+	font-family: 'Audiowide', cursive;
+}
+
 img#spr {
   width: 1.6em;
   margin-left: 5px;
