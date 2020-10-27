@@ -4,12 +4,12 @@
 
 | Property | Value |
 | ----------- | ----------- |
-|General||
+|**General**||
 |Health|360    |
 |Size|3x3  |
-|Power||
+|**Power**||
 |Power Use|120  power units/second  |
-|Items||
+|**Items**||
 |Item Capacity|25  items  |
 
 

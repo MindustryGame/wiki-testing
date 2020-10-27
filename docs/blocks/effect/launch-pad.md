@@ -4,14 +4,14 @@
 
 | Property | Value |
 | ----------- | ----------- |
-|General||
+|**General**||
 |Health|360    |
 |Size|3x3  |
 |Build Time|9.62  seconds  |
 |Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x350 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x200 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x150 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x140  |
-|Power||
+|**Power**||
 |Power Use|240  power units/second  |
-|Items||
+|**Items**||
 |Item Capacity|100  items  |
 |Time Between Launches|20  seconds  |
 

@@ -4,12 +4,12 @@
 
 | Property | Value |
 | ----------- | ----------- |
-|General||
+|**General**||
 |Health|40    |
 |Size|1x1  |
 |Build Time|0  seconds  |
 |Build Cost| |
-|Items||
+|**Items**||
 |Item Capacity|10  items  |
 
 

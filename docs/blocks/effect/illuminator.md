@@ -4,12 +4,12 @@
 
 | Property | Value |
 | ----------- | ----------- |
-|General||
+|**General**||
 |Health|40    |
 |Size|1x1  |
 |Build Time|0.31  seconds  |
 |Build Cost|<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x12 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x8  |
-|Power||
+|**Power**||
 |Power Use|3.6  power units/second  |
 
 

@@ -5,7 +5,7 @@ Provides moderate protection from enemies."*
 
 | Property | Value |
 | ----------- | ----------- |
-|General||
+|**General**||
 |Health|440    |
 |Size|1x1  |
 |Build Time|0.6  seconds  |

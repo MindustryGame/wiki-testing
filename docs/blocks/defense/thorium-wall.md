@@ -5,7 +5,7 @@ Decent protection from enemies."*
 
 | Property | Value |
 | ----------- | ----------- |
-|General||
+|**General**||
 |Health|800    |
 |Size|1x1  |
 |Build Time|0.66  seconds  |
