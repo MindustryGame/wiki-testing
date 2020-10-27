@@ -4,5 +4,6 @@ repo_url: https://github.com/MindustryGame/wiki-testing
 theme: 
   name: material
   favicon: images/favicon.png
+  logo: images/favicon.png
 extra_css:
   - 'stylesheets/style.css'
