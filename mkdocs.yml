@@ -5,7 +5,5 @@ theme:
   name: material
   favicon: images/favicon.png
   logo: images/favicon.png
-  font:
-    text: Ubuntu
 extra_css:
   - 'stylesheets/style.css'
