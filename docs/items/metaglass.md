@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-metaglass.png"></img> Metaglass 
 
 
+*"A super-tough glass compound. Extensively used for liquid distribution and storage."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`ebeef5`|
+|Internal Name|`metaglass`|
+|Color|`ebeef5ff`|
 |Naturally Occurring|No|
-|Build Cost|150%|
+|Build Cost|1.5|
 |Hardness|0|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@66153688
 
 --- 
 

@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-sand.png"></img> Sand 
 
 
+*"A common material that is used extensively in smelting, both in alloying and as a flux."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`f7cba4`|
+|Internal Name|`sand`|
+|Color|`f7cba4ff`|
 |Naturally Occurring|Yes|
-|Build Cost|100%|
+|Build Cost|1|
 |Hardness|0|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@3f1ddac2
 
 --- 
 

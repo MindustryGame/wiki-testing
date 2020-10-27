@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-graphite.png"></img> Graphite 
 
 
+*"Mineralized carbon, used for ammunition and electrical components."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`b2c6d2`|
+|Internal Name|`graphite`|
+|Color|`b2c6d2ff`|
 |Naturally Occurring|No|
-|Build Cost|100%|
+|Build Cost|1|
 |Hardness|0|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@455824ad
 
 --- 
 

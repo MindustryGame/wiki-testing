@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-copper.png"></img> Copper 
 
 
+*"The most basic structural material. Used extensively in all types of blocks."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`d99d73`|
+|Internal Name|`copper`|
+|Color|`d99d73ff`|
 |Naturally Occurring|Yes|
-|Build Cost|50%|
+|Build Cost|0.5|
 |Hardness|1|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@12010fd1
 
 --- 
 

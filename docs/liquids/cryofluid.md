@@ -1,13 +1,12 @@
+# <img id="spr" src="/wiki/images/liquid-cryofluid.png"></img> Cryofluid 
 
+*"An inert, non-corrosive liquid created from water and titanium. Has extremely high heat capacity. Extensively used as coolant."*
 
 | Property      | Value |
 | ----------- | ----------- |
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Heat Capacity|90 %  |
-|Viscosity|50 %  |
-|Temperature|25 %  |
-
+|Internal Name|`cryofluid`|
+|Color|`6ecdecff`|
+mindustry.world.meta.Stats@43e9089
 
 --- 
 

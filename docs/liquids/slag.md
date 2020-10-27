@@ -1,13 +1,12 @@
+# <img id="spr" src="/wiki/images/liquid-slag.png"></img> Slag 
 
+*"Various different types of molten metal mixed together. Can be separated into its constituent minerals, or sprayed at enemy units as a weapon."*
 
 | Property      | Value |
 | ----------- | ----------- |
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Heat Capacity|50 %  |
-|Viscosity|80 %  |
-|Temperature|100 %  |
-
+|Internal Name|`slag`|
+|Color|`ffa166ff`|
+mindustry.world.meta.Stats@255eaa6b
 
 --- 
 

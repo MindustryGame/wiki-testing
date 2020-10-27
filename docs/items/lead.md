@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-lead.png"></img> Lead 
 
 
+*"A basic starter material. Used extensively in electronics and liquid transportation blocks."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`8c7fa9`|
+|Internal Name|`lead`|
+|Color|`8c7fa9ff`|
 |Naturally Occurring|Yes|
-|Build Cost|70%|
+|Build Cost|0.7|
 |Hardness|1|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@552ed807
 
 --- 
 

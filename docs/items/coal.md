@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-coal.png"></img> Coal 
 
 
+*"Fossilized plant matter, formed long before the seeding event. Used extensively for fuel and resource production."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`272727`|
+|Internal Name|`coal`|
+|Color|`272727ff`|
 |Naturally Occurring|Yes|
-|Build Cost|100%|
+|Build Cost|1|
 |Hardness|2|
-|Explosiveness|20 %  |
-|Flammability|100 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@3be4fcc0
 
 --- 
 

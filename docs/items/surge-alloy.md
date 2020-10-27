@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-surge-alloy.png"></img> Surge Alloy 
 
 
+*"An advanced alloy with unique electrical properties."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`f3e979`|
+|Internal Name|`surge-alloy`|
+|Color|`f3e979ff`|
 |Naturally Occurring|No|
-|Build Cost|100%|
+|Build Cost|1|
 |Hardness|0|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@573284a5
 
 --- 
 

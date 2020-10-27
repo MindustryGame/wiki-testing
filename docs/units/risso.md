@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-risso-xlarge.png"></img> Risso
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|280    |
-|Speed|1.1    |
-|Command Limit|8    |
-|Item Capacity|30    |
-|Range|27  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@1716e8c5
 
 --- 
 

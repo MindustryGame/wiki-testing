@@ -1,13 +1,12 @@
+# <img id="spr" src="/wiki/images/liquid-water.png"></img> Water 
 
+*"The most useful liquid. Commonly used for cooling machines and waste processing."*
 
 | Property      | Value |
 | ----------- | ----------- |
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Heat Capacity|40 %  |
-|Viscosity|50 %  |
-|Temperature|50 %  |
-
+|Internal Name|`water`|
+|Color|`596ab8ff`|
+mindustry.world.meta.Stats@60bbacfc
 
 --- 
 

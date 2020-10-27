@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-dagger-xlarge.png"></img> Dagger
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|140    |
-|Speed|0.5    |
-|Command Limit|8    |
-|Item Capacity|30    |
-|Range|19  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@2f5ac102
 
 --- 
 

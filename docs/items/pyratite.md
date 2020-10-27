@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-pyratite.png"></img> Pyratite 
 
 
+*"An extremely flammable substance used in incendiary weapons."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`ffaa5f`|
+|Internal Name|`pyratite`|
+|Color|`ffaa5fff`|
 |Naturally Occurring|No|
-|Build Cost|100%|
+|Build Cost|1|
 |Hardness|0|
-|Explosiveness|40 %  |
-|Flammability|140 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@507b79f7
 
 --- 
 

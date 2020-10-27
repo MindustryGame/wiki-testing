@@ -1,13 +1,8 @@
+# <img id="spr" src="/wiki/images/block-command-center-large.png"></img> Command Center
 
+*"Unknown..."*
 
-
-|General||
-| --- | --- |
-|Health|220    |
-|Size|2x2  |
-|Build Time|9.58  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x200 <a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x250 <a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x100 <a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x250  |
-
+mindustry.world.meta.Stats@336206d8
 
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

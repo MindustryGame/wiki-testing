@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-flare-xlarge.png"></img> Flare
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|75    |
-|Speed|3    |
-|Command Limit|8    |
-|Item Capacity|20    |
-|Range|19  blocks  |
-
+|Flying|Yes|
+mindustry.world.meta.Stats@6dcc40f5
 
 --- 
 

@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-scepter-xlarge.png"></img> Scepter
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|9000    |
-|Speed|0.35    |
-|Command Limit|8    |
-|Item Capacity|80    |
-|Range|23  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@561b61ed
 
 --- 
 

@@ -1,15 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-toxopid-xlarge.png"></img> Toxopid
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|22000    |
-|Speed|0.5    |
-|Build Speed|100 %  |
-|Command Limit|8    |
-|Item Capacity|80    |
-|Range|31  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@4faa298
 
 --- 
 

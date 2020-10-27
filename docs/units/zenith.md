@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-zenith-xlarge.png"></img> Zenith
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|700    |
-|Speed|1.7    |
-|Command Limit|8    |
-|Item Capacity|80    |
-|Range|23  blocks  |
-
+|Flying|Yes|
+mindustry.world.meta.Stats@12e0f1cb
 
 --- 
 

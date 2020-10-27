@@ -1,15 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-arkyid-xlarge.png"></img> Arkyid
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|8000    |
-|Speed|0.5    |
-|Build Speed|100 %  |
-|Command Limit|8    |
-|Item Capacity|80    |
-|Range|18  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@5fcfde70
 
 --- 
 

@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-crawler-xlarge.png"></img> Crawler
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|180    |
-|Speed|1    |
-|Command Limit|8    |
-|Item Capacity|30    |
-|Range|1  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@62dbe64e
 
 --- 
 

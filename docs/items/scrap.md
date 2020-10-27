@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-scrap.png"></img> Scrap 
 
 
+*"Leftover remnants of old structures and units. Contains trace amounts of many different metals."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`777777`|
+|Internal Name|`scrap`|
+|Color|`777777ff`|
 |Naturally Occurring|Yes|
-|Build Cost|100%|
+|Build Cost|1|
 |Hardness|0|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@557eb543
 
 --- 
 

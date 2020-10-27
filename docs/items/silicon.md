@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-silicon.png"></img> Silicon 
 
 
+*"An extremely useful semiconductor. Applications in solar panels, complex electronics and homing turret ammunition."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`53565c`|
+|Internal Name|`silicon`|
+|Color|`53565cff`|
 |Naturally Occurring|No|
-|Build Cost|80%|
+|Build Cost|0.8|
 |Hardness|0|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@3730ab42
 
 --- 
 

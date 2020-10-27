@@ -1,13 +1,12 @@
+# <img id="spr" src="/wiki/images/liquid-oil.png"></img> Oil 
 
+*"A liquid used in advanced material production. Can be converted into coal as fuel, or sprayed and set on fire as a weapon."*
 
 | Property      | Value |
 | ----------- | ----------- |
-|Explosiveness|120 %  |
-|Flammability|120 %  |
-|Heat Capacity|70 %  |
-|Viscosity|70 %  |
-|Temperature|50 %  |
-
+|Internal Name|`oil`|
+|Color|`313131ff`|
+mindustry.world.meta.Stats@7a0e7ecd
 
 --- 
 

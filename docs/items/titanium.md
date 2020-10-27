@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-titanium.png"></img> Titanium 
 
 
+*"A rare super-light metal used extensively in liquid transportation, drills and aircraft."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`8da1e3`|
+|Internal Name|`titanium`|
+|Color|`8da1e3ff`|
 |Naturally Occurring|Yes|
-|Build Cost|100%|
+|Build Cost|1|
 |Hardness|3|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@37864b77
 
 --- 
 

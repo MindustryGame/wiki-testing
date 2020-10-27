@@ -1,15 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-spiroct-xlarge.png"></img> Spiroct
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|760    |
-|Speed|0.4    |
-|Build Speed|75 %  |
-|Command Limit|8    |
-|Item Capacity|40    |
-|Range|10  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@5f0f9947
 
 --- 
 

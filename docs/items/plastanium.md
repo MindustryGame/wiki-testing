@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-plastanium.png"></img> Plastanium 
 
 
+*"A light, ductile material used in advanced aircraft and fragmentation ammunition."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`cbd97f`|
+|Internal Name|`plastanium`|
+|Color|`cbd97fff`|
 |Naturally Occurring|No|
-|Build Cost|130%|
+|Build Cost|1.3|
 |Hardness|0|
-|Explosiveness|20 %  |
-|Flammability|10 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@7308ffff
 
 --- 
 

@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-blast-compound.png"></img> Blast Compound 
 
 
+*"An unstable compound used in bombs and explosives. Synthesized from spore pods and other volatile substances. Use as fuel is not advised."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`ff795e`|
+|Internal Name|`blast-compound`|
+|Color|`ff795eff`|
 |Naturally Occurring|No|
-|Build Cost|100%|
+|Build Cost|1|
 |Hardness|0|
-|Explosiveness|120 %  |
-|Flammability|40 %  |
-|Radioactivity|0 %  |
-
+mindustry.world.meta.Stats@87b5b49
 
 --- 
 

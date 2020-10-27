@@ -1,15 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-omura-xlarge.png"></img> Omura
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|22000    |
-|Speed|0.62    |
-|Command Limit|8    |
-|Abilities|Flare Factory  |
-|Item Capacity|200    |
-|Range|70  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@77a074b4
 
 --- 
 

@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-thorium.png"></img> Thorium 
 
 
+*"A dense, radioactive metal used as structural support and nuclear fuel."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`f9a3c7`|
+|Internal Name|`thorium`|
+|Color|`f9a3c7ff`|
 |Naturally Occurring|Yes|
-|Build Cost|110%|
+|Build Cost|1.1|
 |Hardness|4|
-|Explosiveness|20 %  |
-|Flammability|0 %  |
-|Radioactivity|100 %  |
-
+mindustry.world.meta.Stats@540b0448
 
 --- 
 

@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-horizon-xlarge.png"></img> Horizon
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|350    |
-|Speed|2    |
-|Command Limit|8    |
-|Item Capacity|30    |
-|Range|3  blocks  |
-
+|Flying|Yes|
+mindustry.world.meta.Stats@4745e9c
 
 --- 
 

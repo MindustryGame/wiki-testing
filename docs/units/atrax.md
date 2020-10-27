@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-atrax-xlarge.png"></img> Atrax
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|600    |
-|Speed|0.5    |
-|Command Limit|8    |
-|Item Capacity|40    |
-|Range|8  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@7cbeac65
 
 --- 
 

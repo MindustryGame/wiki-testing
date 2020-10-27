@@ -1,14 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-corvus-xlarge.png"></img> Corvus
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|18000    |
-|Speed|0.3    |
-|Command Limit|8    |
-|Item Capacity|110    |
-|Range|59  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@4da6d664
 
 --- 
 

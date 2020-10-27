@@ -1,16 +1,16 @@
+# <img id="spr" src="/wiki/images/item-phase-fabric.png"></img> Phase Fabric 
 
 
+*"A near-weightless substance used in advanced electronics and self-repairing technology."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Color|`f4ba6e`|
+|Internal Name|`phase-fabric`|
+|Color|`f4ba6eff`|
 |Naturally Occurring|No|
-|Build Cost|130%|
+|Build Cost|1.3|
 |Hardness|0|
-|Explosiveness|0 %  |
-|Flammability|0 %  |
-|Radioactivity|60 %  |
-
+mindustry.world.meta.Stats@54d901aa
 
 --- 
 

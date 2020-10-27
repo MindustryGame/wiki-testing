@@ -1,16 +1,12 @@
+# <img id="spr" src="/wiki/images/unit-nova-xlarge.png"></img> Nova
 
 
+*"Unknown..."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Health|110    |
-|Speed|0.55    |
-|Build Speed|80 %  |
-|Command Limit|8    |
-|Abilities|Repair Field  |
-|Item Capacity|30    |
-|Range|26  blocks  |
-
+|Flying|No|
+mindustry.world.meta.Stats@c27a3a2
 
 --- 
 
