@@ -3,9 +3,9 @@ site_url: https://mindustrygame.github.io/wiki-testing/
 repo_url: https://github.com/MindustryGame/wiki-testing
 theme: 
   name: readthedocs
-  custom_dir: custom_theme/
-extra_css:
-  - 'stylesheets/style.css'
+  #custom_dir: custom_theme/
+#extra_css:
+#  - 'stylesheets/style.css'
 #nav:
 #  - 'Welcome!': 'index.md'
 #  - 'Getting Started': 'GettingStarted.md'
@@ -13,4 +13,4 @@ extra_css:
 #  - Modding: 'modding.md'
 #  - Servers: 'servers.md'
 #  - Logic: 'logic/'
-extra_javascript: [menu.js]
+#extra_javascript: [menu.js]
