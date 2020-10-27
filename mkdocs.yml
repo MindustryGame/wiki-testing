@@ -5,5 +5,7 @@ theme:
   name: material
   favicon: images/favicon.png
   logo: images/favicon.png
+  features:
+    - navigation.tabs
 extra_css:
   - 'stylesheets/style.css'
