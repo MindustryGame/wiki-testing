@@ -5,7 +5,7 @@ Spans multiple tiles."*
 
 | Property | Value |
 | ----------- | ----------- |
-|**General**||
+|General||
 |Health|2080    |
 |Size|2x2  |
 |Build Time|3.8  seconds  |

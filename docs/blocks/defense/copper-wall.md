@@ -5,7 +5,7 @@ Useful for protecting the core and turrets in the first few waves."*
 
 | Property | Value |
 | ----------- | ----------- |
-|**General**||
+|General||
 |Health|320    |
 |Size|1x1  |
 |Build Time|0.3  seconds  |

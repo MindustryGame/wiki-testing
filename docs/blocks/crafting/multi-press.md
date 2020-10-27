@@ -4,18 +4,18 @@
 
 | Property | Value |
 | ----------- | ----------- |
-|**General**||
+|General||
 |Health|360    |
 |Size|3x3  |
 |Build Time|4  seconds  |
 |Build Cost|<a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x100 <a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x50 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x100 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x25  |
-|**Power**||
+|Power||
 |Power Use|108  power units/second  |
-|**Liquids**||
+|Liquids||
 |Liquid Capacity|10  liquid units  |
-|**Items**||
+|Items||
 |Item Capacity|10  items  |
-|**Input/Output**||
+|Input/Output||
 |Input|<a href="/wiki-testing/items/coal"><img id="spr" src="/wiki-testing/images/item-coal-xlarge.png"/></a>x3  <a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>6/sec  |
 |Output|<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x2  |
 |Production Time|0.5  seconds  |

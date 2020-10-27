@@ -1,0 +1,18 @@
+# <img id="spr" src="/wiki-testing/images/block-power-source-large.png"></img> Power Infinite
+
+*"Infinitely outputs power. Sandbox only."*
+
+| Property | Value |
+| ----------- | ----------- |
+|General||
+|Health|40    |
+|Size|1x1  |
+|Build Time|0  seconds  |
+|Build Cost| |
+|Power||
+|Power Range|6  blocks  |
+|Max Connections|100    |
+
+
+--- 
+[comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

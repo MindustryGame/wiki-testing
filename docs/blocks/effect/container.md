@@ -4,12 +4,12 @@
 
 | Property | Value |
 | ----------- | ----------- |
-|**General**||
+|General||
 |Health|160    |
 |Size|2x2  |
 |Build Time|1.67  seconds  |
 |Build Cost|<a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x100  |
-|**Items**||
+|Items||
 |Item Capacity|300  items  |
 
 

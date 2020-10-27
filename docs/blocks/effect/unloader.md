@@ -4,7 +4,7 @@
 
 | Property | Value |
 | ----------- | ----------- |
-|**General**||
+|General||
 |Health|70    |
 |Size|1x1  |
 |Build Time|0.82  seconds  |
