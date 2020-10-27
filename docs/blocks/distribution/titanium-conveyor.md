@@ -4,12 +4,12 @@
 
 | Property | Value |
 | ----------- | ----------- |
-|General||
+|**General**||
 |Health|65    |
 |Size|1x1  |
 |Build Time|0.04  seconds  |
 |Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x1 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x1 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x1  |
-|Items||
+|**Items**||
 |Item Capacity|4  items  |
 |Move Speed|11  items/second  |
 
