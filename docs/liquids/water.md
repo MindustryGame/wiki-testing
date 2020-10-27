@@ -2,26 +2,16 @@
 
 *"The most useful liquid. Commonly used for cooling machines and waste processing."*
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Heat Capacity|40 %  |
+|Viscosity|50 %  |
+|Temperature|50 %  |
+
 |Internal Name|`water`|
 |Color|`596ab8ff`|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Heat Capacity|| Property      | Value |
-| ----------- | ----------- |
-40 %  |
-|Viscosity|| Property      | Value |
-| ----------- | ----------- |
-50 %  |
-|Temperature|| Property      | Value |
-| ----------- | ----------- |
-50 %  |
-
 
 --- 
 

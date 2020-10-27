@@ -3,23 +3,17 @@
 
 *"Fossilized plant matter, formed long before the seeding event. Used extensively for fuel and resource production."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|20 %  |
+|Flammability|100 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`coal`|
 |Color|`272727`|
 |Naturally Occurring|Yes|
 |Build Cost|100%|
 |Hardness|2|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-20 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-100 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

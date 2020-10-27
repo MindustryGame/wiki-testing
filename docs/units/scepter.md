@@ -3,25 +3,15 @@
 
 *"Unknown..."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
-|Flying|No|
-|Health|| Property      | Value |
-| ----------- | ----------- |
-9000    |
-|Speed|| Property      | Value |
-| ----------- | ----------- |
-0.35    |
-|Command Limit|| Property      | Value |
-| ----------- | ----------- |
-8    |
-|Item Capacity|| Property      | Value |
-| ----------- | ----------- |
-80    |
-|Range|| Property      | Value |
-| ----------- | ----------- |
-23  blocks  |
+|Health|9000    |
+|Speed|0.35    |
+|Command Limit|8    |
+|Item Capacity|80    |
+|Range|23  blocks  |
 
+|Flying|No|
 
 --- 
 

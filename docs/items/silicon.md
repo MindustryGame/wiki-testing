@@ -3,23 +3,17 @@
 
 *"An extremely useful semiconductor. Applications in solar panels, complex electronics and homing turret ammunition."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`silicon`|
 |Color|`53565c`|
 |Naturally Occurring|No|
 |Build Cost|80%|
 |Hardness|0|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

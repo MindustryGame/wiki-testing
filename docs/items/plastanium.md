@@ -3,23 +3,17 @@
 
 *"A light, ductile material used in advanced aircraft and fragmentation ammunition."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|20 %  |
+|Flammability|10 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`plastanium`|
 |Color|`cbd97f`|
 |Naturally Occurring|No|
 |Build Cost|130%|
 |Hardness|0|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-20 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-10 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

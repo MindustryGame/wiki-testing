@@ -4,25 +4,15 @@
 Builds up charge on bullet contact, releasing it randomly.
 Spans multiple tiles."*
 
+| Property | Value |
+| ----------- | ----------- |
 |General||
-|Health|| Property      | Value |
-| ----------- | ----------- |
-3680    |
-|Size|| Property      | Value |
-| ----------- | ----------- |
-2x2  |
-|Build Time|| Property      | Value |
-| ----------- | ----------- |
-2.4  seconds  |
-|Build Cost|| Property      | Value |
-| ----------- | ----------- |
-<a href="/wiki-testing/items/surge-alloy"><img id="spr" src="/wiki-testing/images/item-surge-alloy-xlarge.png"/></a>x24  |
-|Lightning Chance|| Property      | Value |
-| ----------- | ----------- |
-5 %  |
-|Lightning Damage|| Property      | Value |
-| ----------- | ----------- |
-20    |
+|Health|3680    |
+|Size|2x2  |
+|Build Time|2.4  seconds  |
+|Build Cost|<a href="/wiki-testing/items/surge-alloy"><img id="spr" src="/wiki-testing/images/item-surge-alloy-xlarge.png"/></a>x24  |
+|Lightning Chance|5 %  |
+|Lightning Damage|20    |
 
 
 --- 

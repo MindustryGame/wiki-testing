@@ -3,31 +3,17 @@
 
 *"Unknown..."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
-|Flying|No|
-|Health|| Property      | Value |
-| ----------- | ----------- |
-110    |
-|Speed|| Property      | Value |
-| ----------- | ----------- |
-0.55    |
-|Build Speed|| Property      | Value |
-| ----------- | ----------- |
-80 %  |
-|Command Limit|| Property      | Value |
-| ----------- | ----------- |
-8    |
-|Abilities|| Property      | Value |
-| ----------- | ----------- |
-Repair Field  |
-|Item Capacity|| Property      | Value |
-| ----------- | ----------- |
-30    |
-|Range|| Property      | Value |
-| ----------- | ----------- |
-26  blocks  |
+|Health|110    |
+|Speed|0.55    |
+|Build Speed|80 %  |
+|Command Limit|8    |
+|Abilities|Repair Field  |
+|Item Capacity|30    |
+|Range|26  blocks  |
 
+|Flying|No|
 
 --- 
 

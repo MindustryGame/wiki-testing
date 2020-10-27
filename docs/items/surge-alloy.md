@@ -3,23 +3,17 @@
 
 *"An advanced alloy with unique electrical properties."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`surge-alloy`|
 |Color|`f3e979`|
 |Naturally Occurring|No|
 |Build Cost|100%|
 |Hardness|0|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

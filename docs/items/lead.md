@@ -3,23 +3,17 @@
 
 *"A basic starter material. Used extensively in electronics and liquid transportation blocks."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`lead`|
 |Color|`8c7fa9`|
 |Naturally Occurring|Yes|
 |Build Cost|70%|
 |Hardness|1|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

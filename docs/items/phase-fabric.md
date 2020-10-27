@@ -3,23 +3,17 @@
 
 *"A near-weightless substance used in advanced electronics and self-repairing technology."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|60 %  |
+
 |Internal Name|`phase-fabric`|
 |Color|`f4ba6e`|
 |Naturally Occurring|No|
 |Build Cost|130%|
 |Hardness|0|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-60 %  |
-
 
 --- 
 

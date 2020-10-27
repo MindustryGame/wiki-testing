@@ -4,23 +4,15 @@
 
 [scarlet]Never use next to production inputs, as they will get clogged by output.[]"*
 
+| Property | Value |
+| ----------- | ----------- |
 |General||
-|Health|| Property      | Value |
-| ----------- | ----------- |
-40    |
-|Size|| Property      | Value |
-| ----------- | ----------- |
-1x1  |
-|Build Time|| Property      | Value |
-| ----------- | ----------- |
-0.1  seconds  |
-|Build Cost|| Property      | Value |
-| ----------- | ----------- |
-<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x3  |
+|Health|40    |
+|Size|1x1  |
+|Build Time|0.1  seconds  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x3  |
 |Items||
-|Item Capacity|| Property      | Value |
-| ----------- | ----------- |
-1  items  |
+|Item Capacity|1  items  |
 
 
 --- 

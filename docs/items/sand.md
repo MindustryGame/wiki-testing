@@ -3,23 +3,17 @@
 
 *"A common material that is used extensively in smelting, both in alloying and as a flux."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`sand`|
 |Color|`f7cba4`|
 |Naturally Occurring|Yes|
 |Build Cost|100%|
 |Hardness|0|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

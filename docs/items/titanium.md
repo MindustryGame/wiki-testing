@@ -3,23 +3,17 @@
 
 *"A rare super-light metal used extensively in liquid transportation, drills and aircraft."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`titanium`|
 |Color|`8da1e3`|
 |Naturally Occurring|Yes|
 |Build Cost|100%|
 |Hardness|3|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

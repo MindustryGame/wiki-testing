@@ -3,31 +3,17 @@
 
 *"Unknown..."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
-|Flying|Yes|
-|Health|| Property      | Value |
-| ----------- | ----------- |
-6000    |
-|Speed|| Property      | Value |
-| ----------- | ----------- |
-1.4    |
-|Build Speed|| Property      | Value |
-| ----------- | ----------- |
-250 %  |
-|Payload Capacity|| Property      | Value |
-| ----------- | ----------- |
-9  blocks²  |
-|Command Limit|| Property      | Value |
-| ----------- | ----------- |
-8    |
-|Item Capacity|| Property      | Value |
-| ----------- | ----------- |
-120    |
-|Range|| Property      | Value |
-| ----------- | ----------- |
-5  blocks  |
+|Health|6000    |
+|Speed|1.4    |
+|Build Speed|250 %  |
+|Payload Capacity|9  blocks²  |
+|Command Limit|8    |
+|Item Capacity|120    |
+|Range|5  blocks  |
 
+|Flying|Yes|
 
 --- 
 

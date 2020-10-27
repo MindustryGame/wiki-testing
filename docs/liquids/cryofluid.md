@@ -2,26 +2,16 @@
 
 *"An inert, non-corrosive liquid created from water and titanium. Has extremely high heat capacity. Extensively used as coolant."*
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Heat Capacity|90 %  |
+|Viscosity|50 %  |
+|Temperature|25 %  |
+
 |Internal Name|`cryofluid`|
 |Color|`6ecdecff`|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Heat Capacity|| Property      | Value |
-| ----------- | ----------- |
-90 %  |
-|Viscosity|| Property      | Value |
-| ----------- | ----------- |
-50 %  |
-|Temperature|| Property      | Value |
-| ----------- | ----------- |
-25 %  |
-
 
 --- 
 

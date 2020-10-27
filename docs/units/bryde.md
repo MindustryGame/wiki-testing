@@ -3,28 +3,16 @@
 
 *"Unknown..."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
-|Flying|No|
-|Health|| Property      | Value |
-| ----------- | ----------- |
-900    |
-|Speed|| Property      | Value |
-| ----------- | ----------- |
-0.85    |
-|Command Limit|| Property      | Value |
-| ----------- | ----------- |
-8    |
-|Abilities|| Property      | Value |
-| ----------- | ----------- |
-Shield Regen Field  |
-|Item Capacity|| Property      | Value |
-| ----------- | ----------- |
-60    |
-|Range|| Property      | Value |
-| ----------- | ----------- |
-41  blocks  |
+|Health|900    |
+|Speed|0.85    |
+|Command Limit|8    |
+|Abilities|Shield Regen Field  |
+|Item Capacity|60    |
+|Range|41  blocks  |
 
+|Flying|No|
 
 --- 
 

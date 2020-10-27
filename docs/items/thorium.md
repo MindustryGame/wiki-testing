@@ -3,23 +3,17 @@
 
 *"A dense, radioactive metal used as structural support and nuclear fuel."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|20 %  |
+|Flammability|0 %  |
+|Radioactivity|100 %  |
+
 |Internal Name|`thorium`|
 |Color|`f9a3c7`|
 |Naturally Occurring|Yes|
 |Build Cost|110%|
 |Hardness|4|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-20 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-100 %  |
-
 
 --- 
 

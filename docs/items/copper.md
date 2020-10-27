@@ -3,23 +3,17 @@
 
 *"The most basic structural material. Used extensively in all types of blocks."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`copper`|
 |Color|`d99d73`|
 |Naturally Occurring|Yes|
 |Build Cost|50%|
 |Hardness|1|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

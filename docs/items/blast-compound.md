@@ -3,23 +3,17 @@
 
 *"An unstable compound used in bombs and explosives. Synthesized from spore pods and other volatile substances. Use as fuel is not advised."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|120 %  |
+|Flammability|40 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`blast-compound`|
 |Color|`ff795e`|
 |Naturally Occurring|No|
 |Build Cost|100%|
 |Hardness|0|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-120 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-40 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 

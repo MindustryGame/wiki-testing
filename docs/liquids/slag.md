@@ -2,26 +2,16 @@
 
 *"Various different types of molten metal mixed together. Can be separated into its constituent minerals, or sprayed at enemy units as a weapon."*
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Heat Capacity|50 %  |
+|Viscosity|80 %  |
+|Temperature|100 %  |
+
 |Internal Name|`slag`|
 |Color|`ffa166ff`|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Heat Capacity|| Property      | Value |
-| ----------- | ----------- |
-50 %  |
-|Viscosity|| Property      | Value |
-| ----------- | ----------- |
-80 %  |
-|Temperature|| Property      | Value |
-| ----------- | ----------- |
-100 %  |
-
 
 --- 
 

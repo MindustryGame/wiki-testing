@@ -2,27 +2,17 @@
 
 *"Continuously heals the closest damaged unit in its vicinity."*
 
+| Property | Value |
+| ----------- | ----------- |
 |General||
-|Health|| Property      | Value |
-| ----------- | ----------- |
-40    |
-|Size|| Property      | Value |
-| ----------- | ----------- |
-1x1  |
-|Build Time|| Property      | Value |
-| ----------- | ----------- |
-0.5  seconds  |
-|Build Cost|| Property      | Value |
-| ----------- | ----------- |
-<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x15 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x15 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x15  |
+|Health|40    |
+|Size|1x1  |
+|Build Time|0.5  seconds  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x15 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x15 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x15  |
 |Power||
-|Power Use|| Property      | Value |
-| ----------- | ----------- |
-60  power units/second  |
+|Power Use|60  power units/second  |
 |Function||
-|Range|| Property      | Value |
-| ----------- | ----------- |
-8.13  blocks  |
+|Range|8.13  blocks  |
 
 
 --- 

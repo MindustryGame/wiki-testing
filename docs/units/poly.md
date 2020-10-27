@@ -3,37 +3,19 @@
 
 *"Unknown..."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
-|Flying|Yes|
-|Health|| Property      | Value |
-| ----------- | ----------- |
-400    |
-|Speed|| Property      | Value |
-| ----------- | ----------- |
-2.6    |
-|Build Speed|| Property      | Value |
-| ----------- | ----------- |
-50 %  |
-|Mine Speed|| Property      | Value |
-| ----------- | ----------- |
-350 %  |
-|Mine Tier|| Property      | Value |
-| ----------- | ----------- |
-![block-ore-copper-small](/wiki/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki/images/block-ore-scrap-small.png) Scrap ![block-ore-coal-small](/wiki/images/block-ore-coal-small.png) Coal  |
-|Command Limit|| Property      | Value |
-| ----------- | ----------- |
-8    |
-|Abilities|| Property      | Value |
-| ----------- | ----------- |
-Repair Field  |
-|Item Capacity|| Property      | Value |
-| ----------- | ----------- |
-30    |
-|Range|| Property      | Value |
-| ----------- | ----------- |
-28  blocks  |
+|Health|400    |
+|Speed|2.6    |
+|Build Speed|50 %  |
+|Mine Speed|350 %  |
+|Mine Tier|![block-ore-copper-small](/wiki/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki/images/block-ore-scrap-small.png) Scrap ![block-ore-coal-small](/wiki/images/block-ore-coal-small.png) Coal  |
+|Command Limit|8    |
+|Abilities|Repair Field  |
+|Item Capacity|30    |
+|Range|28  blocks  |
 
+|Flying|Yes|
 
 --- 
 

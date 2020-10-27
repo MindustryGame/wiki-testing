@@ -4,26 +4,16 @@
 Accepts items at the back, and unloads them in three directions at the front.
 Requires multiple loading and unloading points for peak throughput."*
 
+| Property | Value |
+| ----------- | ----------- |
 |General||
-|Health|| Property      | Value |
-| ----------- | ----------- |
-75    |
-|Size|| Property      | Value |
-| ----------- | ----------- |
-1x1  |
-|Build Time|| Property      | Value |
-| ----------- | ----------- |
-0.05  seconds  |
-|Build Cost|| Property      | Value |
-| ----------- | ----------- |
-<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x1 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x1 <a href="/wiki-testing/items/plastanium"><img id="spr" src="/wiki-testing/images/item-plastanium-xlarge.png"/></a>x1  |
+|Health|75    |
+|Size|1x1  |
+|Build Time|0.05  seconds  |
+|Build Cost|<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x1 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x1 <a href="/wiki-testing/items/plastanium"><img id="spr" src="/wiki-testing/images/item-plastanium-xlarge.png"/></a>x1  |
 |Items||
-|Item Capacity|| Property      | Value |
-| ----------- | ----------- |
-10  items  |
-|Move Speed|| Property      | Value |
-| ----------- | ----------- |
-40  items/second  |
+|Item Capacity|10  items  |
+|Move Speed|40  items/second  |
 
 
 --- 

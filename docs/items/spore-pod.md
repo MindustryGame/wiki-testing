@@ -3,23 +3,17 @@
 
 *"A pod of synthetic spores, synthesized from atmospheric concentrations for industrial purposes. Used for conversion into oil, explosives and fuel."*  
 
-| Property      | Value |
+| Property | Value |
 | ----------- | ----------- |
+|Explosiveness|0 %  |
+|Flammability|115 %  |
+|Radioactivity|0 %  |
+
 |Internal Name|`spore-pod`|
 |Color|`7457ce`|
 |Naturally Occurring|No|
 |Build Cost|100%|
 |Hardness|0|
-|Explosiveness|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-|Flammability|| Property      | Value |
-| ----------- | ----------- |
-115 %  |
-|Radioactivity|| Property      | Value |
-| ----------- | ----------- |
-0 %  |
-
 
 --- 
 
