@@ -8,7 +8,6 @@
 |Explosiveness|20 %  |
 |Flammability|0 %  |
 |Radioactivity|100 %  |
-
 |Internal Name|`thorium`|
 |Color|`f9a3c7`|
 |Naturally Occurring|Yes|

@@ -17,6 +17,5 @@
 |Input|<a href="/wiki-testing/items/thorium"><img id="spr" src="/wiki-testing/images/item-thorium-xlarge.png"/></a> / <a href="/wiki-testing/items/phase-fabric"><img id="spr" src="/wiki-testing/images/item-phase-fabric-xlarge.png"/></a>  |
 |Production Time|18  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

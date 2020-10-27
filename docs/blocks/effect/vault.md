@@ -12,6 +12,5 @@
 |**Items**||
 |Item Capacity|1000  items  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

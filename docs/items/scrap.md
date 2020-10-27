@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`scrap`|
 |Color|`777777`|
 |Naturally Occurring|Yes|

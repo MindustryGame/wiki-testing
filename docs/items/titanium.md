@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`titanium`|
 |Color|`8da1e3`|
 |Naturally Occurring|Yes|

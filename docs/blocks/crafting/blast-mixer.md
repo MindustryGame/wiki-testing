@@ -18,6 +18,5 @@
 |Output|<a href="/wiki-testing/items/blast-compound"><img id="spr" src="/wiki-testing/images/item-blast-compound-xlarge.png"/></a>x1  |
 |Production Time|1.33  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

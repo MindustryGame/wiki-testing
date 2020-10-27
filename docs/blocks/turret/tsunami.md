@@ -19,6 +19,5 @@
 |Targets Ground|@yes  |
 |Ammo|![liquid-water-medium](/wiki/images/liquid-water-medium.png) Water <br> • **0.1** damage <br> • **2**x ammo multiplier <br> • **1.7** knockback <br>![liquid-slag-medium](/wiki/images/liquid-slag-medium.png) Slag <br> • **5** damage <br> • **2**x ammo multiplier <br> • **1.3** knockback @bullet.incendiary <br>![liquid-cryofluid-medium](/wiki/images/liquid-cryofluid-medium.png) Cryofluid <br> • **0.1** damage <br> • **2**x ammo multiplier <br> • **1.3** knockback @bullet.freezing <br>![liquid-oil-medium](/wiki/images/liquid-oil-medium.png) Oil <br> • **0.1** damage <br> • **2**x ammo multiplier <br> • **1.3** knockback @bullet.tarred <br> |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

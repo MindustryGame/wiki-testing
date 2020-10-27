@@ -9,7 +9,6 @@
 |Heat Capacity|50 %  |
 |Viscosity|80 %  |
 |Temperature|100 %  |
-
 |Internal Name|`slag`|
 |Color|`ffa166ff`|
 

@@ -16,6 +16,5 @@
 |Output|<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x1  |
 |Production Time|1.5  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -20,6 +20,5 @@
 |Output|<a href="/wiki-testing/liquids/slag"><img id="spr" src="/wiki-testing/images/liquid-slag.png"/></a>12/sec  |
 |Production Time|0.17  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

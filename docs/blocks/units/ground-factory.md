@@ -14,6 +14,5 @@
 |**Input/Output**||
 |Output|![unit-dagger-small](/wiki/images/unit-dagger-small.png) Dagger <br>![unit-crawler-small](/wiki/images/unit-crawler-small.png) Crawler <br>![unit-nova-small](/wiki/images/unit-nova-small.png) Nova <br> |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

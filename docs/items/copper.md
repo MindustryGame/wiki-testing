@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`copper`|
 |Color|`d99d73`|
 |Naturally Occurring|Yes|

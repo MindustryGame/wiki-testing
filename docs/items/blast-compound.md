@@ -8,7 +8,6 @@
 |Explosiveness|120 %  |
 |Flammability|40 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`blast-compound`|
 |Color|`ff795e`|
 |Naturally Occurring|No|

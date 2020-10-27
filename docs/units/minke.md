@@ -11,7 +11,6 @@
 |Abilities|Status Field  |
 |Item Capacity|40    |
 |Range|32  blocks  |
-
 |Flying|No|
 
 --- 

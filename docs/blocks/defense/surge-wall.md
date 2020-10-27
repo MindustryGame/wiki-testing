@@ -13,6 +13,5 @@ Builds up charge on bullet contact, releasing it randomly."*
 |Lightning Chance|5 %  |
 |Lightning Damage|20    |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`surge-alloy`|
 |Color|`f3e979`|
 |Naturally Occurring|No|

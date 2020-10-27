@@ -22,6 +22,5 @@
 |**Optional Enhancements**||
 |Affinities|![block-moss-medium](/wiki/images/block-moss-medium.png) +15%  ![block-spore-moss-medium](/wiki/images/block-spore-moss-medium.png) +30%  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

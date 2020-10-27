@@ -14,6 +14,5 @@
 |**Input/Output**||
 |Output|![unit-flare-small](/wiki/images/unit-flare-small.png) Flare <br>![unit-mono-small](/wiki/images/unit-mono-small.png) Mono <br> |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -17,6 +17,5 @@
 |Targets Ground|@no  |
 |Damage|24  /sec  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

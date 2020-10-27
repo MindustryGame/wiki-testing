@@ -10,6 +10,5 @@
 |Build Time|0.08  seconds  |
 |Build Cost|<a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x2 <a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x2  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

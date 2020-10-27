@@ -15,6 +15,5 @@
 |Range|20  blocks  |
 |Shots/Second|6.67    |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

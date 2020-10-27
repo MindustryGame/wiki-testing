@@ -20,6 +20,5 @@
 |Input|<a href="/wiki-testing/items/blast-compound"><img id="spr" src="/wiki-testing/images/item-blast-compound-xlarge.png"/></a>x1  <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>15/sec  |
 |Production Time|2.33  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

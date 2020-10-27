@@ -20,6 +20,5 @@
 |Output|<a href="/wiki-testing/items/plastanium"><img id="spr" src="/wiki-testing/images/item-plastanium-xlarge.png"/></a>x1  |
 |Production Time|1  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

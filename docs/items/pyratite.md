@@ -8,7 +8,6 @@
 |Explosiveness|40 %  |
 |Flammability|140 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`pyratite`|
 |Color|`ffaa5f`|
 |Naturally Occurring|No|

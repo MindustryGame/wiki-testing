@@ -18,6 +18,5 @@
 |**Optional Enhancements**||
 |Affinities|![block-magmarock-medium](/wiki/images/block-magmarock-medium.png) -75%  ![block-hotrock-medium](/wiki/images/block-hotrock-medium.png) -50%  ![block-salt-medium](/wiki/images/block-salt-medium.png) -30%  ![block-basalt-medium](/wiki/images/block-basalt-medium.png) -25%  ![block-grass-medium](/wiki/images/block-grass-medium.png) +10%  ![block-snow-medium](/wiki/images/block-snow-medium.png) +20%  ![block-ice-snow-medium](/wiki/images/block-ice-snow-medium.png) +30%  ![block-ice-medium](/wiki/images/block-ice-medium.png) +40%  ![block-mud-medium](/wiki/images/block-mud-medium.png) +100%  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

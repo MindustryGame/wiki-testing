@@ -11,7 +11,6 @@
 |Abilities|Flare Factory  |
 |Item Capacity|200    |
 |Range|70  blocks  |
-
 |Flying|No|
 
 --- 

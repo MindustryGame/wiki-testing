@@ -15,6 +15,5 @@
 |Item Capacity|100  items  |
 |Time Between Launches|20  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -20,6 +20,5 @@
 |Output|![unit-antumbra-small](/wiki/images/unit-antumbra-small.png) Antumbra <br> • ** ->  ![unit-eclipse-small](/wiki/images/unit-eclipse-small.png) Eclipse <br>![unit-arkyid-small](/wiki/images/unit-arkyid-small.png) Arkyid <br> • ** ->  ![unit-toxopid-small](/wiki/images/unit-toxopid-small.png) Toxopid <br>![unit-scepter-small](/wiki/images/unit-scepter-small.png) Scepter <br> • ** ->  ![unit-reign-small](/wiki/images/unit-reign-small.png) Reign <br>![unit-sei-small](/wiki/images/unit-sei-small.png) Sei <br> • ** ->  ![unit-omura-small](/wiki/images/unit-omura-small.png) Omura <br>![unit-quad-small](/wiki/images/unit-quad-small.png) Quad <br> • ** ->  ![unit-oct-small](/wiki/images/unit-oct-small.png) Oct <br>![unit-vela-small](/wiki/images/unit-vela-small.png) Vela <br> • ** ->  ![unit-corvus-small](/wiki/images/unit-corvus-small.png) Corvus <br> |
 |Production Time|240  seconds  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

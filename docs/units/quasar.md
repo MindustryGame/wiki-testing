@@ -14,7 +14,6 @@
 |Abilities|Force Field  |
 |Item Capacity|40    |
 |Range|20  blocks  |
-
 |Flying|No|
 
 --- 

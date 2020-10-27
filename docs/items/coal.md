@@ -8,7 +8,6 @@
 |Explosiveness|20 %  |
 |Flammability|100 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`coal`|
 |Color|`272727`|
 |Naturally Occurring|Yes|

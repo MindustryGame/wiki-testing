@@ -14,6 +14,5 @@
 |**Input/Output**||
 |Input|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x1  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

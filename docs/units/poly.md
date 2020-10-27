@@ -14,7 +14,6 @@
 |Abilities|Repair Field  |
 |Item Capacity|30    |
 |Range|28  blocks  |
-
 |Flying|Yes|
 
 --- 

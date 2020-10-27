@@ -13,6 +13,5 @@
 |Item Capacity|1  items  |
 |Max Consecutive|2    |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

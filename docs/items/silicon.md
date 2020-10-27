@@ -8,7 +8,6 @@
 |Explosiveness|0 %  |
 |Flammability|0 %  |
 |Radioactivity|0 %  |
-
 |Internal Name|`silicon`|
 |Color|`53565c`|
 |Naturally Occurring|No|

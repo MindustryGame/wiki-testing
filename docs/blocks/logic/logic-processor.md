@@ -13,6 +13,5 @@
 |Link Range|22  blocks  |
 |Instructions|480  /sec  |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)

@@ -12,6 +12,5 @@ Spans multiple tiles."*
 |Build Cost|<a href="/wiki-testing/items/phase-fabric"><img id="spr" src="/wiki-testing/images/item-phase-fabric-xlarge.png"/></a>x24  |
 |Base Deflect Chance|10    |
 
-
 --- 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)
