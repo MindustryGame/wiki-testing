@@ -5,7 +5,7 @@ theme:
   name: material
   favicon: images/favicon.png
   logo: images/favicon.png
-  features:
-    - navigation.tabs
+  font:
+    text: Audiowide
 extra_css:
   - 'stylesheets/style.css'
