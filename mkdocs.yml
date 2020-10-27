@@ -6,6 +6,6 @@ theme:
   favicon: images/favicon.png
   logo: images/favicon.png
   font:
-    text: Audiowide
+    text: Ubuntu
 extra_css:
   - 'stylesheets/style.css'
