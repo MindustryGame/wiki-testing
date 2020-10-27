@@ -1,13 +1,5 @@
 # Frequently Asked Questions
 
-## Where do I download the game?
-
-For PC, you can get the game on [itch.io](https://anuke.itch.io/mindustry) or [Steam.](https://store.steampowered.com/app/1127400/Mindustry/)
-For Android, you can get the game on [Google Play.](https://play.google.com/store/apps/details?id=io.anuke.mindustry)
-For iOS, you can buy it on the [App Store.](https://apps.apple.com/us/app/mindustry/id1385258906?ign-mpt=uo%3D8)
-
-If you want the bleeding edge builds that are created for every commit, download them on the [MindustryBuilds GitHub repository.](https://github.com/Anuken/MindustryBuilds/releases)
-
 ## How do I play multiplayer with my friends/enemies?
 
 If you're on the same wifi or hotspot network, it should be easy. Start playing a game, open the pause menu and press "Host Multiplayer Game" button. This will make your game available to everyone in the same network. To join this game from another device, click Play > Join Game. If another player is hosting, the game should pop up in the list of servers.
@@ -43,7 +35,7 @@ Note that the file chooser will only display files with an .msav extension. If y
 
 Open your map in the editor. Open the menu, then press "Export". Select a directory, type in a filename and press "Save".
 
-## I don't like Mindustry 6.0 for some reason, what do I do?
+## I don't like the current version of Mindustry for some reason, what do I do?
 
 Just download Mindustry Classic for the old experience. It's identical to build 3.5 40, albeit with some minor bugfixes.
 
@@ -58,6 +50,7 @@ While the game itself could theoretically support it, no, it does not support th
 However, the dedicated server will run on a Pi as long as you have the right version of Java installed. Note that the 3.5/Classic dedicated server will not run on a Pi; only 4.0 and above is supported.
 
 ## Where is the game's source code?
+
 On GitHub: [https://github.com/Anuken/Mindustry](https://github.com/Anuken/Mindustry)
 
 ## Did Anuke make the game alone?
