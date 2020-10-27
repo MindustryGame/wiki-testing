@@ -15,9 +15,9 @@
 |Range|25  blocks  |
 |Inaccuracy|3  degrees  |
 |Shots/Second|20    |
-|Targets Air|@yes  |
-|Targets Ground|@yes  |
-|Ammo|![item-graphite-medium](/wiki/images/item-graphite-medium.png) Graphite <br> • **55** damage <br> • **2**x ammo multiplier <br>![item-pyratite-medium](/wiki/images/item-pyratite-medium.png) Pyratite <br> • **60** damage <br> • **2**x ammo multiplier <br> • **2**x pierce @bullet.incendiary <br>![item-thorium-medium](/wiki/images/item-thorium-medium.png) Thorium <br> • **80** damage <br> • **2**x ammo multiplier <br> • **2**x pierce <br> |
+|Targets Air|Yes  |
+|Targets Ground|Yes  |
+|Ammo|![item-graphite-medium](/wiki/images/item-graphite-medium.png) Graphite <br> • **55** damage <br> • **2**x ammo multiplier <br>![item-pyratite-medium](/wiki/images/item-pyratite-medium.png) Pyratite <br> • **60** damage <br> • **2**x ammo multiplier <br> • **2**x pierce <br> • **incendiary** <br>![item-thorium-medium](/wiki/images/item-thorium-medium.png) Thorium <br> • **80** damage <br> • **2**x ammo multiplier <br> • **2**x pierce <br> |
 |**Optional Enhancements**||
 |Booster|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>120/sec / <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>120/sec  ![liquid-water-medium](/wiki/images/liquid-water-medium.png) Water <br> • **1.4**x fire rate ![liquid-cryofluid-medium](/wiki/images/liquid-cryofluid-medium.png) Cryofluid <br> • **1.9**x fire rate <br> |
 

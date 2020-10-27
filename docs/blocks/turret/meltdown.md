@@ -19,8 +19,8 @@
 |Range|23.75  blocks  |
 |Inaccuracy|0  degrees  |
 |Shots/Second|0.67    |
-|Targets Air|@yes  |
-|Targets Ground|@yes  |
+|Targets Air|Yes  |
+|Targets Ground|Yes  |
 |Damage|840  /sec  |
 
 --- 
