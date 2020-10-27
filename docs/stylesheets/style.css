@@ -17,8 +17,8 @@ span.expandable { cursor:pointer; }
 }
 
 .md-header-nav__topic {
-	font-family: 'Audiowide', serif !important;
-	text-shadow: 0px 0px 8px black !important;
+	font-family: 'Audiowide', serif;
+	/*text-shadow: 0px 0px 8px black;*/
 }
 
 img#spr {
