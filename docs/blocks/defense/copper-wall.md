@@ -3,8 +3,7 @@
 *"A cheap defensive block.
 Useful for protecting the core and turrets in the first few waves."*
 
-
-|General||
+|General| ... |
 |Health|320    |
 |Size|1x1  |
 |Build Time|0.3  seconds  |

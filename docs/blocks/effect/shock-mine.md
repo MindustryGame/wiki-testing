@@ -2,8 +2,7 @@
 
 *"Damages enemies stepping on the mine. Nearly invisible to the enemy."*
 
-
-|General||
+|General| ... |
 |Health|50    |
 |Size|1x1  |
 |Build Time|0.45  seconds  |

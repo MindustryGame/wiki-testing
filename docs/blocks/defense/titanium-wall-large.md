@@ -4,8 +4,7 @@
 Provides moderate protection from enemies.
 Spans multiple tiles."*
 
-
-|General||
+|General| ... |
 |Health|1760    |
 |Size|2x2  |
 |Build Time|2.4  seconds  |

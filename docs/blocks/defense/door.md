@@ -2,8 +2,7 @@
 
 *"A small door. Can be opened or closed by tapping."*
 
-
-|General||
+|General| ... |
 |Health|400    |
 |Size|1x1  |
 |Build Time|0.92  seconds  |

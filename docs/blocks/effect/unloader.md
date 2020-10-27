@@ -2,8 +2,7 @@
 
 *"Unloads items from any nearby non-transportation block. The type of item to be unloaded can be changed by tapping."*
 
-
-|General||
+|General| ... |
 |Health|70    |
 |Size|1x1  |
 |Build Time|0.82  seconds  |

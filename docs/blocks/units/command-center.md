@@ -2,8 +2,7 @@
 
 *"Unknown..."*
 
-
-|General||
+|General| ... |
 |Health|220    |
 |Size|2x2  |
 |Build Time|9.58  seconds  |

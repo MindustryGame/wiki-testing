@@ -3,8 +3,7 @@
 *"A strong defensive block.
 Decent protection from enemies."*
 
-
-|General||
+|General| ... |
 |Health|800    |
 |Size|1x1  |
 |Build Time|0.66  seconds  |

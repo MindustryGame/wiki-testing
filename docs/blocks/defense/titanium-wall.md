@@ -3,8 +3,7 @@
 *"A moderately strong defensive block.
 Provides moderate protection from enemies."*
 
-
-|General||
+|General| ... |
 |Health|440    |
 |Size|1x1  |
 |Build Time|0.6  seconds  |

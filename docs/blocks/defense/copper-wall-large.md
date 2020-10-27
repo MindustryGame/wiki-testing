@@ -4,8 +4,7 @@
 Useful for protecting the core and turrets in the first few waves.
 Spans multiple tiles."*
 
-
-|General||
+|General| ... |
 |Health|1280    |
 |Size|2x2  |
 |Build Time|1.2  seconds  |

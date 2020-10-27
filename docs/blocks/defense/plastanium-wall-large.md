@@ -3,8 +3,7 @@
 *"A special type of wall that absorbs electric arcs and blocks automatic power node connections.
 Spans multiple tiles."*
 
-
-|General||
+|General| ... |
 |Health|2080    |
 |Size|2x2  |
 |Build Time|3.8  seconds  |

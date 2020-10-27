@@ -4,8 +4,7 @@
 Builds up charge on bullet contact, releasing it randomly.
 Spans multiple tiles."*
 
-
-|General||
+|General| ... |
 |Health|3680    |
 |Size|2x2  |
 |Build Time|2.4  seconds  |

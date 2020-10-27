@@ -3,8 +3,7 @@
 *"A large door. Can be opened and closed by tapping.
 Spans multiple tiles."*
 
-
-|General||
+|General| ... |
 |Health|1600    |
 |Size|2x2  |
 |Build Time|3.68  seconds  |

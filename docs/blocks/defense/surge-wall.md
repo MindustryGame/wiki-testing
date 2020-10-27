@@ -3,8 +3,7 @@
 *"An extremely durable defensive block.
 Builds up charge on bullet contact, releasing it randomly."*
 
-
-|General||
+|General| ... |
 |Health|920    |
 |Size|1x1  |
 |Build Time|0.6  seconds  |

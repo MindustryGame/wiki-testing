@@ -2,25 +2,20 @@
 
 *"Unknown..."*
 
-
-|General||
+|General| ... |
 |Health|360    |
 |Size|3x3  |
 |Build Time|5.56  seconds  |
 |Build Cost|<a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x80 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x120 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x60 <a href="/wiki-testing/items/plastanium"><img id="spr" src="/wiki-testing/images/item-plastanium-xlarge.png"/></a>x35  |
-
-|Power||
+|Power| ... |
 |Power Use|240  power units/second  |
-
-|Items||
+|Items| ... |
 |Item Capacity|30  items  |
-
-|Input/Output||
+|Input/Output| ... |
 |Input|<a href="/wiki-testing/items/coal"><img id="spr" src="/wiki-testing/images/item-coal-xlarge.png"/></a>x4 <a href="/wiki-testing/items/sand"><img id="spr" src="/wiki-testing/images/item-sand-xlarge.png"/></a>x6 <a href="/wiki-testing/items/pyratite"><img id="spr" src="/wiki-testing/images/item-pyratite-xlarge.png"/></a>x1  |
 |Output|<a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x8  |
 |Production Time|1.5  seconds  |
-
-|Optional Enhancements||
+|Optional Enhancements| ... |
 |Affinities|![block-hotrock-medium](/wiki/images/block-hotrock-medium.png) [accent]+7%  ![block-magmarock-medium](/wiki/images/block-magmarock-medium.png) [accent]+11%  |
 
 

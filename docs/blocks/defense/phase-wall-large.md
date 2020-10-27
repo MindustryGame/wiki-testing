@@ -3,8 +3,7 @@
 *"A wall coated with special phase-based reflective compound. Deflects most bullets upon impact.
 Spans multiple tiles."*
 
-
-|General||
+|General| ... |
 |Health|2400    |
 |Size|2x2  |
 |Build Time|3.12  seconds  |

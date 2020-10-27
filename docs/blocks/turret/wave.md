@@ -2,17 +2,14 @@
 
 *"A medium-sized turret. Shoots streams of liquid at enemies. Automatically extinguishes fires when supplied with water."*
 
-
-|General||
+|General| ... |
 |Health|1000    |
 |Size|2x2  |
 |Build Time|2  seconds  |
 |Build Cost|<a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x75 <a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x45  |
-
-|Liquids||
+|Liquids| ... |
 |Liquid Capacity|10  liquid units  |
-
-|Function||
+|Function| ... |
 |Range|13.75  blocks  |
 |Inaccuracy|5  degrees  |
 |Shots/Second|30    |

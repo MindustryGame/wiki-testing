@@ -2,8 +2,7 @@
 
 *"Acts as a bridge for two crossing conduits. Useful in situations with two different conduits carrying different liquids to different locations."*
 
-
-|General||
+|General| ... |
 |Health|40    |
 |Size|1x1  |
 |Build Time|0.08  seconds  |

@@ -2,8 +2,7 @@
 
 *"Unknown..."*
 
-
-|General||
+|General| ... |
 |Health|1440    |
 |Size|6x6  |
 |Display Size|176x176  |

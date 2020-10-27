@@ -2,8 +2,7 @@
 
 *"Battery power can flow through this block in only one direction, but only if the other side has less power stored."*
 
-
-|General||
+|General| ... |
 |Health|40    |
 |Size|1x1  |
 |Build Time|0.49  seconds  |
