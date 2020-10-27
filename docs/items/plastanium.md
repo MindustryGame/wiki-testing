@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`plastanium`|
-|Color|`cbd97fff`|
+|Color|`cbd97f`|
 |Naturally Occurring|No|
-|Build Cost|1.3|
+|Build Cost|130%|
 |Hardness|0|
-mindustry.world.meta.Stats@7308ffff
+|Explosiveness|20 %  |
+|Flammability|10 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

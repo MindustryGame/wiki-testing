@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`coal`|
-|Color|`272727ff`|
+|Color|`272727`|
 |Naturally Occurring|Yes|
-|Build Cost|1|
+|Build Cost|100%|
 |Hardness|2|
-mindustry.world.meta.Stats@3be4fcc0
+|Explosiveness|20 %  |
+|Flammability|100 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

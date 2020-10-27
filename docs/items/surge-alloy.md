@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`surge-alloy`|
-|Color|`f3e979ff`|
+|Color|`f3e979`|
 |Naturally Occurring|No|
-|Build Cost|1|
+|Build Cost|100%|
 |Hardness|0|
-mindustry.world.meta.Stats@573284a5
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

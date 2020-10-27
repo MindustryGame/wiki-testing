@@ -6,7 +6,12 @@
 | ----------- | ----------- |
 |Internal Name|`oil`|
 |Color|`313131ff`|
-mindustry.world.meta.Stats@7a0e7ecd
+|Explosiveness|120 %  |
+|Flammability|120 %  |
+|Heat Capacity|70 %  |
+|Viscosity|70 %  |
+|Temperature|50 %  |
+
 
 --- 
 

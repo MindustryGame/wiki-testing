@@ -6,7 +6,15 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Flying|Yes|
-mindustry.world.meta.Stats@67e13bd0
+|Health|150    |
+|Speed|3    |
+|Build Speed|50 %  |
+|Mine Speed|600 %  |
+|Mine Tier|![block-ore-copper-small](/wiki/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki/images/block-ore-scrap-small.png) Scrap  |
+|Command Limit|3    |
+|Item Capacity|30    |
+|Range|19  blocks  |
+
 
 --- 
 

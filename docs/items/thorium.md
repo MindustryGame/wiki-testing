@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`thorium`|
-|Color|`f9a3c7ff`|
+|Color|`f9a3c7`|
 |Naturally Occurring|Yes|
-|Build Cost|1.1|
+|Build Cost|110%|
 |Hardness|4|
-mindustry.world.meta.Stats@540b0448
+|Explosiveness|20 %  |
+|Flammability|0 %  |
+|Radioactivity|100 %  |
+
 
 --- 
 

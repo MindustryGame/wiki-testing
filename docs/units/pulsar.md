@@ -6,7 +6,16 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Flying|No|
-mindustry.world.meta.Stats@3ee0b4f7
+|Health|300    |
+|Speed|0.7    |
+|Build Speed|90 %  |
+|Mine Speed|500 %  |
+|Mine Tier|![block-ore-copper-small](/wiki/images/block-ore-copper-small.png) Copper ![block-ore-lead-small](/wiki/images/block-ore-lead-small.png) Lead ![block-ore-scrap-small](/wiki/images/block-ore-scrap-small.png) Scrap ![block-ore-coal-small](/wiki/images/block-ore-coal-small.png) Coal  |
+|Command Limit|8    |
+|Abilities|Shield Regen Field  |
+|Item Capacity|40    |
+|Range|8  blocks  |
+
 
 --- 
 

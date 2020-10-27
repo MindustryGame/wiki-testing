@@ -6,7 +6,12 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Flying|No|
-mindustry.world.meta.Stats@5f7989fa
+|Health|790    |
+|Speed|0.38    |
+|Command Limit|8    |
+|Item Capacity|50    |
+|Range|28  blocks  |
+
 
 --- 
 

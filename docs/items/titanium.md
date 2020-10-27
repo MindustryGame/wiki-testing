@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`titanium`|
-|Color|`8da1e3ff`|
+|Color|`8da1e3`|
 |Naturally Occurring|Yes|
-|Build Cost|1|
+|Build Cost|100%|
 |Hardness|3|
-mindustry.world.meta.Stats@37864b77
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

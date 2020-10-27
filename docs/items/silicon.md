@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`silicon`|
-|Color|`53565cff`|
+|Color|`53565c`|
 |Naturally Occurring|No|
-|Build Cost|0.8|
+|Build Cost|80%|
 |Hardness|0|
-mindustry.world.meta.Stats@3730ab42
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

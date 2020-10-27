@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`spore-pod`|
-|Color|`7457ceff`|
+|Color|`7457ce`|
 |Naturally Occurring|No|
-|Build Cost|1|
+|Build Cost|100%|
 |Hardness|0|
-mindustry.world.meta.Stats@3fbfbf84
+|Explosiveness|0 %  |
+|Flammability|115 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

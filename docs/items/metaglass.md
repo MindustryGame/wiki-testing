@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`metaglass`|
-|Color|`ebeef5ff`|
+|Color|`ebeef5`|
 |Naturally Occurring|No|
-|Build Cost|1.5|
+|Build Cost|150%|
 |Hardness|0|
-mindustry.world.meta.Stats@66153688
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

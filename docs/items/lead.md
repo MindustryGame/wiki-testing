@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`lead`|
-|Color|`8c7fa9ff`|
+|Color|`8c7fa9`|
 |Naturally Occurring|Yes|
-|Build Cost|0.7|
+|Build Cost|70%|
 |Hardness|1|
-mindustry.world.meta.Stats@552ed807
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

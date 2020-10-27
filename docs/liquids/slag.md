@@ -6,7 +6,12 @@
 | ----------- | ----------- |
 |Internal Name|`slag`|
 |Color|`ffa166ff`|
-mindustry.world.meta.Stats@255eaa6b
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Heat Capacity|50 %  |
+|Viscosity|80 %  |
+|Temperature|100 %  |
+
 
 --- 
 

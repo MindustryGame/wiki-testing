@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`graphite`|
-|Color|`b2c6d2ff`|
+|Color|`b2c6d2`|
 |Naturally Occurring|No|
-|Build Cost|1|
+|Build Cost|100%|
 |Hardness|0|
-mindustry.world.meta.Stats@455824ad
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

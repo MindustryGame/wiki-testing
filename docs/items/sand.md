@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`sand`|
-|Color|`f7cba4ff`|
+|Color|`f7cba4`|
 |Naturally Occurring|Yes|
-|Build Cost|1|
+|Build Cost|100%|
 |Hardness|0|
-mindustry.world.meta.Stats@3f1ddac2
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`phase-fabric`|
-|Color|`f4ba6eff`|
+|Color|`f4ba6e`|
 |Naturally Occurring|No|
-|Build Cost|1.3|
+|Build Cost|130%|
 |Hardness|0|
-mindustry.world.meta.Stats@54d901aa
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|60 %  |
+
 
 --- 
 

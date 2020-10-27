@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`copper`|
-|Color|`d99d73ff`|
+|Color|`d99d73`|
 |Naturally Occurring|Yes|
-|Build Cost|0.5|
+|Build Cost|50%|
 |Hardness|1|
-mindustry.world.meta.Stats@12010fd1
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

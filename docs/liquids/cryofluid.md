@@ -6,7 +6,12 @@
 | ----------- | ----------- |
 |Internal Name|`cryofluid`|
 |Color|`6ecdecff`|
-mindustry.world.meta.Stats@43e9089
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Heat Capacity|90 %  |
+|Viscosity|50 %  |
+|Temperature|25 %  |
+
 
 --- 
 

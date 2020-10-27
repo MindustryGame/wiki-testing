@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`pyratite`|
-|Color|`ffaa5fff`|
+|Color|`ffaa5f`|
 |Naturally Occurring|No|
-|Build Cost|1|
+|Build Cost|100%|
 |Hardness|0|
-mindustry.world.meta.Stats@507b79f7
+|Explosiveness|40 %  |
+|Flammability|140 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

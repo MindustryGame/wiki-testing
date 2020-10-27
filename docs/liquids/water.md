@@ -6,7 +6,12 @@
 | ----------- | ----------- |
 |Internal Name|`water`|
 |Color|`596ab8ff`|
-mindustry.world.meta.Stats@60bbacfc
+|Explosiveness|0 %  |
+|Flammability|0 %  |
+|Heat Capacity|40 %  |
+|Viscosity|50 %  |
+|Temperature|50 %  |
+
 
 --- 
 

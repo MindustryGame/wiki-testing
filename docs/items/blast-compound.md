@@ -6,11 +6,14 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Internal Name|`blast-compound`|
-|Color|`ff795eff`|
+|Color|`ff795e`|
 |Naturally Occurring|No|
-|Build Cost|1|
+|Build Cost|100%|
 |Hardness|0|
-mindustry.world.meta.Stats@87b5b49
+|Explosiveness|120 %  |
+|Flammability|40 %  |
+|Radioactivity|0 %  |
+
 
 --- 
 

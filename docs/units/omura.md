@@ -6,7 +6,13 @@
 | Property      | Value |
 | ----------- | ----------- |
 |Flying|No|
-mindustry.world.meta.Stats@77a074b4
+|Health|22000    |
+|Speed|0.62    |
+|Command Limit|8    |
+|Abilities|Flare Factory  |
+|Item Capacity|200    |
+|Range|70  blocks  |
+
 
 --- 
 
