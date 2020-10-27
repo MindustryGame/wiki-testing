@@ -1,0 +1,19 @@
+language: python
+
+python: 3.6
+
+branches: master
+
+install: 
+  pip install mkdocs
+  pip install mkdocs-rtd-dropdown
+
+script: mkdocs build
+
+deploy: 
+  provider: pages
+  skip_cleanup: true
+  github_token: $github_token
+  local_dir: site
+  on: 
+    branch: master
