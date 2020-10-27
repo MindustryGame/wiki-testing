@@ -1,7 +1,7 @@
 
 # Modding
 
-Mindustry mods are simply directories of assests. There are many ways to use the modding API, depending on exactly what you want to do, and how far you're willing to go to do it.
+Mindustry mods are simply directories of assets. There are many ways to use the modding API, depending on exactly what you want to do, and how far you're willing to go to do it.
 
 You could just resprite existing game content, you can create new game content with the simpler Json API (which is the main focus of this documentation), you can add custom sounds (or reuse existing ones). It's possible to add maps to campaign mode, and add scripts to program special behavior into your mod, like custom effects. 
 
@@ -23,7 +23,7 @@ Your project directory should look something like this:
     │   ├── mechs
     │   ├── liquids
     │   ├── units
-    │   └── zones
+    │   └── sectors
     ├── maps
     ├── bundles
     ├── sounds
@@ -32,9 +32,9 @@ Your project directory should look something like this:
     ├── sprites-override
     └── sprites
 
--   [`mod.json`](#modjson) (required) metadata file for your mod,
+-   [`mod.(h)json`](#modjson) (required) metadata file for your mod,
 -   `content/*` directories for game [Content](#content),
--   `maps/` directory for [Zone](#zone) maps,
+-   `maps/` directory for [Sector](#sector) maps,
 -   `bundles/` directory for [Bundles](#bundles),
 -   `sounds/` directory for [Sound](#sound) files,
 -   `schematics/` directory for [Schematic](#schematic) files,
@@ -97,12 +97,14 @@ At the root of your project directory, you must have a `mod.json` which defines 
     version: "1.0"
     minGameVersion: "100.3"
     dependencies: [ ]
+    hidden: false
 
 -   `name` will be used to reference to your mod, so name it carefully;
 -   `displayName` this will be used as a display name for the UI, which you can use to add formatting to said name;
 -   `description` of the mod will be rendered in the ingame mod manager, so keep it short and to the point;
 -   `dependencies` is optional, if you want to know more about that, go to the [dependencies](#dependencies) section;
 -   `minGameVersion` is the minimum build version of the game.
+-   `hidden` will allow a client to join servers without this mod, and vice versa for clients joining a server. Use this for mods like texture packs or JS plugins.
 
 
 
@@ -115,7 +117,7 @@ At the root of your project directory you can have a `content/` directory, and t
 -   `content/mechs/` for [mechs](#mech), like `tau` and `glaive`;
 -   `content/liquids/` for [liquids](#liquid), like `water` and `slag`;
 -   `content/units/` for flying or ground [units](#unittype), like `reaper` and `dagger`;
--   `content/zones/` for [zones](#zone), configuration of campaign maps.
+-   `content/sectors/` for [sectors](#sector), configuration of campaign maps.
 
 Note that each one of these subdirectories needs a specific content type. The filenames of these files is important, because the stem name of your path *(filename without the extension)* is used to reference it.
 
@@ -137,6 +139,7 @@ The content of these files will tend to look something like this:
 |description|String|Displayed description of content.|
 
 Other fields included will be the fields of the type itself.
+You may forgo `name` and `description`, instead using (Bundles)[#bundle] for localized text.
 
 
 
@@ -153,32 +156,42 @@ What you can expect a field to do is up to the specific type, some types do abso
 Here you can see, the type of the top level object is `Revenant`, but the type of the `bullet` is `BulletType` so you can use `MissileBulletType`, because `MissileBulletType` extends `BulletType`.
 
     type: Revenant
-    weapon: {
+    weapons: [{
       bullet: {
         type: MissileBulletType
         damage: 9000
       }
-    }
+    }]
 
 
 
 ## Tech Tree
 
-Much like `type` there exist another magical field known as `research` which can go at the root of any block object to put it in the techtree.
+Much like `type` there exists another magical field known as `research` which can go at the root of any block object to put it in the techtree.
 
     research: duo
 
 This would put your block after `duo` in the techtree, and to put it after your own mods block you would write your `<block-name>`, a mod name prefix is only required if you're using the content from another mod.
 
-Research cost will be `40 + round(requirements ^ 1.25) * 6 rounded down to the nearest 10`, where `requirements` is the build cost of your block. *(in otherwords you can't set `requirements` and `research cost` individually)*
+Research cost will be `40 + round(requirements ^ 1.25) * 6 rounded down to the nearest 10`, where `requirements` is the build cost of your block.
 
+You may also set research costs manually, which is **required** for researchable items and liquids, by setting research to this object:
 
+    research: {
+        parent: duo
+        requirements: [
+            copper/100
+        ]
+     }
 
 ## Sprites
 
-All you need to make sprites, is an image editor that supports transparency *(aka: not paint).* Block sprites should be `32 * size`, so a `2x2` block would require a `64x64` image. Images must be `.png` files with 32 bit depth.
+All you need to make sprites, is an image editor that supports transparency *(aka: not paint).* Block sprites should be `32 * size`, so a `2x2` block would require a `64x64` image. Images must be `.png` files with a **32-bit RGBA** format.
+**Using a wrong format**, *e.g. RGB 565*, **can throw a "Pixmap decode error".**
 
-Sprites can simply be dropped in the `sprites/` subdirectory. The content parser will look through it recursively, so you can organize them how ever you feel.
+Sprites can simply be dropped in the `sprites/` subdirectory. The content parser will look through it recursively, so you can organize them how ever you feel, however the first folder's name decides which page the sprite is added to on the atlas.
+All this means is that if you are making a floor, put it in environment or it'll be very laggy.
+See the vanilla sprites folder for all the pages.
 
 Content is going to look for sprites relative to it's own name. `content/blocks/my-hail.json` has the name `my-hail` and similarly `sprites/my-hail.png` has the name `my-hail`, so it'll be used by this content.
 
@@ -191,6 +204,7 @@ You can find all the vanilla sprites here:
 Another thing to know about sprites is that some of them are modified by the game. Turrets specifically have a black border added to them, so you must account for that while making your sprites, leaving transparent space around turrets for example: [Ripple](https://raw.githubusercontent.com/Anuken/Mindustry/master/core/assets-raw/sprites/blocks/turrets/ripple.png)
 
 To override ingame content sprites, you can simply put them in `sprites-override/`.
+This removes the `<modname>-` prefix to the atlas key, which vanilla obviously doesn't use. You can use this to override sprites of other mods by prefixed them in that fasion.
 
 
 
@@ -298,7 +312,8 @@ List of content type:
 -   `unit`
 -   `weather`
 -   `effect`
--   `zone`
+-   `sector`
+-   `planet`
 -   `loadout`
 -   `typeid`
 
@@ -346,14 +361,14 @@ The text renderer uses a simple makeup language for coloring text.
 
 Notes:
 
--   erros/unknown colors will be silently ignored.
+-   errors/unknown colors will be silently ignored.
 
 Example:
 
     [red]red
     [#ff0000]full-red
-    [#ff000066]half-red
-    [#ff000033]half-half-red
+    [#ff000088]half-red
+    [#ff000044]half-half-red
     [#00ff00]green
     []half-half-red
 
@@ -400,7 +415,7 @@ Example:
 
 ## Schematic
 
-Fields that require the type `Schematic` can either take a built-in loadout *(see the [Zone](#zone) section)* a base64 string, or the stem name of a `.msch` file in the `schematics/` subdirectory.
+Fields that require the type `Schematic` can either take a built-in loadout *(see the [Sector](#sector) section)* a base64 string, or the stem name of a `.msch` file in the `schematics/` subdirectory.
 
 *As of now, the only purpose of schematics is to give a zone a loadout.*
 
@@ -504,7 +519,7 @@ All you need understand is how to open repositories on GitHub, stage and commit 
 
 -   with the endpoint, for example `Anuken/ExampleMod`, which could then be typed in the ingame GitHub interface, and that would download it;
 -   with the zip file, for example `https://github.com/Anuken/ExampleMod/archive/master.zip`, which would download the repository as a zip file, and put in mod directory (unzipping is not required);
--   add the typic/tags `mindustry-mod` on your repository, which should cause the `#mods` Discord bot to pick it up and render it in it's listh.
+-   add the topic/tag `mindustry-mod` to your repository, which adds it to the topic search.
 
 
 
@@ -1466,7 +1481,7 @@ Extends [CooledTurret](#cooledturret)
 This type is a turret that uses items as ammo. The key to the `ammo` field should be the name of an [Item](#item), while the value may be any [Built-in Bullets](#built-in-bullets) or a [BulletType](#bullettype) itself.
 
     type: ItemTurret
-    ammo: {
+    ammoTypes: {
       copper: standardCopper
     
       metaglass: {
@@ -1485,7 +1500,7 @@ Here we're using `copper` to shoot `standardCopper` (built-in bullet) and `metal
 |field|type|default|notes|
 |---|---|---|---|
 |maxAmmo|int|30|&#xa0;|
-|ammo|{ String: [BulletType](#bullettype) }|&#xa0;|String is the name of an [Item](#item), which will be used to select the type of bullet which will be shot.|
+|ammoTypes|{ String: [BulletType](#bullettype) }|&#xa0;|String is the name of an [Item](#item), which will be used to select the type of bullet which will be shot.|
 
 Defaults:
 
@@ -1504,7 +1519,7 @@ This type is just a turret that uses liquid as ammo. The key to `ammo` must be t
 For example you could do something like this:
 
     type: LiquidTurret
-    ammo: {
+    ammoTypes: {
       water: {
         type: MissileBulletType
         damage: 9000
@@ -1526,24 +1541,6 @@ Defaults:
 |---|---|
 |hasLiquids|true|
 |activeSound|spray|
-
-
-
-### DoubleTurret
-
-Extends [ItemTurret](#itemturret)
-
-ItemTurret that shoots from two side-by-side barrels.
-
-|field|type|default|
-|---|---|---|
-|shotWidth|float|2|
-
-Default:
-
-|field|default|
-|---|---|
-|shots|2|
 
 
 
