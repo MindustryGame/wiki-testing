@@ -1,17 +1,16 @@
-# <img id="spr" src="/wiki/images/crawler.png"></img> Crawler 
 
 
-*"A ground unit consisting of a stripped-down frame with high explosives strapped on top. Not particular durable. Explodes on contact with enemies."*  
 
 | Property      | Value |
 | ----------- | ----------- |
-|Internal Name|`crawler`|
-|Health|120|
-|Speed|0.28|
-|Mass|1.75|
-|Max Velocity|1.27|
+|Health|180    |
+|Speed|1    |
+|Command Limit|8    |
+|Item Capacity|30    |
+|Range|1  blocks  |
+
 
 --- 
 
-##### Created in <br><a href="/wiki/blocks/units/crawler-factory"><img id="sprlist" src="/wiki/images/block-crawler-factory-small.png"/></a> 
+##### Created in <br><a href="/wiki/blocks/units/ground-factory"><img id="sprlist" src="/wiki/images/block-ground-factory-small.png"/></a> 
 [comment]: # (WARNING: Do not modify the text above. It is automatically generated every release.)
