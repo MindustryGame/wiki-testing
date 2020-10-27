@@ -13,3 +13,4 @@ nav:
   - Modding: 'modding.md'
   - Servers: 'servers.md'
   - Logic: 'logic/'
+extra_javascript: [menu.js]
