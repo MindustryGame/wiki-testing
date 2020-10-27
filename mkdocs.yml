@@ -6,11 +6,11 @@ theme:
   custom_dir: custom_theme/
 extra_css:
   - 'stylesheets/style.css'
-nav:
-  - 'Welcome!': 'index.md'
-  - 'Getting Started': 'GettingStarted.md'
-  - FAQ: 'faq.md'
-  - Modding: 'modding.md'
-  - Servers: 'servers.md'
-  - Logic: 'logic/'
+#nav:
+#  - 'Welcome!': 'index.md'
+#  - 'Getting Started': 'GettingStarted.md'
+#  - FAQ: 'faq.md'
+#  - Modding: 'modding.md'
+#  - Servers: 'servers.md'
+#  - Logic: 'logic/'
 extra_javascript: [menu.js]
