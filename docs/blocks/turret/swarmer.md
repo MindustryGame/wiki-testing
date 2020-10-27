@@ -8,7 +8,7 @@
 |Health|1200    |
 |Size|2x2  |
 |Build Time|2.54  seconds  |
-|Build Cost|<a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x35 <a href="/wiki/items/titanium"><img id="spr" src="/wiki/images/item-titanium-xlarge.png"/></a>x35 <a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x30 <a href="/wiki/items/plastanium"><img id="spr" src="/wiki/images/item-plastanium-xlarge.png"/></a>x45  |
+|Build Cost|<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x35 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x35 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x30 <a href="/wiki-testing/items/plastanium"><img id="spr" src="/wiki-testing/images/item-plastanium-xlarge.png"/></a>x45  |
 
 |Liquids||
 | --- | --- |
@@ -25,7 +25,7 @@
 
 |Optional Enhancements||
 | --- | --- |
-|Booster|<a href="/wiki/liquids/water"><img id="spr" src="/wiki/images/liquid-water.png"/></a>12/sec / <a href="/wiki/liquids/cryofluid"><img id="spr" src="/wiki/images/liquid-cryofluid.png"/></a>12/sec  ![liquid-water-medium](/wiki/images/liquid-water-medium.png) Water <br> • **1.4**x fire rate ![liquid-cryofluid-medium](/wiki/images/liquid-cryofluid-medium.png) Cryofluid <br> • **1.9**x fire rate <br> |
+|Booster|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>12/sec / <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>12/sec  ![liquid-water-medium](/wiki/images/liquid-water-medium.png) Water <br> • **1.4**x fire rate ![liquid-cryofluid-medium](/wiki/images/liquid-cryofluid-medium.png) Cryofluid <br> • **1.9**x fire rate <br> |
 
 
 --- 

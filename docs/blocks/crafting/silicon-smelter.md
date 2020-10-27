@@ -8,7 +8,7 @@
 |Health|160    |
 |Size|2x2  |
 |Build Time|0.54  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x30 <a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x25  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x30 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x25  |
 
 |Power||
 | --- | --- |
@@ -20,8 +20,8 @@
 
 |Input/Output||
 | --- | --- |
-|Input|<a href="/wiki/items/coal"><img id="spr" src="/wiki/images/item-coal-xlarge.png"/></a>x1 <a href="/wiki/items/sand"><img id="spr" src="/wiki/images/item-sand-xlarge.png"/></a>x2  |
-|Output|<a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x1  |
+|Input|<a href="/wiki-testing/items/coal"><img id="spr" src="/wiki-testing/images/item-coal-xlarge.png"/></a>x1 <a href="/wiki-testing/items/sand"><img id="spr" src="/wiki-testing/images/item-sand-xlarge.png"/></a>x2  |
+|Output|<a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x1  |
 |Production Time|0.67  seconds  |
 
 

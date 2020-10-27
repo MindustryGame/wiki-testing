@@ -8,7 +8,7 @@
 |Health|360    |
 |Size|3x3  |
 |Build Time|5.56  seconds  |
-|Build Cost|<a href="/wiki/items/metaglass"><img id="spr" src="/wiki/images/item-metaglass-xlarge.png"/></a>x80 <a href="/wiki/items/titanium"><img id="spr" src="/wiki/images/item-titanium-xlarge.png"/></a>x120 <a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x60 <a href="/wiki/items/plastanium"><img id="spr" src="/wiki/images/item-plastanium-xlarge.png"/></a>x35  |
+|Build Cost|<a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x80 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x120 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x60 <a href="/wiki-testing/items/plastanium"><img id="spr" src="/wiki-testing/images/item-plastanium-xlarge.png"/></a>x35  |
 
 |Power||
 | --- | --- |
@@ -20,8 +20,8 @@
 
 |Input/Output||
 | --- | --- |
-|Input|<a href="/wiki/items/coal"><img id="spr" src="/wiki/images/item-coal-xlarge.png"/></a>x4 <a href="/wiki/items/sand"><img id="spr" src="/wiki/images/item-sand-xlarge.png"/></a>x6 <a href="/wiki/items/pyratite"><img id="spr" src="/wiki/images/item-pyratite-xlarge.png"/></a>x1  |
-|Output|<a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x8  |
+|Input|<a href="/wiki-testing/items/coal"><img id="spr" src="/wiki-testing/images/item-coal-xlarge.png"/></a>x4 <a href="/wiki-testing/items/sand"><img id="spr" src="/wiki-testing/images/item-sand-xlarge.png"/></a>x6 <a href="/wiki-testing/items/pyratite"><img id="spr" src="/wiki-testing/images/item-pyratite-xlarge.png"/></a>x1  |
+|Output|<a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x8  |
 |Production Time|1.5  seconds  |
 
 |Optional Enhancements||

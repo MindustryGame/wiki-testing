@@ -8,7 +8,7 @@
 |Health|160    |
 |Size|2x2  |
 |Build Time|0.63  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x25 <a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x25 <a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x10  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x25 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x25 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x10  |
 
 |Power||
 | --- | --- |
@@ -24,8 +24,8 @@
 
 |Input/Output||
 | --- | --- |
-|Input|<a href="/wiki/liquids/water"><img id="spr" src="/wiki/images/liquid-water.png"/></a>12/sec  |
-|Output|<a href="/wiki/items/spore-pod"><img id="spr" src="/wiki/images/item-spore-pod-xlarge.png"/></a>x1  |
+|Input|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>12/sec  |
+|Output|<a href="/wiki-testing/items/spore-pod"><img id="spr" src="/wiki-testing/images/item-spore-pod-xlarge.png"/></a>x1  |
 |Production Time|2.33  seconds  |
 
 |Optional Enhancements||

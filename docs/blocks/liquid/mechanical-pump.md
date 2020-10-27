@@ -8,7 +8,7 @@
 |Health|40    |
 |Size|1x1  |
 |Build Time|0.38  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x15 <a href="/wiki/items/metaglass"><img id="spr" src="/wiki/images/item-metaglass-xlarge.png"/></a>x10  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x15 <a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x10  |
 
 |Liquids||
 | --- | --- |

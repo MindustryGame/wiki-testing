@@ -8,7 +8,7 @@
 |Health|1000    |
 |Size|2x2  |
 |Build Time|2  seconds  |
-|Build Cost|<a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x75 <a href="/wiki/items/metaglass"><img id="spr" src="/wiki/images/item-metaglass-xlarge.png"/></a>x45  |
+|Build Cost|<a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x75 <a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x45  |
 
 |Liquids||
 | --- | --- |

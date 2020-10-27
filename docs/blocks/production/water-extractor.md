@@ -8,7 +8,7 @@
 |Health|160    |
 |Size|2x2  |
 |Build Time|0.86  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x25 <a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x20 <a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x25  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x25 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x20 <a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x25  |
 
 |Power||
 | --- | --- |
@@ -20,7 +20,7 @@
 
 |Input/Output||
 | --- | --- |
-|Output|<a href="/wiki/liquids/water"><img id="spr" src="/wiki/images/liquid-water.png"/></a>6.6/sec  |
+|Output|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>6.6/sec  |
 
 |Optional Enhancements||
 | --- | --- |

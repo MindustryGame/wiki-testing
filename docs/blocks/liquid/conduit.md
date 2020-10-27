@@ -8,7 +8,7 @@
 |Health|45    |
 |Size|1x1  |
 |Build Time|0.03  seconds  |
-|Build Cost|<a href="/wiki/items/metaglass"><img id="spr" src="/wiki/images/item-metaglass-xlarge.png"/></a>x1  |
+|Build Cost|<a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x1  |
 
 |Liquids||
 | --- | --- |

@@ -8,7 +8,7 @@
 |Health|90    |
 |Size|1x1  |
 |Build Time|0.26  seconds  |
-|Build Cost|<a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x15 <a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x5  |
+|Build Cost|<a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x15 <a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x5  |
 
 |Power||
 | --- | --- |

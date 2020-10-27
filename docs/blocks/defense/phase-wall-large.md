@@ -9,7 +9,7 @@ Spans multiple tiles."*
 |Health|2400    |
 |Size|2x2  |
 |Build Time|3.12  seconds  |
-|Build Cost|<a href="/wiki/items/phase-fabric"><img id="spr" src="/wiki/images/item-phase-fabric-xlarge.png"/></a>x24  |
+|Build Cost|<a href="/wiki-testing/items/phase-fabric"><img id="spr" src="/wiki-testing/images/item-phase-fabric-xlarge.png"/></a>x24  |
 |Base Deflect Chance|10    |
 
 

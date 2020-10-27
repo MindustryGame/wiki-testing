@@ -8,7 +8,7 @@
 |Health|160    |
 |Size|2x2  |
 |Build Time|1.35  seconds  |
-|Build Cost|<a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x30 <a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x40 <a href="/wiki/items/titanium"><img id="spr" src="/wiki/images/item-titanium-xlarge.png"/></a>x20  |
+|Build Cost|<a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x30 <a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x40 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x20  |
 
 |Power||
 | --- | --- |
@@ -24,8 +24,8 @@
 
 |Input/Output||
 | --- | --- |
-|Input|<a href="/wiki/liquids/oil"><img id="spr" src="/wiki/images/liquid-oil.png"/></a>6/sec  |
-|Output|<a href="/wiki/items/coal"><img id="spr" src="/wiki/images/item-coal-xlarge.png"/></a>x1  |
+|Input|<a href="/wiki-testing/liquids/oil"><img id="spr" src="/wiki-testing/images/liquid-oil.png"/></a>6/sec  |
+|Output|<a href="/wiki-testing/items/coal"><img id="spr" src="/wiki-testing/images/item-coal-xlarge.png"/></a>x1  |
 |Production Time|0.5  seconds  |
 
 

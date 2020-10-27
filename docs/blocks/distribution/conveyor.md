@@ -8,7 +8,7 @@
 |Health|45    |
 |Size|1x1  |
 |Build Time|0.02  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x1  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x1  |
 
 |Items||
 | --- | --- |

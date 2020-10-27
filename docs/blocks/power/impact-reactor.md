@@ -8,7 +8,7 @@
 |Health|900    |
 |Size|4x4  |
 |Build Time|28.75  seconds  |
-|Build Cost|<a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x500 <a href="/wiki/items/metaglass"><img id="spr" src="/wiki/images/item-metaglass-xlarge.png"/></a>x250 <a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x400 <a href="/wiki/items/thorium"><img id="spr" src="/wiki/images/item-thorium-xlarge.png"/></a>x100 <a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x300 <a href="/wiki/items/surge-alloy"><img id="spr" src="/wiki/images/item-surge-alloy-xlarge.png"/></a>x250  |
+|Build Cost|<a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x500 <a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x250 <a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x400 <a href="/wiki-testing/items/thorium"><img id="spr" src="/wiki-testing/images/item-thorium-xlarge.png"/></a>x100 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x300 <a href="/wiki-testing/items/surge-alloy"><img id="spr" src="/wiki-testing/images/item-surge-alloy-xlarge.png"/></a>x250  |
 
 |Power||
 | --- | --- |
@@ -25,7 +25,7 @@
 
 |Input/Output||
 | --- | --- |
-|Input|<a href="/wiki/items/blast-compound"><img id="spr" src="/wiki/images/item-blast-compound-xlarge.png"/></a>x1  <a href="/wiki/liquids/cryofluid"><img id="spr" src="/wiki/images/liquid-cryofluid.png"/></a>15/sec  |
+|Input|<a href="/wiki-testing/items/blast-compound"><img id="spr" src="/wiki-testing/images/item-blast-compound-xlarge.png"/></a>x1  <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>15/sec  |
 |Production Time|2.33  seconds  |
 
 

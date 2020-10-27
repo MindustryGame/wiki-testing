@@ -8,7 +8,7 @@
 |Health|40    |
 |Size|1x1  |
 |Build Time|0.08  seconds  |
-|Build Cost|<a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x5  |
+|Build Cost|<a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x5  |
 
 
 --- 

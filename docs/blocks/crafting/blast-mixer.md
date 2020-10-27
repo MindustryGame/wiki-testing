@@ -8,7 +8,7 @@
 |Health|160    |
 |Size|2x2  |
 |Build Time|0.68  seconds  |
-|Build Cost|<a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x30 <a href="/wiki/items/titanium"><img id="spr" src="/wiki/images/item-titanium-xlarge.png"/></a>x20  |
+|Build Cost|<a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x30 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x20  |
 
 |Power||
 | --- | --- |
@@ -20,8 +20,8 @@
 
 |Input/Output||
 | --- | --- |
-|Input|<a href="/wiki/items/pyratite"><img id="spr" src="/wiki/images/item-pyratite-xlarge.png"/></a>x1 <a href="/wiki/items/spore-pod"><img id="spr" src="/wiki/images/item-spore-pod-xlarge.png"/></a>x1  |
-|Output|<a href="/wiki/items/blast-compound"><img id="spr" src="/wiki/images/item-blast-compound-xlarge.png"/></a>x1  |
+|Input|<a href="/wiki-testing/items/pyratite"><img id="spr" src="/wiki-testing/images/item-pyratite-xlarge.png"/></a>x1 <a href="/wiki-testing/items/spore-pod"><img id="spr" src="/wiki-testing/images/item-spore-pod-xlarge.png"/></a>x1  |
+|Output|<a href="/wiki-testing/items/blast-compound"><img id="spr" src="/wiki-testing/images/item-blast-compound-xlarge.png"/></a>x1  |
 |Production Time|1.33  seconds  |
 
 

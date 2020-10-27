@@ -8,7 +8,7 @@
 |Health|160    |
 |Size|2x2  |
 |Build Time|0.32  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x18 <a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x10  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x18 <a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x10  |
 
 |Liquids||
 | --- | --- |
@@ -25,7 +25,7 @@
 
 |Optional Enhancements||
 | --- | --- |
-|Booster|<a href="/wiki/liquids/water"><img id="spr" src="/wiki/images/liquid-water.png"/></a>3.6/sec  |
+|Booster|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>3.6/sec  |
 |Boost Effect|2.56 x speed  |
 
 

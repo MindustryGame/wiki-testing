@@ -9,7 +9,7 @@ Optionally uses silicon to boost range and efficiency."*
 |Health|80    |
 |Size|1x1  |
 |Build Time|0.56  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x25 <a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x30  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x25 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x30  |
 
 |Power||
 | --- | --- |
@@ -26,7 +26,7 @@ Optionally uses silicon to boost range and efficiency."*
 
 |Optional Enhancements||
 | --- | --- |
-|Booster|<a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x1  |
+|Booster|<a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x1  |
 |Boost Effect|2.5  blocks  2 x speed  |
 
 

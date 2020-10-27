@@ -8,7 +8,7 @@
 |Health|3200    |
 |Size|4x4  |
 |Build Time|28.83  seconds  |
-|Build Cost|<a href="/wiki/items/copper"><img id="spr" src="/wiki/images/item-copper-xlarge.png"/></a>x1200 <a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x350 <a href="/wiki/items/graphite"><img id="spr" src="/wiki/images/item-graphite-xlarge.png"/></a>x300 <a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x325 <a href="/wiki/items/surge-alloy"><img id="spr" src="/wiki/images/item-surge-alloy-xlarge.png"/></a>x325  |
+|Build Cost|<a href="/wiki-testing/items/copper"><img id="spr" src="/wiki-testing/images/item-copper-xlarge.png"/></a>x1200 <a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x350 <a href="/wiki-testing/items/graphite"><img id="spr" src="/wiki-testing/images/item-graphite-xlarge.png"/></a>x300 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x325 <a href="/wiki-testing/items/surge-alloy"><img id="spr" src="/wiki-testing/images/item-surge-alloy-xlarge.png"/></a>x325  |
 
 |Power||
 | --- | --- |
@@ -20,7 +20,7 @@
 
 |Input/Output||
 | --- | --- |
-|Input|<a href="/wiki/liquids/water"><img id="spr" src="/wiki/images/liquid-water.png"/></a>30/sec / <a href="/wiki/liquids/cryofluid"><img id="spr" src="/wiki/images/liquid-cryofluid.png"/></a>30/sec  ![liquid-water-medium](/wiki/images/liquid-water-medium.png) Water <br> • **1.0**x fire rate ![liquid-cryofluid-medium](/wiki/images/liquid-cryofluid-medium.png) Cryofluid <br> • **2.3**x fire rate <br> |
+|Input|<a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>30/sec / <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>30/sec  ![liquid-water-medium](/wiki/images/liquid-water-medium.png) Water <br> • **1.0**x fire rate ![liquid-cryofluid-medium](/wiki/images/liquid-cryofluid-medium.png) Cryofluid <br> • **2.3**x fire rate <br> |
 
 |Function||
 | --- | --- |

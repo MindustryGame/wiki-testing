@@ -9,7 +9,7 @@ Overheats if too much damage is sustained. Optionally uses coolant to prevent ov
 |Health|360    |
 |Size|3x3  |
 |Build Time|4.08  seconds  |
-|Build Cost|<a href="/wiki/items/lead"><img id="spr" src="/wiki/images/item-lead-xlarge.png"/></a>x100 <a href="/wiki/items/titanium"><img id="spr" src="/wiki/images/item-titanium-xlarge.png"/></a>x75 <a href="/wiki/items/silicon"><img id="spr" src="/wiki/images/item-silicon-xlarge.png"/></a>x125  |
+|Build Cost|<a href="/wiki-testing/items/lead"><img id="spr" src="/wiki-testing/images/item-lead-xlarge.png"/></a>x100 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x75 <a href="/wiki-testing/items/silicon"><img id="spr" src="/wiki-testing/images/item-silicon-xlarge.png"/></a>x125  |
 
 |Power||
 | --- | --- |
@@ -30,7 +30,7 @@ Overheats if too much damage is sustained. Optionally uses coolant to prevent ov
 
 |Optional Enhancements||
 | --- | --- |
-|Booster|<a href="/wiki/items/phase-fabric"><img id="spr" src="/wiki/images/item-phase-fabric-xlarge.png"/></a>x1  <a href="/wiki/liquids/water"><img id="spr" src="/wiki/images/liquid-water.png"/></a>6/sec / <a href="/wiki/liquids/cryofluid"><img id="spr" src="/wiki/images/liquid-cryofluid.png"/></a>6/sec  |
+|Booster|<a href="/wiki-testing/items/phase-fabric"><img id="spr" src="/wiki-testing/images/item-phase-fabric-xlarge.png"/></a>x1  <a href="/wiki-testing/liquids/water"><img id="spr" src="/wiki-testing/images/liquid-water.png"/></a>6/sec / <a href="/wiki-testing/liquids/cryofluid"><img id="spr" src="/wiki-testing/images/liquid-cryofluid.png"/></a>6/sec  |
 |Boost Effect|10  blocks  400  shield health  |
 
 
