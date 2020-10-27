@@ -4,7 +4,6 @@ Decent protection from enemies."*
 
 
 |General||
-| --- | --- |
 |Health|800    |
 |Size|1x1  |
 |Build Time|0.66  seconds  |

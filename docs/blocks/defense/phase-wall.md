@@ -3,7 +3,6 @@
 
 
 |General||
-| --- | --- |
 |Health|600    |
 |Size|1x1  |
 |Build Time|0.78  seconds  |

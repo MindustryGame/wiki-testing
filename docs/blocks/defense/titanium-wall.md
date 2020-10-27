@@ -4,7 +4,6 @@ Provides moderate protection from enemies."*
 
 
 |General||
-| --- | --- |
 |Health|440    |
 |Size|1x1  |
 |Build Time|0.6  seconds  |

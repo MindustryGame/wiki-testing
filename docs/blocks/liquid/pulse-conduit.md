@@ -3,14 +3,12 @@
 
 
 |General||
-| --- | --- |
 |Health|90    |
 |Size|1x1  |
 |Build Time|0.06  seconds  |
 |Build Cost|<a href="/wiki-testing/items/metaglass"><img id="spr" src="/wiki-testing/images/item-metaglass-xlarge.png"/></a>x1 <a href="/wiki-testing/items/titanium"><img id="spr" src="/wiki-testing/images/item-titanium-xlarge.png"/></a>x2  |
 
 |Liquids||
-| --- | --- |
 |Liquid Capacity|16  liquid units  |
 
 

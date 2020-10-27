@@ -4,7 +4,6 @@ Spans multiple tiles."*
 
 
 |General||
-| --- | --- |
 |Health|2400    |
 |Size|2x2  |
 |Build Time|3.12  seconds  |

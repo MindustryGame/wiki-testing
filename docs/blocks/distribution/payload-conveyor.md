@@ -3,7 +3,6 @@
 
 
 |General||
-| --- | --- |
 |Health|360    |
 |Size|3x3  |
 |Build Time|0.33  seconds  |
