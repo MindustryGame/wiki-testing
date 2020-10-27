@@ -6,13 +6,13 @@
 | Property | Value |
 | ----------- | ----------- |
 |Health|6000    |
+|Flying|Yes  |
 |Speed|1.4    |
 |Build Speed|250 %  |
 |Payload Capacity|9  blocks²  |
 |Command Limit|8    |
 |Item Capacity|120    |
 |Range|5  blocks  |
-|Flying|Yes|
 
 --- 
 

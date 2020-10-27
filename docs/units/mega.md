@@ -6,6 +6,7 @@
 | Property | Value |
 | ----------- | ----------- |
 |Health|500    |
+|Flying|Yes  |
 |Speed|2.4    |
 |Build Speed|250 %  |
 |Mine Speed|100 %  |
@@ -14,7 +15,6 @@
 |Command Limit|8    |
 |Item Capacity|60    |
 |Range|26  blocks  |
-|Flying|Yes|
 
 --- 
 

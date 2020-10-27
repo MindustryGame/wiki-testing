@@ -6,6 +6,7 @@
 | Property | Value |
 | ----------- | ----------- |
 |Health|400    |
+|Flying|Yes  |
 |Speed|2.6    |
 |Build Speed|50 %  |
 |Mine Speed|350 %  |
@@ -14,7 +15,6 @@
 |Abilities|Repair Field  |
 |Item Capacity|30    |
 |Range|28  blocks  |
-|Flying|Yes|
 
 --- 
 

@@ -6,11 +6,12 @@
 | Property | Value |
 | ----------- | ----------- |
 |Health|7000    |
+|Flying|No  |
 |Speed|0.35    |
 |Command Limit|8    |
+|Can Boost|Yes  |
 |Item Capacity|90    |
 |Range|20  blocks  |
-|Flying|No|
 
 --- 
 

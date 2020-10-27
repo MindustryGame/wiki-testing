@@ -6,6 +6,7 @@
 | Property | Value |
 | ----------- | ----------- |
 |Health|24000    |
+|Flying|Yes  |
 |Speed|0.8    |
 |Build Speed|400 %  |
 |Payload Capacity|28.09  blocks²  |
@@ -13,7 +14,6 @@
 |Abilities|Force Field  Repair Field  |
 |Item Capacity|240    |
 |Range|0  blocks  |
-|Flying|Yes|
 
 --- 
 
