@@ -18,7 +18,7 @@ To establish a dedicated server, a dedicated Linux or Windows machine is **highl
 6. If you are using Windows to run your server, use your favorite search engine to look up how to add rules to your Windows Firewall, as it blocks that port most of the time. Make sure to allow **port 6567 TCP and UDP**.
 
 #### Making your server publicly available around the world
-(This section is optional, only follow through with these steps 
+(This section is optional, only follow through with these steps if you want your server to be available to people outside of your network)
 
 7. Login to your router, and navigate to the "Port Forwarding" section (this may be under some sort of "Advanced Settings" subsection.)
 8. Add a new rule that allows port **6567** for both **TCP and UDP protocols**. Set the "IP Address" text box to the local IP of your server computer.
