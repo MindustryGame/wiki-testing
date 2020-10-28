@@ -1,11 +1,11 @@
 
 # Modding Introduction
 
-Mindustry mods are simply directories of assests. There are many ways to use the modding API, depending on exactly what you want to do, and how far you're willing to go to do it.
+Mindustry mods are simply directories of assets. There are many ways to use the modding API, depending on exactly what you want to do, and how far you're willing to go to do it.
 
 You could just resprite existing game content, you can create new game content with the simpler Json API (which is the main focus of this documentation), you can add custom sounds (or reuse existing ones). It's possible to add maps to campaign mode, and add scripts to program special behavior into your mod, like custom effects. 
 
-Sharing your mod is as simple as giving someone your project directory; mods are also cross platfrom to any platform that supports them. Realistically speaking you'll want to use [GitHub](#github), you should also checkout the Example Mod repository on GitHub: <https://github.com/Anuken/ExampleMod>
+Sharing your mod is as simple as giving someone your project directory; mods are also cross platfrom to any platform that supports them. Realistically speaking you'll want to use [GitHub](#github), you should also checkout the Example 5.0 Mod repository on GitHub: <https://github.com/Anuken/ExampleMod>
 
 To make mods all you really need is any computer with a text editor.
 
@@ -16,14 +16,13 @@ To make mods all you really need is any computer with a text editor.
 Your project directory should look something like this:
 
     project
-    ├── mod.json
+    ├── mod.json OR mod.hjson
     ├── content
     │   ├── items
     │   ├── blocks
     │   ├── mechs
     │   ├── liquids
-    │   ├── units
-    │   └── zones
+    │   └── units
     ├── maps
     ├── bundles
     ├── sounds
@@ -32,9 +31,9 @@ Your project directory should look something like this:
     ├── sprites-override
     └── sprites
 
--   [`mod.json`](#modjson) (required) metadata file for your mod,
+-   [`mod.(hOjson`](#modjson) (required) metadata file for your mod,
 -   `content/*` directories for game [Content](#content),
--   `maps/` directory for [Zone](#zone) maps,
+-   `maps/` directory for in-game maps,
 -   `bundles/` directory for [Bundles](#bundles),
 -   `sounds/` directory for [Sound](#sound) files,
 -   `schematics/` directory for [Schematic](#schematic) files,
@@ -95,26 +94,27 @@ At the root of your project directory, you must have a `mod.json` which defines 
     author: Yourself
     description: This is a useless description.
     version: "1.0"
-    minGameVersion: "100.3"
+    minGameVersion: "105"
     dependencies: [ ]
+    hidden: false
 
 -   `name` will be used to reference to your mod, so name it carefully;
 -   `displayName` this will be used as a display name for the UI, which you can use to add formatting to said name;
 -   `description` of the mod will be rendered in the ingame mod manager, so keep it short and to the point;
 -   `dependencies` is optional, if you want to know more about that, go to the [dependencies](#dependencies) section;
--   `minGameVersion` is the minimum build version of the game.
+-   `minGameVersion` is the minimum build version of the game. Since build 105 this is **required**.
+-   `hidden` is whether or not this mod is essential for multiplayer, false by default. Texture packs, JS plugins, etc. should use this as to not cause conflicts with servers and clients respectively. As a rule of thumb, if your mod creates content it shouldn't be hidden.
 
 
 
 ## Content
 
-At the root of your project directory you can have a `content/` directory, and this is where all the Json/Hjson data goes. Inside of `content/` you have subdirectories for the various kinds of content, these are the current common ones:
+At the root of your project directory you can have a `content/` directory, this is where all the Json/Hjson data goes. Inside of `content/` you have subdirectories for the various kinds of content, these are the current common ones:
 
 -   `content/items/` for [items](#item), like `copper` and `surge-alloy`;
 -   `content/blocks/` for [blocks](#block), like turrets and floors;
 -   `content/liquids/` for [liquids](#liquid), like `water` and `slag`;
 -   `content/units/` for flying or ground [units](#unittype), like `reaper` and `dagger`;
--   `content/zones/` for [zones](#zone), configuration of campaign maps.
 
 Note that each one of these subdirectories needs a specific content type. The filenames of these files is important, because the stem name of your path *(filename without the extension)* is used to reference it.
 
@@ -137,6 +137,8 @@ The content of these files will tend to look something like this:
 
 Other fields included will be the fields of the type itself.
 
+A side note, `name` and `description` are not required to be in the json structure. You can define them for any language with (Bundles)[#bundles]. However, if they are not present in either then the name will be <type>.<modname>-<stemname>.name and an empty description respectively.
+
 
 
 ## Types
@@ -152,12 +154,14 @@ What you can expect a field to do is up to the specific type, some types do abso
 Here you can see, the type of the top level object is `Revenant`, but the type of the `bullet` is `BulletType` so you can use `MissileBulletType`, because `MissileBulletType` extends `BulletType`.
 
     type: Revenant
-    weapon: {
-      bullet: {
-        type: MissileBulletType
-        damage: 9000
+    weapons: [
+      {
+        bullet: {
+          type: MissileBulletType
+          damage: 9000
+        }
       }
-    }
+    ]
 
 
 
@@ -169,15 +173,30 @@ Much like `type` there exist another magical field known as `research` which can
 
 This would put your block after `duo` in the techtree, and to put it after your own mods block you would write your `<block-name>`, a mod name prefix is only required if you're using the content from another mod.
 
-Research cost will be `40 + round(requirements ^ 1.25) * 6 rounded down to the nearest 10`, where `requirements` is the build cost of your block. *(in otherwords you can't set `requirements` and `research cost` individually)*
+Research cost will be `40 + round(requirements ^ 1.25) * 6 rounded down to the nearest 10`, where `requirements` is the build cost of your block.
+
+If you want to set custom research requirements, which is **required** for Items and Liquids, use this object in place of just a name:
+
+    research: {
+      parent: duo
+      requirements: [
+        copper/100
+      ]
+    }
 
 
 
 ## Sprites
 
-All you need to make sprites, is an image editor that supports transparency *(aka: not paint).* Block sprites should be `32 * size`, so a `2x2` block would require a `64x64` image. Images must be `.png` files with 32 bit depth.
+All you need to make sprites, is an image editor that supports transparency *(aka: not paint).* Block sprites should be `32 * size`, so a `2x2` block would require a `64x64` image. Images must be PNG files with a 32-bit RGBA pixel format.
+**Any other pixel format, such as 16-bit RGBA, may cause Mindustry to crash with a "Pixmap decode error".** You can use the command-line tool `file` to print information about your sprites:
 
-Sprites can simply be dropped in the `sprites/` subdirectory. The content parser will look through it recursively, so you can organize them how ever you feel.
+    file sprites/**.png
+
+If any of them are not 32-bit RGBA formatted, fix them.
+
+Sprites can simply be dropped in the `sprites/` subdirectory. The content parser will look through it recursively, so you can organize them how ever you feel, once their first directory is correct.
+Sprites are packed into an "atlas" that is very efficient for rendering. The first directory in `sprites/`, e.g. `sprites/blocks`, determines the page in this atlas that sprites are put in. Putting a block's sprite in the `units` page is likely to cause lots of lag, just put it in a similar path to vanilla's sprites at <https://github.com/Anuken/Mindustry/tree/master/core/assets-raw/sprites>.
 
 Content is going to look for sprites relative to it's own name. `content/blocks/my-hail.json` has the name `my-hail` and similarly `sprites/my-hail.png` has the name `my-hail`, so it'll be used by this content.
 
@@ -190,12 +209,14 @@ You can find all the vanilla sprites here:
 Another thing to know about sprites is that some of them are modified by the game. Turrets specifically have a black border added to them, so you must account for that while making your sprites, leaving transparent space around turrets for example: [Ripple](https://raw.githubusercontent.com/Anuken/Mindustry/master/core/assets-raw/sprites/blocks/turrets/ripple.png)
 
 To override ingame content sprites, you can simply put them in `sprites-override/`.
+This removes the `<modname>-` prefix to their id, which allows them to override sprites from vanilla and even other mods.
+You can also use this to create sprites with nice short names like `cat` for easy use with scripts, just beware of name collisions with other mods.
 
 
 
 ## Sound
 
-Custom sounds can be added through the modding system by dropping them in the `sounds/` subdirectory. It doesn't matter where you put them. Two formats are needed:
+Custom sounds can be added through the modding system by dropping them in the `sounds/` subdirectory. It doesn't matter where you put them after that. Two formats are needed:
 
 -   `.ogg` required for Desktop/Android
 -   `.mp3` required for iOS
@@ -239,6 +260,11 @@ If you've read the first few sections of this guide, you'll spot it right away:
 -   `<content type>.<mod name>-<content name>.name`
 -   `<content type>.<mod name>-<content name>.description`
 
+With your own custom bundle lines for use in scripts you can use whatever key you like:
+
+-    `message.egg = Eat your eggs`
+-    `randomline = Random Line`
+
 Notes:
 
 -   mod/content names are lowercased and hyphen separated.
@@ -260,7 +286,7 @@ All you need understand is how to open repositories on GitHub, stage and commit 
 
 -   with the endpoint, for example `Anuken/ExampleMod`, which could then be typed in the ingame GitHub interface, and that would download it;
 -   with the zip file, for example `https://github.com/Anuken/ExampleMod/archive/master.zip`, which would download the repository as a zip file, and put in mod directory (unzipping is not required);
--   add the typic/tags `mindustry-mod` on your repository, which should cause the `#mods` Discord bot to pick it up and render it in it's listh.
+-   add the topic/tag `mindustry-mod` on your repository, which should add it to the topic search and the (Mod scraper)[https://github.com/Anuken/MindustryMods].
 
 
 
