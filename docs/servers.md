@@ -17,8 +17,14 @@ To establish a dedicated server, a dedicated Linux or Windows machine is **highl
 5. Start hosting a map with `host <mapname> [mode]` after you configured your server.
 6. If you are using Windows to run your server, use your favorite search engine to look up how to add rules to your Windows Firewall, as it blocks that port most of the time. Make sure to allow **port 6567 TCP and UDP**.
 
-If you want your server to be publicly available around the world, then read the following. If not, then you are done! 
-It is recommended and that you use a domain name or DNS service to mask your IP for public servers for ease of use, or even better, use a cloud service e.g. Amazon AWS or a dedicated server/VM from a hosting provider such as Linode or DigitalOcean, which is much safer. **Do your research**, and determine which option best fits your needs.
+#### Making your server publicly available around the world
+(This section is optional, only follow through with these steps 
+
+7. Login to your router, and navigate to the "Port Forwarding" section (this may be under some sort of "Advanced Settings" subsection.)
+8. Add a new rule that allows port **6567** for both **TCP and UDP protocols**. Set the "IP Address" text box to the local IP of your server computer.
+9. Now find your public IP address (https://whatismyipaddress.com/ or similar). Put this IP into the server connect box to connect to your server. **NOTE: This IP is roughly tied to your real-life location, so only share with trusted friends. Read the below section if you are planning on making your server truly public.**
+
+It is also recommended and that you use a domain name or DNS service to mask your IP for public servers for ease of use, or even better, use a cloud service e.g. Amazon AWS or a dedicated server/VM from a hosting provider such as Linode or DigitalOcean, which is much safer. **Do your research**, and determine which option best fits your needs.
 
 ### What is an IP and how do I find out what mine is?
 
