@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the official, although incomplete, Mindustry Logic manual.
+**Welcome to the official, although incomplete, Mindustry Logic manual.**
 
 This is both a guide and a reference for Mindustry Logic. It contains both basic and advanced information relating to the language. This manual is designed to be comprehensive to all levels of programming, and we're trying to make it understood by people who don't even know what code is.
 

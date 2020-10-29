@@ -36,7 +36,7 @@ For example, the `ubind` instruction will set a processor variable `@unit` to a 
 
 These are like data types, but only work as parameters for instructions, and are not returned by any instruction.
 
-### BuildingType
+### BuildingType `content`
 
 A type of Building. Starts with `@`.
 
@@ -46,11 +46,11 @@ Unlike Items and Liquids, you cannot use this in `sensor`. However, you can use 
 
 Example: `@scatter`
 
-### UnitType
+### UnitType `content`
 
 A type of Unit. Starts with `@`.
 
-Example: `@toxipid`
+Example: `@toxopid`
 
 *A full list is shown under the pencil button in the "Unit Bind" instruction block.*
 
@@ -68,7 +68,7 @@ Examples: `@scrap`, `@slag`, `@totalAmmo`
 
 ### Target
 
-A trait to filter a unit or block target by. Primarily used in `radar`, `uradar`, and `ulocate`. `radar` and `uradar` have the same Targets, but `uradar` is diferent, since it looks for Buildings.
+A trait to filter a unit or block target by. Primarily used in `radar`, `uradar`, and `ulocate`. `radar` and `uradar` have the same Targets, but `ulocate` is diferent, since it looks for Buildings.
 
 *A full list is shown by pressing parameters after "target" in `radar` and `uradar`, or "find" and "type" in `uradar`.*
 
