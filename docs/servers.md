@@ -17,14 +17,7 @@ To establish a dedicated server, a dedicated Linux or Windows machine is **highl
 5. Start hosting a map with `host <mapname> [mode]` after you configured your server.
 6. If you are using Windows to run your server, use your favorite search engine to look up how to add rules to your Windows Firewall, as it blocks that port most of the time. Make sure to allow **port 6567 TCP and UDP**.
 
-#### Making your server publicly available around the world
-(This section is optional, only follow through with these steps if you want your server to be available to people outside of your network)
-
-7. Login to your router, and navigate to the "Port Forwarding" section (this may be under some sort of "Advanced Settings" subsection.)
-8. Add a new rule that allows port **6567** for both **TCP and UDP protocols**. Set the "IP Address" text box to the local IP of your server computer.
-9. Now find your public IP address ([https://whatismyipaddress.com]or similar). Put this IP into the server connect box to connect to your server. **NOTE: This IP is roughly tied to your real-life location, so only share with trusted friends. Read the below section if you are planning on making your server truly public.**
-
-It is also recommended and that you use a domain name or DNS service to mask your IP for public servers for ease of use, or even better, use a cloud service e.g. Amazon AWS or a dedicated server/VM from a hosting provider such as Linode or DigitalOcean, which is much safer. **Do your research**, and determine which option best fits your needs.
+Unless you have already enabled port forwarding, your dedicated server can only be connected to by clients within your local network. If you want to make your server globally available, read below.
 
 ### What is an IP and how do I find out what mine is?
 
@@ -36,6 +29,8 @@ In simplified terms, an IP address is a number that identifies your computer on 
 ### About Running A Dedicated Server At Home
 
 Most of the time, this is what you should remember; **never share your public IP with the public if you're hosting from your home, unless you acknowledge the implications of doing so!** Your public IP is tied to your household, and if it falls into the wrong hands, and when put into the wrong hands, can open up your network to vulnerabilities and dangers. **Exercise caution, do your research, and use a VPN or webhost if possible.**
+
+It is also recommended and that you use a domain name or DNS service to mask your IP for public servers for ease of use, or even better, use a cloud service e.g. Amazon AWS or a dedicated server/VM from a hosting provider such as Linode or DigitalOcean, which is much safer. **Do your research**, and determine which option best fits your needs.
 
 1. Find the make/model of your router. This is usually on a sticker on the bottom or back of the router.
 2. Use your favorite search engine to search "port forward ASUS RT-ACRH17" and use the guide to foward **port 6567 TCP and UDP**. These instructions are different for every router, so be sure to read your guide thoroughly!
