@@ -58,7 +58,7 @@ Constants also hold values, but cannot be changed. Each processor has these cons
 
 #### @this `constant` `Building`
 
-A Building Object that represents the processor itself. You can use this with `sensor` to find various properties about the processor.
+A `Building` Object that represents the processor itself. You can use this with `sensor` to find various properties about the processor.
 
 #### @thisx `constant` `number`
 
@@ -72,7 +72,7 @@ The y coordinate of the processor.
 
 A variable that represents the next line the processor will read code from, equivalent to `%IP` in x86. It can be changed like any other variable as another way to perform jumps.
 
-An (advanced) example of setting `@ipt` to jump to a function, then jump back to the caller:
+An (advanced) example of setting `@counter` to jump to a function, then jump back to the caller:
 
 ```
 op add retAddr @counter 1 # Save where we will continue after the function returns by adding 1 to the counter
@@ -82,17 +82,16 @@ set @counter retAddr      # Return to the line set earlier after the function is
 ```
 ### Links
 
-*For details on Links and Linking, refer to the Glossary.*
-
 #### @links `constant` `number`
 
-A constant that equals the number of buildnigs linked to the processor. It is changed by the processor when blocks are linked or unlinked.
+A constant that equals the number of buildings linked to the processor. It is changed by the processor when blocks are linked or unlinked.
 
 You can use this along with `getlink` to loop through all linked buildings, like so:
 
 ```
 set linkIter 0                  # Create iterator variable
 getlink block linkIter          # Get Building Object of the "linkIter"th linked building.
+# Do what you want with the building here
 jump 1 lessThan linkIter @links # Loop
 ```
 
