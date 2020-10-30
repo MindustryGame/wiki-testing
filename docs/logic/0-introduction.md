@@ -39,6 +39,7 @@ How to ask an effective question:
 We try our best not to be rude or impolite, but questions that don't go by those standards can test our patience, especially if the solution is simple and covered by the manual. __**It's a waste of someone's time to ask them about a question that's already written clearly in the manual.**__
 
 Examples of acceptable question structure and spirit:
+
 * "Hey after reading the manual, I can't understand what exactly a double is. Can't I just use an int?"
 * "I'm having trouble with radar. It doesn't detect my player even though I'm in range of the turret. Here is my code:"
 * "Why can't I print a string and a variable properly in the same print instruction?"
