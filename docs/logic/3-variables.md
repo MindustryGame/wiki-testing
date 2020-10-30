@@ -26,15 +26,15 @@ However, we have another variable in the example called `playerUnit`. That varia
 
 The values in variables, of course, have different types that are specific to different sources and purposes, such as `Unit` for Units, `number` for any number, etc. You can find a list of all of them in the Glossary.
 
-Mindustry Logic also has this thing with variables called **Implicit Conversion**. That means that, if needed, it will convert a variable's value from one type to another. Here are the rules it goes by:
+Mindustry Logic also has this thing with variables called **Implicit Conversion**. That means that, if needed, it will convert a variable's value from one type to another.
 
-* given `number` such as listed above but needs `Object`, convert to `null`
-* given `Object` such as listed above but needs `number`, convert to `0` if `null`, otherwise `1`
+If an instruction is given a `number`, but it needs an `Object`, it will be converted to `null`. If an instruction needs a `number`, but is given an `Object`, it will be converted to 1 if the object isn't `null`, otherwise 0.
 
 Examples:
 
 * `53` -> `null`
-* `null` -> 0, `Object` which is a Silicon Crucible -> 1
+* `null` -> 0,
+* `Object` which is a Silicon Crucible -> 1
 
 The `print` instruction is the only instruction that requires a `String` as an input, so its rules are stated in its own part of the manual.
 
@@ -48,7 +48,7 @@ The usual naming convention among the majority of mlog code is camelCase, an exa
 
 **When naming variables, make sure they are descriptive yet short.** They must describe the value they hold or their purpose. At the same time, they shouldn't be complete sentences or span the entire page, or be too short that they get confusing. You can use abbreviations, acronyms, or shorter terms to make them more concise.
 
-Everybody has their own specific styles and preferences, but try to learn from good examples of code in mlog and other languages, while at the same time staying close to the popular style.
+Everybody has their own specific styles and preferences, but try to learn from good examples of code in mlog and other languages, while at the same time staying close to the common style.
 
 ## Processor Variables and Constants
 
