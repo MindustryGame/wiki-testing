@@ -8,9 +8,11 @@ There are two main datatypes in Mindustry; numbers and Objects.
 
 ### number
 
-A number. Can be nagative or positive, have decimals or not, and can represent true (anything above 0) or false (0) values. Null is also represented as 0.
+A decimal number. Can be nagative or positive, and can represent true (anything not equal to 0) or false (0) values. Null is also represented as 0.
 
 Some instructions can only accept whole numbers, so it is indicated accordingly in this manual.
+
+Internally, numbers are stored as 64-bit floating point values (`double`), and operated upon as 64-bit signed integers (`long`) when bitshifting is involved.
 
 ### String
 
