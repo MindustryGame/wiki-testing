@@ -8,7 +8,7 @@ There are two main datatypes in Mindustry; numbers and Objects.
 
 ### number
 
-A decimal number. Can be nagative or positive, and can represent true (anything not equal to 0) or false (0) values. Null is also represented as 0.
+A decimal number. Can be negative or positive, and can represent true (anything not equal to 0) or false (0) values. Null is also represented as 0.
 
 Some instructions can only accept whole numbers, so it is indicated accordingly in this manual.
 
