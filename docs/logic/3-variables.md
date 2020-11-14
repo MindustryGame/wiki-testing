@@ -2,7 +2,7 @@
 
 Variables and constants are essentially "containers" of values. Each one has a name and value. Mindustry has variables which can be set by the user and their code, and constants which are set only by the processor and cannot be changed by the user. 
 
-*To find out the possible data or paraeter types of a variable or constant, see the Glossary.*
+*To find out the possible data or parameter types of a variable or constant, see the Glossary.*
 
 ## Variables
 
@@ -16,7 +16,7 @@ Later on, this can change its value to `9`: `set myVariable 9`.
 
 Notice how we used the same instruction for both creating and changing variables. This is because **if a variable that it's changing does not already exist, an instruction will create it first.** If you know Python, you'll probably have realized that it works in the same way.
 
-Another example is using `sensor`: `sensor playerX playerUnit @unit`.
+Another example is using `sensor`: `sensor playerX playerUnit @x` (or Sensor playerX = @x in playerUnit for the visual editor).
 
 Assuming that the player's position is `141, 20`, a variable named `playerX` will be created first, then assigned a value of `141`.
 
