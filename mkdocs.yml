@@ -1,6 +1,7 @@
 site_name: Mindustry Wiki
 site_url: https://mindustrygame.github.io/wiki-testing/
 repo_url: https://github.com/MindustryGame/wiki-testing
+docs_dir: 'docs_out'
 theme: 
   name: material
   favicon: images/favicon.png
