@@ -2420,6 +2420,26 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#general-changes" class="md-nav__link">
+    General Changes
+  </a>
+  
+    <nav class="md-nav" aria-label="General Changes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#minimum-game-version" class="md-nav__link">
+    Minimum Game Version
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#name-changes" class="md-nav__link">
     Name Changes
   </a>
@@ -2970,6 +2990,26 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#general-changes" class="md-nav__link">
+    General Changes
+  </a>
+  
+    <nav class="md-nav" aria-label="General Changes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#minimum-game-version" class="md-nav__link">
+    Minimum Game Version
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#name-changes" class="md-nav__link">
     Name Changes
   </a>
@@ -3023,6 +3063,10 @@
                 <h1 id="60-migration-guide">6.0 Migration Guide</h1>
 <p>If you are a plugin or mod developer for 5.0, you may have noticed that your content no longer functions correctly in 6.0. 
 This is due to numerous internal changes and additions, which will be documented here.</p>
+<h2 id="general-changes">General Changes</h2>
+<h3 id="minimum-game-version">Minimum Game Version</h3>
+<p>All mods must now specify <code>minGameVersion</code> with a value of "105" or above to be loaded. This is to ensure that outdated mods do not get loaded.
+Simply add <code>minGameVersion: "113"</code> to your <code>mod.hjson</code> file.</p>
 <h2 id="name-changes">Name Changes</h2>
 <h3 id="mindustrypluginplugin-mindustrymodplugin">mindustry.plugin.Plugin -&gt; mindustry.mod.Plugin</h3>
 <p>The <code>Plugin</code> class has been moved into the <code>mod</code> package, as the old package only contained a single class anyway.</p>
