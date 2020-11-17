@@ -26,7 +26,7 @@ In simplified terms, an IP address is a number that identifies your computer on 
 - For a **local IP**, when for example you would like to play with a friend on the same network as yours, each device has its own way of showing it. You can Google how to do it for your device, e.g. "find local ip on Mac".
 - For a **public IP**, you can simply Google "what is my ip".
 
-### About Running A Dedicated Server At Home
+### Running A Dedicated Server At Home
 
 Most of the time, this is what you should remember; **never share your public IP with the public if you're hosting from your home, unless you acknowledge the implications of doing so!** Your public IP is tied to your household, and if it falls into the wrong hands, and when put into the wrong hands, can open up your network to vulnerabilities and dangers. **Exercise caution, do your research, and use a VPN or webhost if possible.**
 
@@ -41,3 +41,11 @@ It is also recommended and that you use a domain name or DNS service to mask you
 A local LAN or Steam server is a server that is built into the game, and can be started using the "Host Multiplayer Game" button in the in-game menu. It is meant to be simple and straightforward, for sessions between a few players under a LAN network (aka in your household's WiFi network). It is not really meant for several players, as it takes more and more resources from your device to be able to use it that way; for that you will need a dedicated server mentioned above. It can only run when the game is open, and is immediately terminated when it is closed.
 
 You can connect to one using the "Join Game" button under the "Play" menu. Unlike dedicated servers, your device will automatically find the host device and it will ususally appear in the server list without you having to enter the host's IP address in.
+
+## Dedicated Server Commands
+
+$serverCommands
+
+## Dedicated Server Configuration Options
+
+$serverConfigs
