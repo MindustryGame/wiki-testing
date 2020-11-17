@@ -261,8 +261,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#about-running-a-dedicated-server-at-home" class="md-nav__link">
-    About Running A Dedicated Server At Home
+  <a href="#running-a-dedicated-server-at-home" class="md-nav__link">
+    Running A Dedicated Server At Home
   </a>
   
 </li>
@@ -275,6 +275,20 @@
         <li class="md-nav__item">
   <a href="#local-lan-steam-servers" class="md-nav__link">
     Local LAN &amp; Steam Servers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dedicated-server-commands" class="md-nav__link">
+    Dedicated Server Commands
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dedicated-server-configuration-options" class="md-nav__link">
+    Dedicated Server Configuration Options
   </a>
   
 </li>
@@ -2983,8 +2997,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#about-running-a-dedicated-server-at-home" class="md-nav__link">
-    About Running A Dedicated Server At Home
+  <a href="#running-a-dedicated-server-at-home" class="md-nav__link">
+    Running A Dedicated Server At Home
   </a>
   
 </li>
@@ -2997,6 +3011,20 @@
         <li class="md-nav__item">
   <a href="#local-lan-steam-servers" class="md-nav__link">
     Local LAN &amp; Steam Servers
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dedicated-server-commands" class="md-nav__link">
+    Dedicated Server Commands
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dedicated-server-configuration-options" class="md-nav__link">
+    Dedicated Server Configuration Options
   </a>
   
 </li>
@@ -3039,7 +3067,7 @@
 <li>For a <strong>local IP</strong>, when for example you would like to play with a friend on the same network as yours, each device has its own way of showing it. You can Google how to do it for your device, e.g. "find local ip on Mac".</li>
 <li>For a <strong>public IP</strong>, you can simply Google "what is my ip".</li>
 </ul>
-<h3 id="about-running-a-dedicated-server-at-home">About Running A Dedicated Server At Home</h3>
+<h3 id="running-a-dedicated-server-at-home">Running A Dedicated Server At Home</h3>
 <p>Most of the time, this is what you should remember; <strong>never share your public IP with the public if you're hosting from your home, unless you acknowledge the implications of doing so!</strong> Your public IP is tied to your household, and if it falls into the wrong hands, and when put into the wrong hands, can open up your network to vulnerabilities and dangers. <strong>Exercise caution, do your research, and use a VPN or webhost if possible.</strong></p>
 <p>It is also recommended and that you use a domain name or DNS service to mask your IP for public servers for ease of use, or even better, use a cloud service e.g. Amazon AWS or a dedicated server/VM from a hosting provider such as Linode or DigitalOcean, which is much safer. <strong>Do your research</strong>, and determine which option best fits your needs.</p>
 <ol>
@@ -3050,6 +3078,78 @@
 <h2 id="local-lan-steam-servers">Local LAN &amp; Steam Servers</h2>
 <p>A local LAN or Steam server is a server that is built into the game, and can be started using the "Host Multiplayer Game" button in the in-game menu. It is meant to be simple and straightforward, for sessions between a few players under a LAN network (aka in your household's WiFi network). It is not really meant for several players, as it takes more and more resources from your device to be able to use it that way; for that you will need a dedicated server mentioned above. It can only run when the game is open, and is immediately terminated when it is closed.</p>
 <p>You can connect to one using the "Join Game" button under the "Play" menu. Unlike dedicated servers, your device will automatically find the host device and it will ususally appear in the server list without you having to enter the host's IP address in.</p>
+<h2 id="dedicated-server-commands">Dedicated Server Commands</h2>
+<ul>
+<li><code>help</code>: <em>Displays this command list.</em></li>
+<li><code>version</code>: <em>Displays server version info.</em></li>
+<li><code>exit</code>: <em>Exit the server application.</em></li>
+<li><code>stop</code>: <em>Stop hosting the server.</em></li>
+<li><code>host [mapname] [mode]</code>: <em>Open the server. Will default to survival and a random map if not specified.</em></li>
+<li><code>maps</code>: <em>Display all available maps.</em></li>
+<li><code>reloadmaps</code>: <em>Reload all maps from disk.</em></li>
+<li><code>status</code>: <em>Display server status.</em></li>
+<li><code>mods</code>: <em>Display all loaded mods.</em></li>
+<li><code>mod &lt;name...&gt;</code>: <em>Display information about a loaded plugin.</em></li>
+<li><code>js &lt;script...&gt;</code>: <em>Run arbitrary Javascript.</em></li>
+<li><code>say &lt;message...&gt;</code>: <em>Send a message to all players.</em></li>
+<li><code>pause &lt;on/off&gt;</code>: <em>Pause or unpause the game.</em></li>
+<li><code>rules [remove/add] [name] [value...]</code>: <em>List, remove or add global rules. These will apply regardless of map.</em></li>
+<li><code>fillitems [team]</code>: <em>Fill the core with items.</em></li>
+<li><code>playerlimit [off/somenumber]</code>: <em>Set the server player limit.</em></li>
+<li><code>config [name] [value...]</code>: <em>Configure server settings.</em></li>
+<li><code>subnet-ban [add/remove] [address]</code>: <em>Ban a subnet. This simply rejects all connections with IPs starting with some string.</em></li>
+<li><code>whitelisted</code>: <em>List the entire whitelist.</em></li>
+<li><code>whitelist-add &lt;ID&gt;</code>: <em>Add a player to the whitelist by ID.</em></li>
+<li><code>whitelist-remove &lt;ID&gt;</code>: <em>Remove a player to the whitelist by ID.</em></li>
+<li><code>shuffle [none/all/custom/builtin]</code>: <em>Set map shuffling mode.</em></li>
+<li><code>nextmap &lt;mapname...&gt;</code>: <em>Set the next map to be played after a game-over. Overrides shuffling.</em></li>
+<li><code>kick &lt;username...&gt;</code>: <em>Kick a person by name.</em></li>
+<li><code>ban &lt;type-id/name/ip&gt; &lt;username/IP/ID...&gt;</code>: <em>Ban a person.</em></li>
+<li><code>bans</code>: <em>List all banned IPs and IDs.</em></li>
+<li><code>unban &lt;ip/ID&gt;</code>: <em>Completely unban a person by IP or ID.</em></li>
+<li><code>pardon &lt;ID&gt;</code>: <em>Pardons a votekicked player by ID and allows them to join again.</em></li>
+<li><code>admin &lt;add/remove&gt; &lt;username/ID...&gt;</code>: <em>Make an online user admin</em></li>
+<li><code>admins</code>: <em>List all admins.</em></li>
+<li><code>players</code>: <em>List all players currently in game.</em></li>
+<li><code>runwave</code>: <em>Trigger the next wave.</em></li>
+<li><code>load &lt;slot&gt;</code>: <em>Load a save from a slot.</em></li>
+<li><code>save &lt;slot&gt;</code>: <em>Save game state to a slot.</em></li>
+<li><code>saves</code>: <em>List all saves in the save directory.</em></li>
+<li><code>gameover</code>: <em>Force a game over.</em></li>
+<li><code>info &lt;IP/UUID/name...&gt;</code>: <em>Find player info(s). Can optionally check for all names or IPs a player has had.</em></li>
+<li><code>search &lt;name...&gt;</code>: <em>Search players who have used part of a name.</em></li>
+<li><code>gc</code>: <em>Trigger a garbage collection. Testing only.</em></li>
+<li><code>yes</code>: <em>Run the last suggested incorrect command.</em></li>
+</ul>
+<h2 id="dedicated-server-configuration-options">Dedicated Server Configuration Options</h2>
+<ul>
+<li><code>name</code>: <em>The server name as displayed on clients.</em></li>
+<li><code>desc</code>: <em>The server description, displayed under the name. Max 100 characters.</em></li>
+<li><code>port</code>: <em>The port to host on.</em></li>
+<li><code>autoUpdate</code>: <em>Whether to auto-update and exit when a new bleeding-edge update arrives.</em></li>
+<li><code>showConnectMessages</code>: <em>Whether to display connect/disconnect messages.</em></li>
+<li><code>enableVotekick</code>: <em>Whether votekick is enabled.</em></li>
+<li><code>startCommands</code>: <em>Commands run at startup. This should be a comma-separated list.</em></li>
+<li><code>crashReport</code>: <em>Whether to send crash reports.</em></li>
+<li><code>logging</code>: <em>Whether to log everything to files.</em></li>
+<li><code>strict</code>: <em>Whether strict mode is on - corrects positions and prevents duplicate UUIDs.</em></li>
+<li><code>antiSpam</code>: <em>Whether spammers are automatically kicked and rate-limited.</em></li>
+<li><code>interactRateWindow</code>: <em>Block interaction rate limit window, in seconds.</em></li>
+<li><code>interactRateLimit</code>: <em>Block interaction rate limit.</em></li>
+<li><code>interactRateKick</code>: <em>How many times a player must interact inside the window to get kicked.</em></li>
+<li><code>messageRateLimit</code>: <em>Message rate limit in seconds. 0 to disable.</em></li>
+<li><code>messageSpamKick</code>: <em>How many times a player must send a message before the cooldown to get kicked. 0 to disable.</em></li>
+<li><code>socketInput</code>: <em>Allows a local application to control this server through a local TCP socket.</em></li>
+<li><code>socketInputPort</code>: <em>The port for socket input.</em></li>
+<li><code>socketInputAddress</code>: <em>The bind address for socket input.</em></li>
+<li><code>allowCustomClients</code>: <em>Whether custom clients are allowed to connect.</em></li>
+<li><code>whitelist</code>: <em>Whether the whitelist is used.</em></li>
+<li><code>motd</code>: <em>The message displayed to people on connection.</em></li>
+<li><code>autosave</code>: <em>Whether the periodically save the map when playing.</em></li>
+<li><code>autosaveAmount</code>: <em>The maximum amount of autosaves. Older ones get replaced.</em></li>
+<li><code>autosaveSpacing</code>: <em>Spacing between autosaves in seconds.</em></li>
+<li><code>debug</code>: <em>Enable debug logging</em></li>
+</ul>
                 
               
               
