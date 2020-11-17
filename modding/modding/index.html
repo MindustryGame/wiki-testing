@@ -2446,8 +2446,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#modjson" class="md-nav__link">
-    mod.json
+  <a href="#modhjson" class="md-nav__link">
+    mod.hjson
   </a>
   
 </li>
@@ -3034,8 +3034,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#modjson" class="md-nav__link">
-    mod.json
+  <a href="#modhjson" class="md-nav__link">
+    mod.hjson
   </a>
   
 </li>
@@ -3128,7 +3128,7 @@
 <h2 id="directory-structure">Directory Structure</h2>
 <p>Your project directory should look something like this:</p>
 <pre><code>project
-├── mod.json OR mod.hjson
+├── mod.hjson
 ├── content
 │   ├── items
 │   ├── blocks
@@ -3144,7 +3144,7 @@
 └── sprites
 </code></pre>
 <ul>
-<li><a href="#modjson"><code>mod.(hOjson</code></a> (required) metadata file for your mod,</li>
+<li><code>mod.hjson</code> (required) metadata file for your mod,</li>
 <li><code>content/*</code> directories for game <a href="#content">Content</a>,</li>
 <li><code>maps/</code> directory for in-game maps,</li>
 <li><code>bundles/</code> directory for <a href="#bundles">Bundles</a>,</li>
@@ -3159,7 +3159,7 @@
 <li>Linux: <code>~/.local/share/Mindustry/mods/</code></li>
 <li>Steam: <code>steam/steamapps/common/Mindustry/mods/</code></li>
 <li>Windows: <code>%appdata%/Mindustry/mods/</code></li>
-<li>Apple: <code>~/Library/Application Support/Mindustry/mods/</code></li>
+<li>MacOS: <code>~/Library/Application Support/Mindustry/mods/</code></li>
 </ul>
 <p><em>Note that your filenames should be lowercased and hyphen separated:</em></p>
 <ul>
@@ -3191,14 +3191,14 @@ key4: { key1: string
         key2: 0 }
 </code></pre>
 <p>If you don't know any of those words. &#x2013; A serialization language, is simply a language which encodes information for a program, and <em>encode</em> means to translate informantion from one form to another, and in this case, to translate text into Java data structures.</p>
-<h2 id="modjson"><code>mod.json</code></h2>
+<h2 id="modhjson"><code>mod.hjson</code></h2>
 <p>At the root of your project directory, you must have a <code>mod.json</code> which defines the basic metadata for your project. This file can also be (optionally) named <code>mod.hjson</code> to potentially help your text editor pick better syntax highlighting.</p>
-<pre><code>name: Mod Name
-displayName: Mod [red]Name[]
+<pre><code>name: "mod-name"
+displayName: "This Is A Mod"
 author: Yourself
-description: This is a useless description.
+description: "Bbfashbjhcbabfhsbafbhajbf"
 version: "1.0"
-minGameVersion: "105"
+minGameVersion: "114"
 dependencies: [ ]
 hidden: false
 </code></pre>
@@ -3216,7 +3216,7 @@ hidden: false
 <li><code>content/items/</code> for <a href="#item">items</a>, like <code>copper</code> and <code>surge-alloy</code>;</li>
 <li><code>content/blocks/</code> for <a href="#block">blocks</a>, like turrets and floors;</li>
 <li><code>content/liquids/</code> for <a href="#liquid">liquids</a>, like <code>water</code> and <code>slag</code>;</li>
-<li><code>content/units/</code> for flying or ground <a href="#unittype">units</a>, like <code>reaper</code> and <code>dagger</code>;</li>
+<li><code>content/units/</code> for flying or ground <a href="#unittype">units</a>, like <code>eclipse</code> and <code>dagger</code>;</li>
 </ul>
 <p>Note that each one of these subdirectories needs a specific content type. The filenames of these files is important, because the stem name of your path <em>(filename without the extension)</em> is used to reference it.</p>
 <p>Furthermore the files within these <code>content/&lt;content-type&gt;/*</code> directories may be arbitrarly nested into other sub-directories of any name, to help you organize them further, for example:</p>
@@ -3306,11 +3306,7 @@ Sprites are packed into an "atlas" that is very efficient for rendering. The fir
 This removes the <code>&lt;modname&gt;-</code> prefix to their id, which allows them to override sprites from vanilla and even other mods.
 You can also use this to create sprites with nice short names like <code>cat</code> for easy use with scripts, just beware of name collisions with other mods.</p>
 <h2 id="sound">Sound</h2>
-<p>Custom sounds can be added through the modding system by dropping them in the <code>sounds/</code> subdirectory. It doesn't matter where you put them after that. Two formats are needed:</p>
-<ul>
-<li><code>.ogg</code> required for Desktop/Android</li>
-<li><code>.mp3</code> required for iOS</li>
-</ul>
+<p>Custom sounds can be added through the modding system by dropping them in the <code>sounds/</code> subdirectory. It doesn't matter where you put them after that. Two formats are supported: <code>ogg</code> and <code>mp3</code>. Note that <code>mp3</code> files cannot loop seamlessly, so try to use <code>ogg</code> whenever possible.</p>
 <p>Just like any other assets, you reference them by the stem of your filenames, so <code>pewpew.ogg</code> and <code>pewpew.mp3</code> can be referenced with <code>pewpew</code> from a field of type <code>Sound</code>.</p>
 <p>Here's a list of built-in sounds:</p>
 <p><code>flame2</code> <code>laserblast</code> <code>plasmaboom</code> <code>bang</code> <code>plasmadrop</code> <code>conveyor</code> <code>corexplode</code> <code>build</code> <code>wind</code> <code>artillery</code> <code>pulse</code> <code>minebeam</code> <code>tractorbeam</code> <code>combustion</code> <code>swish</code> <code>pew_</code> <code>shootBig</code> <code>shootSnap</code> <code>flame</code> <code>breaks</code> <code>door</code> <code>lasercharge</code> <code>rain</code> <code>steam</code> <code>spark</code> <code>explosionbig</code> <code>click</code> <code>grinding</code> <code>machine</code> <code>hum</code> <code>missile</code> <code>shoot</code> <code>release</code> <code>techloop</code> <code>windhowl</code> <code>railgun</code> <code>smelter</code> <code>shotgun</code> <code>fire</code> <code>wave</code> <code>place</code> <code>respawning</code> <code>lasershoot</code> <code>respawn</code> <code>explosion</code> <code>spray</code> <code>thruster</code> <code>shield</code> <code>buttonClick</code> <code>laserbig</code> <code>cutter</code> <code>noammo</code> <code>beam</code> <code>pew</code> <code>windowHide</code> <code>press</code> <code>unlock</code> <code>message</code> <code>back</code> <code>mud</code> <code>bigshot</code> <code>boom</code> <code>drill</code> <code>laser</code> <code>lasercharge2</code> <code>sap</code> <code>wind2</code> <code>splash</code> <code>none</code></p>
