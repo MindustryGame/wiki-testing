@@ -1,8 +1,13 @@
 # Introduction
 
+//TODO move this
+
+## Latest Game Version: $latestRelease
+
 **Welcome to the official Wiki for [Mindustry](https://github.com/Anuken/Mindustry)!**
 
-This site is still under construction. You can view progress in the GitHub repository for the project, or by reading up in the Discord. However, there is no longer a roadmap.
+//TODO links to trello, github, steam, etc - similar to the readme
+//TODO link to readme for actual building and contribution guidelines - don't put them here
 
 **Contribution is highly encouraged.**
 
@@ -24,16 +29,3 @@ For **iOS**, you can buy it on the [App Store](https://apps.apple.com/us/app/min
 
 If you want the **bleeding edge (BE) builds** that are created for every commit, download them on the [MindustryBuilds GitHub repository.](https://github.com/Anuken/MindustryBuilds/releases) These builds work on all platforms *except for iOS.* 
 
-## For Contributors
-
-If you would like to contribute to the game's source code, the best way to go is to compile the game yourself. To compile it yourself:
-
-1. If you haven't already, install at least JRE and JDK 8. 
-2. Open a terminal in the root directory, then run these commands: 
-    1. For Windows:
-        1. Running: `gradlew desktop:run`
-        2. Building: `gradlew desktop:dist`
-    2. For Linux:
-        1. Running: `./gradlew desktop:run`
-        2. Building: `./gradlew desktop:dist`
-    3. For Server builds, replace `desktop` with `server`. Example: `./gradlew server:run`
