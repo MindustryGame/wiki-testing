@@ -16,7 +16,7 @@ To make mods all you really need is any computer with a text editor.
 Your project directory should look something like this:
 
     project
-    ├── mod.json OR mod.hjson
+    ├── mod.hjson
     ├── content
     │   ├── items
     │   ├── blocks
@@ -31,7 +31,7 @@ Your project directory should look something like this:
     ├── sprites-override
     └── sprites
 
--   [`mod.(hOjson`](#modjson) (required) metadata file for your mod,
+-   `mod.hjson` (required) metadata file for your mod,
 -   `content/*` directories for game [Content](#content),
 -   `maps/` directory for in-game maps,
 -   `bundles/` directory for [Bundles](#bundles),
@@ -46,13 +46,12 @@ Every platform has a different user application data directory, and this is wher
 -   Linux: `~/.local/share/Mindustry/mods/`
 -   Steam: `steam/steamapps/common/Mindustry/mods/`
 -   Windows: `%appdata%/Mindustry/mods/`
--   Apple: `~/Library/Application Support/Mindustry/mods/`
+-   MacOS: `~/Library/Application Support/Mindustry/mods/`
 
 *Note that your filenames should be lowercased and hyphen separated:*
 
 -   correct: `my-custom-block.json`
 -   incorrect: `My Custom Block.json`
-
 
 
 ## Hjson
@@ -85,16 +84,16 @@ If you don't know any of those words. &#x2013; A serialization language, is simp
 
 
 
-## `mod.json`
+## `mod.hjson`
 
 At the root of your project directory, you must have a `mod.json` which defines the basic metadata for your project. This file can also be (optionally) named `mod.hjson` to potentially help your text editor pick better syntax highlighting.
 
-    name: Mod Name
-    displayName: Mod [red]Name[]
+    name: "mod-name"
+    displayName: "This Is A Mod"
     author: Yourself
-    description: This is a useless description.
+    description: "Bbfashbjhcbabfhsbafbhajbf"
     version: "1.0"
-    minGameVersion: "105"
+    minGameVersion: "114"
     dependencies: [ ]
     hidden: false
 
@@ -114,7 +113,7 @@ At the root of your project directory you can have a `content/` directory, this 
 -   `content/items/` for [items](#item), like `copper` and `surge-alloy`;
 -   `content/blocks/` for [blocks](#block), like turrets and floors;
 -   `content/liquids/` for [liquids](#liquid), like `water` and `slag`;
--   `content/units/` for flying or ground [units](#unittype), like `reaper` and `dagger`;
+-   `content/units/` for flying or ground [units](#unittype), like `eclipse` and `dagger`;
 
 Note that each one of these subdirectories needs a specific content type. The filenames of these files is important, because the stem name of your path *(filename without the extension)* is used to reference it.
 
@@ -216,10 +215,7 @@ You can also use this to create sprites with nice short names like `cat` for eas
 
 ## Sound
 
-Custom sounds can be added through the modding system by dropping them in the `sounds/` subdirectory. It doesn't matter where you put them after that. Two formats are needed:
-
--   `.ogg` required for Desktop/Android
--   `.mp3` required for iOS
+Custom sounds can be added through the modding system by dropping them in the `sounds/` subdirectory. It doesn't matter where you put them after that. Two formats are supported: `ogg` and `mp3`. Note that `mp3` files cannot loop seamlessly, so try to use `ogg` whenever possible.
 
 Just like any other assets, you reference them by the stem of your filenames, so `pewpew.ogg` and `pewpew.mp3` can be referenced with `pewpew` from a field of type `Sound`.
 
