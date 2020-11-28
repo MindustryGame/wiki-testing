@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://mindustrygame.github.io/wiki-testing/modding/migrationv6/">
+        <link rel="canonical" href="https://mindustrygame.github.io/wiki-testing/modding/3-scripting/">
       
       
       <link rel="shortcut icon" href="../../images/favicon.png">
@@ -16,7 +16,7 @@
     
     
       
-        <title>6.0 Migration Guide - Mindustry Wiki</title>
+        <title>Scripting - Mindustry Wiki</title>
       
     
     
@@ -63,7 +63,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#60-migration-guide" class="md-skip">
+        <a href="#scripting" class="md-skip">
           Skip to content
         </a>
       
@@ -92,7 +92,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              6.0 Migration Guide
+              Scripting
             
           </span>
         </div>
@@ -2377,8 +2377,20 @@
 
 
   <li class="md-nav__item">
-    <a href="../markup/" class="md-nav__link">
-      Markup
+    <a href="../1-modding/" class="md-nav__link">
+      Modding Introduction
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../2-plugins/" class="md-nav__link">
+      Plugins
     </a>
   </li>
 
@@ -2397,122 +2409,10 @@
       
     
     
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        6.0 Migration Guide
-        <span class="md-nav__icon md-icon"></span>
-      </label>
-    
     <a href="./" class="md-nav__link md-nav__link--active">
-      6.0 Migration Guide
-    </a>
-    
-      
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#general-changes" class="md-nav__link">
-    General Changes
-  </a>
-  
-    <nav class="md-nav" aria-label="General Changes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#minimum-game-version" class="md-nav__link">
-    Minimum Game Version
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#name-changes" class="md-nav__link">
-    Name Changes
-  </a>
-  
-    <nav class="md-nav" aria-label="Name Changes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#mindustrypluginplugin-mindustrymodplugin" class="md-nav__link">
-    mindustry.plugin.Plugin -&gt; mindustry.mod.Plugin
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#array-seq" class="md-nav__link">
-    Array -&gt; Seq
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#removal-of-on-prefix-for-call-methods" class="md-nav__link">
-    Removal of "on" prefix for Call methods
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-    
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="../modding/" class="md-nav__link">
-      Modding Introduction
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="../plugins/" class="md-nav__link">
-      Plugins
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="../scripting/" class="md-nav__link">
       Scripting
     </a>
+    
   </li>
 
         
@@ -2522,7 +2422,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../spriting/" class="md-nav__link">
+    <a href="../4-spriting/" class="md-nav__link">
       Spriting
     </a>
   </li>
@@ -2534,8 +2434,32 @@
 
 
   <li class="md-nav__item">
-    <a href="../types/" class="md-nav__link">
+    <a href="../5-markup/" class="md-nav__link">
+      Markup
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../5-types/" class="md-nav__link">
       Types
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../6-migrationv6/" class="md-nav__link">
+      6.0 Migration Guide
     </a>
   </li>
 
@@ -2983,68 +2907,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#general-changes" class="md-nav__link">
-    General Changes
-  </a>
-  
-    <nav class="md-nav" aria-label="General Changes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#minimum-game-version" class="md-nav__link">
-    Minimum Game Version
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#name-changes" class="md-nav__link">
-    Name Changes
-  </a>
-  
-    <nav class="md-nav" aria-label="Name Changes">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#mindustrypluginplugin-mindustrymodplugin" class="md-nav__link">
-    mindustry.plugin.Plugin -&gt; mindustry.mod.Plugin
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#array-seq" class="md-nav__link">
-    Array -&gt; Seq
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#removal-of-on-prefix-for-call-methods" class="md-nav__link">
-    Removal of "on" prefix for Call methods
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -3055,36 +2917,15 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/MindustryGame/wiki-testing/edit/master/docs/modding/migrationv6.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/MindustryGame/wiki-testing/edit/master/docs/modding/3-scripting.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
                 
-                <h1 id="60-migration-guide">6.0 Migration Guide</h1>
-<p>If you are a plugin or mod developer for 5.0, you may have noticed that your content no longer functions correctly in 6.0. 
-This is due to numerous internal changes and additions, which will be documented here.</p>
-<h2 id="general-changes">General Changes</h2>
-<h3 id="minimum-game-version">Minimum Game Version</h3>
-<p>All mods must now specify <code>minGameVersion</code> with a value of "105" or above to be loaded. This is to ensure that outdated mods do not get loaded.
-Simply add <code>minGameVersion: "113"</code> to your <code>mod.hjson</code> file.</p>
-<h2 id="name-changes">Name Changes</h2>
-<h3 id="mindustrypluginplugin-mindustrymodplugin">mindustry.plugin.Plugin -&gt; mindustry.mod.Plugin</h3>
-<p>The <code>Plugin</code> class has been moved into the <code>mod</code> package, as the old package only contained a single class anyway.</p>
-<h3 id="array-seq">Array<T> -&gt; Seq<T></h3>
-<p>The <code>arc.struct.Array</code> has been renamed to <code>arc.struct.Seq</code>, which is a short form of <code>Sequence</code>.  </p>
-<p>Why?</p>
-<ul>
-<li>It's more accurate. The data structure is not an array, it's a list like <code>ArrayList</code>.</li>
-<li>It doesn't conflict with other classes named <code>Array</code>, such as those in Java's reflection API or Javascript's array.</li>
-<li>It's shorter, which is nice.</li>
-</ul>
-<h3 id="removal-of-on-prefix-for-call-methods">Removal of "on" prefix for Call methods</h3>
-<p>All remote invocation methods in <code>Call</code> have had their "on" prefix removed. For example:</p>
-<ul>
-<li><code>onSnapshot</code> -&gt; <code>snapshot</code></li>
-<li><code>onSetRules</code> -&gt; <code>setRules</code></li>
-<li><code>onLabel</code> -&gt; <code>label</code></li>
-</ul>
+                <h1 id="scripting">Scripting</h1>
+<p>Scripting in Mindustry is done with the <a href="https://github.com/mozilla/rhino">Rhino JavaScript</a> runtime. Scripts may be added to your mod by putting them in <code>scripts/</code>. Using the built-in <code>extendContent</code> function, you can extend existing Java types from JS, using <em>allowed classes</em> which are injected into your namespace.</p>
+<p>For example:</p>
+<p>//TODO</p>
                 
               
               
@@ -3103,7 +2944,7 @@ Simply add <code>minGameVersion: "113"</code> to your <code>mod.hjson</code> fil
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../markup/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../2-plugins/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -3112,19 +2953,19 @@ Simply add <code>minGameVersion: "113"</code> to your <code>mod.hjson</code> fil
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Markup
+                Plugins
               </div>
             </div>
           </a>
         
         
-          <a href="../modding/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../4-spriting/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                Modding Introduction
+                Spriting
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">

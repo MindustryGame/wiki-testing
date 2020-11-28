@@ -8,7 +8,7 @@
       
       
       
-        <link rel="canonical" href="https://mindustrygame.github.io/wiki-testing/modding/spriting/">
+        <link rel="canonical" href="https://mindustrygame.github.io/wiki-testing/modding/5-markup/">
       
       
       <link rel="shortcut icon" href="../../images/favicon.png">
@@ -16,7 +16,7 @@
     
     
       
-        <title>Spriting - Mindustry Wiki</title>
+        <title>Markup - Mindustry Wiki</title>
       
     
     
@@ -63,7 +63,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#spriting" class="md-skip">
+        <a href="#markup" class="md-skip">
           Skip to content
         </a>
       
@@ -92,7 +92,7 @@
           </span>
           <span class="md-header-nav__topic md-ellipsis">
             
-              Spriting
+              Markup
             
           </span>
         </div>
@@ -2377,31 +2377,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../markup/" class="md-nav__link">
-      Markup
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="../migrationv6/" class="md-nav__link">
-      6.0 Migration Guide
-    </a>
-  </li>
-
-        
-          
-          
-          
-
-
-  <li class="md-nav__item">
-    <a href="../modding/" class="md-nav__link">
+    <a href="../1-modding/" class="md-nav__link">
       Modding Introduction
     </a>
   </li>
@@ -2413,7 +2389,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../plugins/" class="md-nav__link">
+    <a href="../2-plugins/" class="md-nav__link">
       Plugins
     </a>
   </li>
@@ -2425,8 +2401,20 @@
 
 
   <li class="md-nav__item">
-    <a href="../scripting/" class="md-nav__link">
+    <a href="../3-scripting/" class="md-nav__link">
       Scripting
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../4-spriting/" class="md-nav__link">
+      Spriting
     </a>
   </li>
 
@@ -2445,9 +2433,38 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Markup
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
     <a href="./" class="md-nav__link md-nav__link--active">
-      Spriting
+      Markup
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#built-in-colors" class="md-nav__link">
+    Built-in Colors
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -2458,8 +2475,20 @@
 
 
   <li class="md-nav__item">
-    <a href="../types/" class="md-nav__link">
+    <a href="../5-types/" class="md-nav__link">
       Types
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../6-migrationv6/" class="md-nav__link">
+      6.0 Migration Guide
     </a>
   </li>
 
@@ -2907,6 +2936,21 @@
     
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#built-in-colors" class="md-nav__link">
+    Built-in Colors
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -2917,13 +2961,73 @@
             <article class="md-content__inner md-typeset">
               
                 
-                  <a href="https://github.com/MindustryGame/wiki-testing/edit/master/docs/modding/spriting.md" title="Edit this page" class="md-content__button md-icon">
+                  <a href="https://github.com/MindustryGame/wiki-testing/edit/master/docs/modding/5-markup.md" title="Edit this page" class="md-content__button md-icon">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
                   </a>
                 
                 
-                <h1 id="spriting">Spriting</h1>
-<p>//TODO</p>
+                <h1 id="markup">Markup</h1>
+<p>The text renderer uses a simple makeup language for coloring text.</p>
+<ul>
+<li><code>[name]</code> sets the color by name, there's a few <a href="#built-in-colors">built-in colors</a>;</li>
+<li><code>[#rrggbb]</code> / <code>[#rrggbbaa]</code> sets the color by hex value, with each value being anything from <code>00</code> to <code>ff</code>:<ul>
+<li><code>rr</code> is the red value,</li>
+<li><code>gg</code> is the green value,</li>
+<li><code>bb</code> is the blue value,</li>
+<li><code>aa</code> is the alpha value;</li>
+</ul>
+</li>
+<li><code>[]</code> sets the color back to the previous color;</li>
+<li><code>[[</code> escapes the left bracket, so you can write <code>[[red]</code> to write and it'll render as <code>[red]</code>.</li>
+</ul>
+<p>Notes:</p>
+<ul>
+<li>errors/unknown colors will be silently ignored.</li>
+</ul>
+<p>Example:</p>
+<pre><code>[red]red
+[#ff0000]full-red
+[#ff000066]half-red
+[#ff000033]half-half-red
+[#00ff00]green
+[]half-half-red
+</code></pre>
+<h3 id="built-in-colors">Built-in Colors</h3>
+<pre><code>[clear]clear
+[black]black
+[white]white
+[lightgray]lightgray
+[gray]gray
+[darkgray]darkgray
+[blue]blue
+[navy]navy
+[royal]royal
+[slate]slate
+[sky]sky
+[cyan]cyan
+[teal]teal
+[green]green
+[acid]acid
+[lime]lime
+[forest]forest
+[olive]olive
+[yellow]yellow
+[gold]gold
+[goldenrod]goldenrod
+[orange]orange
+[brown]brown
+[tan]tan
+[brick]brick
+[red]red
+[scarlet]scarlet
+[coral]coral
+[salmon]salmon
+[pink]pink
+[magenta]magenta
+[purple]purple
+[violet]violet
+[maroon]maroon
+</code></pre>
                 
               
               
@@ -2942,7 +3046,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../scripting/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../4-spriting/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -2951,13 +3055,13 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Scripting
+                Spriting
               </div>
             </div>
           </a>
         
         
-          <a href="../types/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../5-types/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
