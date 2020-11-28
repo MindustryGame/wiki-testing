@@ -5,7 +5,7 @@ Mindustry mods are simply directories of assets. There are many ways to use the 
 
 You could just resprite existing game content, you can create new game content with the simpler Json API (which is the main focus of this documentation), you can add custom sounds (or reuse existing ones). It's possible to add maps to campaign mode, and add scripts to program special behavior into your mod, like custom effects. 
 
-Sharing your mod is as simple as giving someone your project directory; mods are also cross platfrom to any platform that supports them. Realistically speaking you'll want to use [GitHub](#github), you should also checkout the Example 5.0 Mod repository on GitHub: <https://github.com/Anuken/ExampleMod>
+Sharing your mod is as simple as giving someone your project directory; mods are also cross platfrom to any platform that supports them. You'll want to use [GitHub](#github) (*or a similar service*) for hosting your source code and making .
 
 To make mods all you really need is any computer with a text editor.
 
