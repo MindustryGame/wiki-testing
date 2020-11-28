@@ -16,17 +16,22 @@ If you find anything in the game that is not listed in these articles and would 
 
 ## Downloads
 
+//TODO make sure this works and does not display like a mess
+
 <style>
 
-td {
-	height: 50px !important;
-	width: 100px !important;
+.store{
+	height: 50px;
+	width: 100px;
 }
 
 </style>
 
-//TODO make sure this works and does not display like a mess
+<iframe src="https://store.steampowered.com/widget/1127400/" frameborder="0" width="646" height="190"></iframe> 
+<a href="https://anuke.itch.io/mindustry"><img class="store" src="https://static.itch.io/images/badge.svg"></img><a>
+<a href="https://play.google.com/store/apps/details?id=io.anuke.mindustry"><img class="store" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png"></img><a>
+<a href="https://f-droid.org/packages/io.anuke.mindustry"><img class="store" src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"></img><a>
+<a href="https://flathub.org/apps/details/com.github.Anuken.Mindustry"><img class="store" src="https://flathub.org/assets/badges/flathub-badge-en.svg"></img><a>
 
-| [![](https://static.itch.io/images/badge.svg)](https://anuke.itch.io/mindustry)    |    [![](https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png)](https://play.google.com/store/apps/details?id=io.anuke.mindustry)   |    [![](https://fdroid.gitlab.io/artwork/badge/get-it-on.png)](https://f-droid.org/packages/io.anuke.mindustry)	| [![](https://flathub.org/assets/badges/flathub-badge-en.svg)](https://flathub.org/apps/details/com.github.Anuken.Mindustry)  | <iframe src="https://store.steampowered.com/widget/1127400/" frameborder="0" width="646" height="190"></iframe> | <a href="https://apps.apple.com/us/app/mindustry/id1385258906?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 500px; height: 166px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1528416000&h=43142217e0fc99956f864865b9d8bc56" alt="Download on the App Store" style="border-radius: 13px; width: 500px; height: 166px;"></a>
-|---	|---	|---	|---	|---	|---	|
+<a href="https://apps.apple.com/us/app/mindustry/id1385258906?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px;"><img class="store" src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1528416000&h=43142217e0fc99956f864865b9d8bc56" alt="Download on the App Store" style="border-radius: 13px;"></a>
 
