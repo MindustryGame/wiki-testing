@@ -1,6 +1,6 @@
 # Welcome to the Mindustry Wiki
 
-## Latest Game Version: $latestRelease
+## Latest Game Version: [$latestRelease]($latestReleaseLink)
 
 ## Contributing
 
